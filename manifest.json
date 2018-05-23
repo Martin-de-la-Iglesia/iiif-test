@@ -116,7 +116,7 @@
   ],
   "description": "Includes bibliographical references (p. xv-xvi) and indexes.",
   "thumbnail": {
-    "@id": "https://libimages.princeton.edu/loris/bluemountain/astore/periodicals/bmtnaae/issues/1918/12_01/delivery/bmtnaae_1918-12_01_0001.jp2/full/!200,200/0/default.jpg",
+    "@id": "https://stacks.stanford.edu/image/iiif/wh234bz9013%2Fwh234bz9013_05_0001/full/!400,400/0/default.jpg",
     "@type": "dctypes:Image",
     "format": "image/jpeg",
     "service": {
@@ -133,18 +133,18 @@
       "viewingDirection": "left-to-right",
       "canvases": [
         {
-          "@id": "https://purl.stanford.edu/qm670kv1873/iiif/canvas/image_1",
+          "@id": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/0001",
           "@type": "sc:Canvas",
           "label": "image",
           "height": 7647,
           "width": 8812,
           "images": [
             {
-              "@id": "https://purl.stanford.edu/qm670kv1873/iiif/annotation/image_1",
+              "@id": "https://purl.stanford.edu/wh234bz9013/iiif/annotation/0001",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://libimages.princeton.edu/loris/bluemountain/astore/periodicals/bmtnaae/issues/1918/12_01/delivery/bmtnaae_1918-12_01_0001.jp2/full/!200,200/0/default.jpg",
+                "@id": "https://stacks.stanford.edu/image/iiif/wh234bz9013%2Fwh234bz9013_05_0001/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 7647,
@@ -155,7 +155,7 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://purl.stanford.edu/qm670kv1873/iiif/canvas/image_1"
+              "on": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/0001"
             }
           ]
         }
