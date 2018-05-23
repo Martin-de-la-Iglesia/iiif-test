@@ -133,7 +133,7 @@
       "viewingDirection": "left-to-right",
       "canvases": [
         {
-          "@id": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/0001",
+          "@id": "https://purl.stanford.edu/qm670kv1873/iiif/canvas/image_1",
           "@type": "sc:Canvas",
           "label": "image",
           "height": 7647,
@@ -155,7 +155,7 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/0001"
+              "on": "https://purl.stanford.edu/qm670kv1873/iiif/canvas/image_1"
             }
           ]
         }
