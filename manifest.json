@@ -146,7 +146,12 @@
               "resource": {
                 "@id": "https://stacks.stanford.edu/image/iiif/wh234bz9013%2Fwh234bz9013_05_0001/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
-                "format": "image/jpeg"               
+                "format": "image/jpeg",
+                 "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/wh234bz9013%2Fwh234bz9013_05_0001",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
               },
               "on": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/0001"
             }
