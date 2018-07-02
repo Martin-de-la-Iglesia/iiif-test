@@ -3,11 +3,7 @@
   "@id": "https://purl.stanford.edu/wh234bz9013/iiif/manifest",
   "@type": "sc:Manifest",
   "label": "TEST2",
-  "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.", 
-  "seeAlso": {
-    "@id": "https://purl.stanford.edu/wh234bz9013.mods",
-    "format": "application/mods+xml"
-  },
+  "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",   
   "metadata": [
     {
       "label": "Available Online",
@@ -45,18 +41,7 @@
       "label": "Description",
       "value": "Includes bibliographical references (p. xv-xvi) and indexes."
     }
-  ],
-  "description": "Includes bibliographical references (p. xv-xvi) and indexes.",
-  "thumbnail": {
-    "@id": "https://stacks.stanford.edu/image/iiif/wh234bz9013%2Fwh234bz9013_05_0001/full/!400,400/0/default.jpg",
-    "@type": "dctypes:Image",
-    "format": "image/jpeg",
-    "service": {
-      "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": "https://stacks.stanford.edu/image/iiif/wh234bz9013%2Fwh234bz9013_05_0001",
-      "profile": "http://iiif.io/api/image/2/level2.json"
-    }
-  },
+  ],   
   "sequences": [
     {
       "@id": "https://purl.stanford.edu/wh234bz9013#sequence-1",
