@@ -552,6 +552,13 @@
                      }
                   }
                ],
+               "otherContent": [
+                 {
+                   "@id": "",
+                   "@type": "sc:Annotation",
+                   "label": "Testannotation"
+                 }
+               ],
                "label" : "1r",
                "otherContent" : [
                   {
