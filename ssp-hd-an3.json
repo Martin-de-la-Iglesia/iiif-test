@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/ssp-hd-an3.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "on": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0015.json#xywh=0,0,6629,7690",
+      "resource": {
+        "@id": "https://fromthepage.com/iglesia/test-collection-54f2d18b-daa1-493d-8854-91a23350d5bd/bodleian-library-ms-douce-185/annotation/25072055/html/transcription",
+        "@type": "cnt:ContentAsText",
+        "format": "text/html",
+        "chars": "<p>Francis Douce</p>"
+      }
+    }
+  ]
+}
