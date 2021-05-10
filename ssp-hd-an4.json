@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/ssp-hd-an.4json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/ssp-hd-an4.json/1",
+     "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {       
+        "@type": "cnt:ContentAsText",
+        "format": "text/html",
+        "chars": "<h3>TEST</h3></p>"
+      },
+      "on": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0015.json#xywh=126,450,132,162"
+    }
+  ]
+}
