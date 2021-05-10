@@ -564,6 +564,11 @@
                    "label": "Uebersetzung"
                  },
                   {
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/info.json",
+                   "@type": "sc:AnnotationList",
+                   "label": "Info"
+                 },
+                  {
                    "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/ssp-hd-an.json",
                    "@type": "sc:AnnotationList",
                    "label": "Schlagwoerter"
