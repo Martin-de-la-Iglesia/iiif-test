@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/uebersetzung.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/uebersetzung.json/1",
+     "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {       
+        "@type": "cnt:ContentAsText",
+        "format": "text/html",
+        "chars": "<p>[&Uuml;bersetzung:]</p><p>alle sechs Wochen aufzusuchen aufgrund ihres Grundeigentums. Aus diesen soll man den Fronboten wählen, wenn der Fronbote stirbt. Die Landsassen, die kein Grundeigentum im Land haben, die sollen ihres Gaugrafen Ding alle sechs Wochen aufsuchen. Darunter soll ein jeder Vogt dingen und jeder Bauermeister soll das Gerüfte und eines Menschen blutende Wunden rügen, die ihm ein anderer zugefügt hat; und das Schwert, das in der Absicht gezückt worden ist, einem anderen Mann zu schaden; und diejenigen, die nicht zum Ding erscheinen, die aber zum Kommen verpflichtet sind; und jedes Verbrechen, das an das Leben oder an die Hand geht. Anders darf er es nicht rügen, falls deswegen vor Gericht noch nicht Klage erhoben ist.</p><h3>Kapitel III.</h3><p>Origines weissagte vorzeiten, daß es sechs Weltalter geben werde, das Weltalter zu tausend Jahren gerechnet, in dem siebten sollte die Welt zugrunde gehen. Nun ist uns aus der Heiligen Schrift bekannt, daß mit Adam das erste Weltalter begann, mit Noah das zweite, mit Abraham das dritte, mit Moses das vierte, mit David das fünfte, mit Gottes Geburt das sechste. In dem siebten befinden wir uns jetzt, ohne Gewißheit über seine Dauer. Auf die selbe Weise sind die Heerschilde angeordnet, von denen der König den ersten hat, die Bischöfe und Äbte und die Äbtissinnen den zweiten, die Laienfürsten den dritten, weil sie der Bischöfe Lehensleute geworden sind, die freien Herren den vierten, die schöffenbaren Leute und die Lehensleute der freien Herren den fünften, ihre Lehensleute sodann den sechsten. So wie die Christenheit im siebten Weltalter keine Gewißheit hat, wie lange es (das Weltalter) bestehen wird, so weiß man auch von dem siebten Schild nicht, ob er Lehenrecht oder Heerschildrecht haben</p>"
+      },
+      "on": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0015.json"
+    }
+  ]
+}
