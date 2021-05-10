@@ -554,12 +554,12 @@
                ],
                "otherContent": [        
                   {
-                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/ssp-hd-an4.json",
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription.json",
                    "@type": "sc:AnnotationList",
                    "label": "Transkription"
                  },
                    {
-                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/ssp-hd-an3.json",
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/uebersetzung.json",
                    "@type": "sc:AnnotationList",
                    "label": "Übersetzung"
                  },
@@ -569,7 +569,7 @@
                    "label": "Info"
                  },
                   {
-                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/ssp-hd-an.json",
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/sw.json",
                    "@type": "sc:AnnotationList",
                    "label": "Schlagwörter"
                  }
