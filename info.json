@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/info.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/info.json/1",
+     "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {       
+        "@type": "cnt:ContentAsText",
+        "format": "text/html",
+        "chars": "<p><em>Artikel:</em> Erstes Buch Landrecht, Artikel 2 und 3.</p><p><em>Inhaltsübersicht:</em> Die Landsassen suchen das Gaugrafending auf. Die 7 Weltalter. Heerschildordnung.</p><p><em>Rechtsgebiete:</em> Bibelgeschichte, Prozeßrecht und Standesrecht.</p>"
+      },
+      "on": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0015.json"
+    }
+  ]
+}
