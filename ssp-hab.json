@@ -1,0 +1,5058 @@
+{
+    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/manifest",
+    "@type": "sc:Manifest",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "label": "Herzog August Bibliothek Wolfenb\u00fcttel, Cod. Guelf. 3.1 Aug. 2°",
+    "viewingHint": "paged",
+    "attribution": "Herzog August Bibliothek Wolfenb\u00fcttel, CC BY SA 3.0 Deutschland",
+    "license": "http://diglib.hab.de?link=012",
+    "metadata": [
+        {
+            "label": [               
+                {
+                    "@language": "de",
+                    "@value": "Katalogeintrag"
+                }
+            ],
+            "value": "<a href=\"https://diglib.hab.de/?db=mss&list=ms&id=3-1-aug-2f\" target=\"_blank\">https://diglib.hab.de/?db=mss&list=ms&id=3-1-aug-2f</a>"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Titel"
+                }
+            ],
+            "value": "Der Sachsenspiegel und das sächsische Lehnrecht"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Signatur"
+                }
+            ],
+            "value": "Cod. Guelf. 3.1 Aug. 2°"
+        },        
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Datierung"
+                }
+            ],
+            "value": "14. Jh."
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Material"
+                }
+            ],
+            "value": "Pergament"
+        },               
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Besitzende Einrichtung"
+                }
+            ],
+            "value": "Herzog August Bibliothek Wolfenb\u00fcttel"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Bearbeitung der digitalen Edition"
+                }
+            ],
+            "value": [
+               
+                {
+                    "@language": "de",
+                    "@value": "Ass. iur. Björn Dittrich (Halle/Saale)"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Wissenschaftliche Beratung"
+                }
+            ],
+            "value": [
+               
+                {
+                    "@language": "de",
+                    "@value": "Prof. Dr. Heiner Lück (Halle/Saale)"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Transkription und Übersetzung"
+                }
+            ],
+            "value": "Prof. Dr. Ruth Schmidt-Wiegand (Münster)"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Datensatz angelegt"
+                }
+            ],
+            "value": "2021-07"
+        }
+    ],
+    "sequences": [
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00001",
+            "@type": "sc:Canvas",
+            "label": "VD",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00001",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00001/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00001",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00002",
+            "@type": "sc:Canvas",
+            "label": "VS",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00002",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00002/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00002",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00003",
+            "@type": "sc:Canvas",
+            "label": "Ir",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00003",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00003/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00003",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00004",
+            "@type": "sc:Canvas",
+            "label": "Iv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00004",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00004/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00004",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00005",
+            "@type": "sc:Canvas",
+            "label": "IIr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00005",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00005/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00005",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00006",
+            "@type": "sc:Canvas",
+            "label": "IIv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00006",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00006/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00006",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00007",
+            "@type": "sc:Canvas",
+            "label": "IIIr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00007",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00007/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00007",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00008",
+            "@type": "sc:Canvas",
+            "label": "IIIv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00008",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00008/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00008",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00009",
+            "@type": "sc:Canvas",
+            "label": "IVr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00009",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00009/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00009",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00010",
+            "@type": "sc:Canvas",
+            "label": "IVv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00010",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00010/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00010",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00011",
+            "@type": "sc:Canvas",
+            "label": "Vr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00011",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00011/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00011",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00012",
+            "@type": "sc:Canvas",
+            "label": "Vv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00012",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00012/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00012",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00013",
+            "@type": "sc:Canvas",
+            "label": "VIr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00013",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00013/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00013",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00014",
+            "@type": "sc:Canvas",
+            "label": "VIv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00014",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00014/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00014",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00015",
+            "@type": "sc:Canvas",
+            "label": "VIIr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00015",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00015/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00015",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00016",
+            "@type": "sc:Canvas",
+            "label": "VIIv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00016",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00016/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00016",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00017",
+            "@type": "sc:Canvas",
+            "label": "VIIIr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00017",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00017/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00017",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00018",
+            "@type": "sc:Canvas",
+            "label": "VIIIv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00018",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00018/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00018",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00019",
+            "@type": "sc:Canvas",
+            "label": "IXr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00019",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00019/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00019",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00020",
+            "@type": "sc:Canvas",
+            "label": "IXv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00020",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00020/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00020",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00021",
+            "@type": "sc:Canvas",
+            "label": "Xr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00021",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00021/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00021",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00022",
+            "@type": "sc:Canvas",
+            "label": "Xv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00022",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00022/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00022",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00023",
+            "@type": "sc:Canvas",
+            "label": "XIr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00023",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00023/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00023",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00024",
+            "@type": "sc:Canvas",
+            "label": "XIv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00024",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00024/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00024",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00025",
+            "@type": "sc:Canvas",
+            "label": "XIIr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00025",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00025/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00025",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00026",
+            "@type": "sc:Canvas",
+            "label": "XIIv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00026",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00026/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00026",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00027",
+            "@type": "sc:Canvas",
+            "label": "XIIIr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00027",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00027/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00027",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00028",
+            "@type": "sc:Canvas",
+            "label": "XIIIv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00028",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00028/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00028",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00029",
+            "@type": "sc:Canvas",
+            "label": "XIVr",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00029",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00029/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00029",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00030",
+            "@type": "sc:Canvas",
+            "label": "XIVv",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00030",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00030/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00030",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031",
+            "@type": "sc:Canvas",
+            "label": "1r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00031/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00031",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032",
+            "@type": "sc:Canvas",
+            "label": "1v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00032/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00032",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00033",
+            "@type": "sc:Canvas",
+            "label": "2r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00033",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00033/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00033",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034",
+            "@type": "sc:Canvas",
+            "label": "2v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00034/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00034",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035",
+            "@type": "sc:Canvas",
+            "label": "3r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00035/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00035",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036",
+            "@type": "sc:Canvas",
+            "label": "3v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00036/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00036",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037",
+            "@type": "sc:Canvas",
+            "label": "4r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00037/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00037",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038",
+            "@type": "sc:Canvas",
+            "label": "4v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00038/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00038",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00039",
+            "@type": "sc:Canvas",
+            "label": "5r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00039",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00039/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00039",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00040",
+            "@type": "sc:Canvas",
+            "label": "5v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00040",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00040/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00040",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00041",
+            "@type": "sc:Canvas",
+            "label": "6r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00041",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00041/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00041",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00042",
+            "@type": "sc:Canvas",
+            "label": "6v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00042",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00042/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00042",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00043",
+            "@type": "sc:Canvas",
+            "label": "7r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00043",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00043/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00043",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00044",
+            "@type": "sc:Canvas",
+            "label": "7v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00044",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00044/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00044",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00045",
+            "@type": "sc:Canvas",
+            "label": "8r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00045",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00045/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00045",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00046",
+            "@type": "sc:Canvas",
+            "label": "8v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00046",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00046/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00046",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00047",
+            "@type": "sc:Canvas",
+            "label": "9r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00047",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00047/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00047",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00048",
+            "@type": "sc:Canvas",
+            "label": "9v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00048",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00048/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00048",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00049",
+            "@type": "sc:Canvas",
+            "label": "10r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00049",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00049/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00049",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00050",
+            "@type": "sc:Canvas",
+            "label": "10v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00050",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00050/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00050",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051",
+            "@type": "sc:Canvas",
+            "label": "11r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00051/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00051",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00052",
+            "@type": "sc:Canvas",
+            "label": "11v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00052",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00052/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00052",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00053",
+            "@type": "sc:Canvas",
+            "label": "12r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00053",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00053/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00053",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00054",
+            "@type": "sc:Canvas",
+            "label": "12v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00054",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00054/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00054",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00055",
+            "@type": "sc:Canvas",
+            "label": "13r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00055",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00055/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00055",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00056",
+            "@type": "sc:Canvas",
+            "label": "13v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00056",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00056/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00056",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00057",
+            "@type": "sc:Canvas",
+            "label": "14r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00057",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00057/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00057",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00058",
+            "@type": "sc:Canvas",
+            "label": "14v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00058",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00058/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00058",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00059",
+            "@type": "sc:Canvas",
+            "label": "15r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00059",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00059/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00059",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00060",
+            "@type": "sc:Canvas",
+            "label": "15v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00060",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00060/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00060",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00061",
+            "@type": "sc:Canvas",
+            "label": "16r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00061",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00061/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00061",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00062",
+            "@type": "sc:Canvas",
+            "label": "16v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00062",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00062/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00062",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00063",
+            "@type": "sc:Canvas",
+            "label": "17r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00063",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00063/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00063",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00064",
+            "@type": "sc:Canvas",
+            "label": "17v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00064",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00064/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00064",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00065",
+            "@type": "sc:Canvas",
+            "label": "18r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00065",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00065/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00065",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00066",
+            "@type": "sc:Canvas",
+            "label": "18v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00066",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00066/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00066",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00067",
+            "@type": "sc:Canvas",
+            "label": "19r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00067",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00067/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00067",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00068",
+            "@type": "sc:Canvas",
+            "label": "19v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00068",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00068/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00068",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00069",
+            "@type": "sc:Canvas",
+            "label": "20r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00069",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00069/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00069",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00070",
+            "@type": "sc:Canvas",
+            "label": "20v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00070",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00070/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00070",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00071",
+            "@type": "sc:Canvas",
+            "label": "21r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00071",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00071/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00071",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072",
+            "@type": "sc:Canvas",
+            "label": "21v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00072/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00072",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00073",
+            "@type": "sc:Canvas",
+            "label": "22r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00073",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00073/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00073",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00074",
+            "@type": "sc:Canvas",
+            "label": "22v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00074",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00074/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00074",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00075",
+            "@type": "sc:Canvas",
+            "label": "23r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00075",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00075/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00075",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00076",
+            "@type": "sc:Canvas",
+            "label": "23v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00076",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00076/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00076",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00077",
+            "@type": "sc:Canvas",
+            "label": "24r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00077",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00077/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00077",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00078",
+            "@type": "sc:Canvas",
+            "label": "24v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00078",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00078/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00078",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00079",
+            "@type": "sc:Canvas",
+            "label": "25r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00079",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00079/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00079",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00080",
+            "@type": "sc:Canvas",
+            "label": "25v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00080",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00080/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00080",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00081",
+            "@type": "sc:Canvas",
+            "label": "26r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00081",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00081/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00081",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00082",
+            "@type": "sc:Canvas",
+            "label": "26v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00082",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00082/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00082",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00083",
+            "@type": "sc:Canvas",
+            "label": "27r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00083",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00083/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00083",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00084",
+            "@type": "sc:Canvas",
+            "label": "27v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00084",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00084/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00084",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00085",
+            "@type": "sc:Canvas",
+            "label": "28r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00085",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00085/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00085",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00086",
+            "@type": "sc:Canvas",
+            "label": "28v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00086",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00086/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00086",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00087",
+            "@type": "sc:Canvas",
+            "label": "29r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00087",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00087/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00087",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088",
+            "@type": "sc:Canvas",
+            "label": "29v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00088/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00088",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00089",
+            "@type": "sc:Canvas",
+            "label": "30r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00089",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00089/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00089",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00090",
+            "@type": "sc:Canvas",
+            "label": "30v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00090",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00090/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00090",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091",
+            "@type": "sc:Canvas",
+            "label": "31r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00091/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00091",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00092",
+            "@type": "sc:Canvas",
+            "label": "31v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00092",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00092/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00092",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00093",
+            "@type": "sc:Canvas",
+            "label": "32r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00093",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00093/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00093",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00094",
+            "@type": "sc:Canvas",
+            "label": "32v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00094",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00094/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00094",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00095",
+            "@type": "sc:Canvas",
+            "label": "33r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00095",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00095/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00095",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00096",
+            "@type": "sc:Canvas",
+            "label": "33v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00096",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00096/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00096",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00097",
+            "@type": "sc:Canvas",
+            "label": "34r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00097",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00097/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00097",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00098",
+            "@type": "sc:Canvas",
+            "label": "34v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00098",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00098/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00098",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00099",
+            "@type": "sc:Canvas",
+            "label": "35r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00099",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00099/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00099",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100",
+            "@type": "sc:Canvas",
+            "label": "35v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00100/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00100",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00101",
+            "@type": "sc:Canvas",
+            "label": "36r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00101",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00101/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00101",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00102",
+            "@type": "sc:Canvas",
+            "label": "36v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00102",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00102/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00102",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00103",
+            "@type": "sc:Canvas",
+            "label": "37r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00103",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00103/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00103",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00104",
+            "@type": "sc:Canvas",
+            "label": "37v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00104",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00104/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00104",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00105",
+            "@type": "sc:Canvas",
+            "label": "38r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00105",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00105/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00105",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106",
+            "@type": "sc:Canvas",
+            "label": "38v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00106/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00106",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00107",
+            "@type": "sc:Canvas",
+            "label": "39r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00107",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00107/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00107",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00108",
+            "@type": "sc:Canvas",
+            "label": "39v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00108",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00108/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00108",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00109",
+            "@type": "sc:Canvas",
+            "label": "40r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00109",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00109/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00109",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110",
+            "@type": "sc:Canvas",
+            "label": "40v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00110/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00110",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00111",
+            "@type": "sc:Canvas",
+            "label": "41r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00111",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00111/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00111",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112",
+            "@type": "sc:Canvas",
+            "label": "41v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00112/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00112",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00113",
+            "@type": "sc:Canvas",
+            "label": "42r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00113",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00113/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00113",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00114",
+            "@type": "sc:Canvas",
+            "label": "42v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00114",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00114/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00114",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00115",
+            "@type": "sc:Canvas",
+            "label": "43r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00115",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00115/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00115",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00116",
+            "@type": "sc:Canvas",
+            "label": "43v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00116",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00116/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00116",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00117",
+            "@type": "sc:Canvas",
+            "label": "44r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00117",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00117/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00117",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118",
+            "@type": "sc:Canvas",
+            "label": "44v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00118/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00118",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00119",
+            "@type": "sc:Canvas",
+            "label": "45r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00119",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00119/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00119",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00120",
+            "@type": "sc:Canvas",
+            "label": "45v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00120",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00120/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00120",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00121",
+            "@type": "sc:Canvas",
+            "label": "46r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00121",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00121/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00121",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00122",
+            "@type": "sc:Canvas",
+            "label": "46v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00122",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00122/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00122",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00123",
+            "@type": "sc:Canvas",
+            "label": "47r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00123",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00123/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00123",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00124",
+            "@type": "sc:Canvas",
+            "label": "47v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00124",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00124/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00124",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00125",
+            "@type": "sc:Canvas",
+            "label": "48r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00125",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00125/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00125",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00126",
+            "@type": "sc:Canvas",
+            "label": "48v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00126",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00126/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00126",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00127",
+            "@type": "sc:Canvas",
+            "label": "49r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00127",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00127/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00127",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00128",
+            "@type": "sc:Canvas",
+            "label": "49v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00128",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00128/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00128",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00129",
+            "@type": "sc:Canvas",
+            "label": "50r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00129",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00129/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00129",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00130",
+            "@type": "sc:Canvas",
+            "label": "50v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00130",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00130/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00130",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00131",
+            "@type": "sc:Canvas",
+            "label": "51r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00131",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00131/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00131",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00132",
+            "@type": "sc:Canvas",
+            "label": "51v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00132",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00132/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00132",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00133",
+            "@type": "sc:Canvas",
+            "label": "52r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00133",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00133/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00133",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00134",
+            "@type": "sc:Canvas",
+            "label": "52v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00134",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00134/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00134",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00135",
+            "@type": "sc:Canvas",
+            "label": "53r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00135",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00135/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00135",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00136",
+            "@type": "sc:Canvas",
+            "label": "53v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00136",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00136/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00136",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00137",
+            "@type": "sc:Canvas",
+            "label": "54r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00137",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00137/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00137",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00138",
+            "@type": "sc:Canvas",
+            "label": "54v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00138",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00138/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00138",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00139",
+            "@type": "sc:Canvas",
+            "label": "55r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00139",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00139/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00139",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00140",
+            "@type": "sc:Canvas",
+            "label": "55v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00140",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00140/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00140",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00141",
+            "@type": "sc:Canvas",
+            "label": "56r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00141",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00141/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00141",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00142",
+            "@type": "sc:Canvas",
+            "label": "56v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00142",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00142/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00142",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00143",
+            "@type": "sc:Canvas",
+            "label": "57r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00143",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00143/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00143",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00144",
+            "@type": "sc:Canvas",
+            "label": "57v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00144",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00144/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00144",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00145",
+            "@type": "sc:Canvas",
+            "label": "58r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00145",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00145/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00145",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00146",
+            "@type": "sc:Canvas",
+            "label": "58v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00146",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00146/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00146",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00147",
+            "@type": "sc:Canvas",
+            "label": "59r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00147",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00147/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00147",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00148",
+            "@type": "sc:Canvas",
+            "label": "59v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00148",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00148/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00148",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00149",
+            "@type": "sc:Canvas",
+            "label": "60r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00149",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00149/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00149",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00150",
+            "@type": "sc:Canvas",
+            "label": "60v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00150",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00150/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00150",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00151",
+            "@type": "sc:Canvas",
+            "label": "61r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00151",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00151/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00151",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00152",
+            "@type": "sc:Canvas",
+            "label": "61v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00152",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00152/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00152",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00153",
+            "@type": "sc:Canvas",
+            "label": "62r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00153",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00153/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00153",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00154",
+            "@type": "sc:Canvas",
+            "label": "62v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00154",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00154/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00154",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00155",
+            "@type": "sc:Canvas",
+            "label": "63r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00155",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00155/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00155",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00156",
+            "@type": "sc:Canvas",
+            "label": "63v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00156",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00156/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00156",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00157",
+            "@type": "sc:Canvas",
+            "label": "64r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00157",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00157/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00157",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00158",
+            "@type": "sc:Canvas",
+            "label": "64v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00158",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00158/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00158",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00159",
+            "@type": "sc:Canvas",
+            "label": "65r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00159",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00159/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00159",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00160",
+            "@type": "sc:Canvas",
+            "label": "65v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00160",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00160/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00160",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00161",
+            "@type": "sc:Canvas",
+            "label": "66r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00161",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00161/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00161",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00162",
+            "@type": "sc:Canvas",
+            "label": "66v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00162",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00162/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00162",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00163",
+            "@type": "sc:Canvas",
+            "label": "67r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00163",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00163/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00163",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00164",
+            "@type": "sc:Canvas",
+            "label": "67v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00164",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00164/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00164",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00165",
+            "@type": "sc:Canvas",
+            "label": "68r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00165",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00165/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00165",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00166",
+            "@type": "sc:Canvas",
+            "label": "68v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00166",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00166/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00166",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00167",
+            "@type": "sc:Canvas",
+            "label": "69r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00167",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00167/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00167",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00168",
+            "@type": "sc:Canvas",
+            "label": "69v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00168",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00168/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00168",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00169",
+            "@type": "sc:Canvas",
+            "label": "70r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00169",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00169/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00169",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00170",
+            "@type": "sc:Canvas",
+            "label": "70v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00170",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00170/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00170",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00171",
+            "@type": "sc:Canvas",
+            "label": "71r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00171",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00171/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00171",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00172",
+            "@type": "sc:Canvas",
+            "label": "71v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00172",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00172/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00172",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00173",
+            "@type": "sc:Canvas",
+            "label": "72r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00173",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00173/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00173",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00174",
+            "@type": "sc:Canvas",
+            "label": "72v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00174",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00174/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00174",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00175",
+            "@type": "sc:Canvas",
+            "label": "73r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00175",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00175/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00175",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00176",
+            "@type": "sc:Canvas",
+            "label": "73v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00176",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00176/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00176",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00177",
+            "@type": "sc:Canvas",
+            "label": "74r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00177",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00177/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00177",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00178",
+            "@type": "sc:Canvas",
+            "label": "74v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00178",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00178/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00178",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00179",
+            "@type": "sc:Canvas",
+            "label": "75r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00179",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00179/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00179",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00180",
+            "@type": "sc:Canvas",
+            "label": "75v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00180",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00180/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00180",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00181",
+            "@type": "sc:Canvas",
+            "label": "76r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00181",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00181/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00181",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00182",
+            "@type": "sc:Canvas",
+            "label": "76v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00182",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00182/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00182",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00183",
+            "@type": "sc:Canvas",
+            "label": "77r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00183",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00183/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00183",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00184",
+            "@type": "sc:Canvas",
+            "label": "77v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00184",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00184/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00184",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00185",
+            "@type": "sc:Canvas",
+            "label": "78r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00185",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00185/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00185",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00186",
+            "@type": "sc:Canvas",
+            "label": "78v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00186",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00186/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00186",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00187",
+            "@type": "sc:Canvas",
+            "label": "79r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00187",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00187/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00187",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00188",
+            "@type": "sc:Canvas",
+            "label": "79v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00188",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00188/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00188",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00189",
+            "@type": "sc:Canvas",
+            "label": "80r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00189",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00189/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00189",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00190",
+            "@type": "sc:Canvas",
+            "label": "80v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00190",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00190/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00190",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00191",
+            "@type": "sc:Canvas",
+            "label": "81r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00191",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00191/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00191",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00192",
+            "@type": "sc:Canvas",
+            "label": "81v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00192",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00192/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00192",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00193",
+            "@type": "sc:Canvas",
+            "label": "82r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00193",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00193/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00193",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00194",
+            "@type": "sc:Canvas",
+            "label": "82v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00194",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00194/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00194",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00195",
+            "@type": "sc:Canvas",
+            "label": "83r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00195",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00195/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00195",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00196",
+            "@type": "sc:Canvas",
+            "label": "83v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00196",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00196/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00196",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00197",
+            "@type": "sc:Canvas",
+            "label": "84r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00197",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00197/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00197",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00198",
+            "@type": "sc:Canvas",
+            "label": "84v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00198",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00198/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00198",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00199",
+            "@type": "sc:Canvas",
+            "label": "85r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00199",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00199/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00199",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00200",
+            "@type": "sc:Canvas",
+            "label": "85v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00200",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00200/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00200",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00201",
+            "@type": "sc:Canvas",
+            "label": "86r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00201",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00201/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00201",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00202",
+            "@type": "sc:Canvas",
+            "label": "86v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00202",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00202/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00202",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00203",
+            "@type": "sc:Canvas",
+            "label": "I*r",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00203",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00203/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00203",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00204",
+            "@type": "sc:Canvas",
+            "label": "I*v",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00204",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00204/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00204",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00205",
+            "@type": "sc:Canvas",
+            "label": "HS",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00205",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00205/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00205",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            },
+        
+            {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00206",
+            "@type": "sc:Canvas",
+            "label": "HD",
+            "height": 4072,
+            "width": 4072,
+            "images": [
+            {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00206",
+            "resource": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00206/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00206",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            }
+            }
+            ]
+            }        
+    ]
+}
