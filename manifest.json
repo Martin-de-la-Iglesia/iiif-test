@@ -128,7 +128,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -152,7 +152,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00002.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -176,7 +176,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -200,7 +200,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -224,7 +224,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00005.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -248,7 +248,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00006.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -272,7 +272,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00007.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -296,7 +296,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00008.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -320,7 +320,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00009.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -344,7 +344,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00010.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -368,7 +368,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00011.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -392,7 +392,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00012.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -416,7 +416,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00013.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -440,7 +440,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00014.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -464,7 +464,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00015.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -488,7 +488,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00016.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -512,7 +512,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00017.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -536,7 +536,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00018.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -560,7 +560,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00019.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -584,7 +584,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00020.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -608,7 +608,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00021.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -632,7 +632,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00022.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -656,7 +656,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00023.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -680,7 +680,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00024.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -704,7 +704,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00025.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -728,7 +728,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00026.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -752,7 +752,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00027.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -776,7 +776,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -800,7 +800,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -824,7 +824,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -848,7 +848,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -872,7 +872,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -896,7 +896,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -920,7 +920,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -944,7 +944,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00035.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -968,7 +968,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00036.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -992,7 +992,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1016,7 +1016,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00038.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1040,7 +1040,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00039.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1064,7 +1064,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1088,7 +1088,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00041.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1112,7 +1112,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00042.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1136,7 +1136,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00043.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1160,7 +1160,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00044.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1184,7 +1184,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00045.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1208,7 +1208,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00046.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1232,7 +1232,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00047.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1256,7 +1256,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00048.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1280,7 +1280,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00049.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1304,7 +1304,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00050.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1328,7 +1328,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00051.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1352,7 +1352,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00052.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1376,7 +1376,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00053.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1400,7 +1400,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00054.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1424,7 +1424,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00055.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1448,7 +1448,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00056.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1472,7 +1472,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00057.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1496,7 +1496,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1520,7 +1520,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1544,7 +1544,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00060.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1568,7 +1568,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00061.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1592,7 +1592,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00062.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1616,7 +1616,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00063.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1640,7 +1640,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00064.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1664,7 +1664,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00065.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1688,7 +1688,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1712,7 +1712,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00067.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1736,7 +1736,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00068.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1760,7 +1760,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00069.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1784,7 +1784,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00070.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1808,7 +1808,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00071.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1832,7 +1832,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00072.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1856,7 +1856,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00073.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1880,7 +1880,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00074.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1904,7 +1904,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00075.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1928,7 +1928,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00076.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1952,7 +1952,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00077.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -1976,7 +1976,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00078.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2000,7 +2000,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00079.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2024,7 +2024,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00080.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2048,7 +2048,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00081.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2072,7 +2072,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00082.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2096,7 +2096,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00083.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2120,7 +2120,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00084.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2144,7 +2144,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00085.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2168,7 +2168,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00086.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2192,7 +2192,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00087.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2216,7 +2216,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00088.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2240,7 +2240,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00089.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2264,7 +2264,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00090.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2288,7 +2288,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00091.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2312,7 +2312,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00092.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2336,7 +2336,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00093.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2360,7 +2360,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00094.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2384,7 +2384,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00095.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2408,7 +2408,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00096.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2432,7 +2432,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00097.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2456,7 +2456,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00098.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2480,7 +2480,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00099.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2504,7 +2504,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00100.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2528,7 +2528,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00101.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2552,7 +2552,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00102.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2576,7 +2576,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00103.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2600,7 +2600,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00104.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2624,7 +2624,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00105.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2648,7 +2648,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00106.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2672,7 +2672,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00107.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2696,7 +2696,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00108.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2720,7 +2720,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00109.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2744,7 +2744,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00110.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2768,7 +2768,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00111.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2792,7 +2792,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00112.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2816,7 +2816,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00113.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2840,7 +2840,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00114.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2864,7 +2864,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00115.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2888,7 +2888,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00116.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2912,7 +2912,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00117.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2936,7 +2936,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00118.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2960,7 +2960,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00119.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -2984,7 +2984,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00120.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3008,7 +3008,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00121.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3032,7 +3032,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00122.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3056,7 +3056,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00123.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3080,7 +3080,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00124.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3104,7 +3104,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00125.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3128,7 +3128,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00126.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3152,7 +3152,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00127.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3176,7 +3176,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00128.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3200,7 +3200,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00129.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3224,7 +3224,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00130.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3248,7 +3248,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00131.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3272,7 +3272,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00132.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3296,7 +3296,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00133.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3320,7 +3320,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00134.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3344,7 +3344,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00135.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3368,7 +3368,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00136.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3392,7 +3392,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00137.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3416,7 +3416,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00138.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3440,7 +3440,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00139.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3464,7 +3464,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00140.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3488,7 +3488,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00141.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3512,7 +3512,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00142.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3536,7 +3536,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00143.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3560,7 +3560,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00144.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3584,7 +3584,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00145.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3608,7 +3608,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00146.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3632,7 +3632,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00147.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3656,7 +3656,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00148.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3680,7 +3680,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00149.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3704,7 +3704,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00150.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3728,7 +3728,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00151.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3752,7 +3752,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00152.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3776,7 +3776,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00153.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3800,7 +3800,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00154.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3824,7 +3824,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00155.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3848,7 +3848,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00156.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3872,7 +3872,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00157.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3896,7 +3896,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00158.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3920,7 +3920,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00159.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3944,7 +3944,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00160.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3968,7 +3968,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00161.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -3992,7 +3992,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00162.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4016,7 +4016,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00163.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4040,7 +4040,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00164.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4064,7 +4064,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00165.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4088,7 +4088,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00166.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4112,7 +4112,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00167.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4136,7 +4136,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00168.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4160,7 +4160,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00169.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4184,7 +4184,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00170.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4208,7 +4208,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00171.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4232,7 +4232,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00172.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4256,7 +4256,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00173.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4280,7 +4280,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00174.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4304,7 +4304,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00175.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4328,7 +4328,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00176.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4352,7 +4352,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00177.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4376,7 +4376,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00178.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4400,7 +4400,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00179.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4424,7 +4424,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00180.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4448,7 +4448,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00181.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4472,7 +4472,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00182.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4496,7 +4496,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00183.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4520,7 +4520,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00184.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4544,7 +4544,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00185.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4568,7 +4568,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00186.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4592,7 +4592,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00187.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4616,7 +4616,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00188.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4640,7 +4640,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00189.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4664,7 +4664,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00190.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4688,7 +4688,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00191.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4712,7 +4712,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00192.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4736,7 +4736,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00193.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4760,7 +4760,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00194.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4784,7 +4784,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00195.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4808,7 +4808,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00196.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4832,7 +4832,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00197.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4856,7 +4856,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00198.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4880,7 +4880,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00199.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4904,7 +4904,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00200.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4928,7 +4928,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00201.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4952,7 +4952,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00202.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -4976,7 +4976,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00203.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -5000,7 +5000,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00204.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -5024,7 +5024,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00205.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
@@ -5048,7 +5048,7 @@
             "format": "image/jpeg",
             "service": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206.jp2",
-            "profile": "http://iiif.io/api/image/2/level1.json"
+            "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
             }
             }
             }
