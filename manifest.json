@@ -112,7 +112,7 @@
     ],
     "sequences": [
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00001",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "VD",
             "height": 4072,
@@ -121,7 +121,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00001",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -136,7 +136,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00002",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00002.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "VS",
             "height": 4072,
@@ -145,7 +145,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00002",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00002.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00002.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -160,7 +160,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00003",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "Ir",
             "height": 4072,
@@ -169,7 +169,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00003",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -184,7 +184,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00004",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "Iv",
             "height": 4072,
@@ -193,7 +193,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00004",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -208,7 +208,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00005",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00005.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "IIr",
             "height": 4072,
@@ -217,7 +217,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00005",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00005.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00005.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -232,7 +232,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00006",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00006.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "IIv",
             "height": 4072,
@@ -241,7 +241,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00006",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00006.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00006.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -256,7 +256,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00007",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00007.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "IIIr",
             "height": 4072,
@@ -265,7 +265,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00007",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00007.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00007.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -280,7 +280,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00008",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00008.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "IIIv",
             "height": 4072,
@@ -289,7 +289,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00008",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00008.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00008.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -304,7 +304,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00009",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00009.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "IVr",
             "height": 4072,
@@ -313,7 +313,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00009",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00009.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00009.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -328,7 +328,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00010",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00010.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "IVv",
             "height": 4072,
@@ -337,7 +337,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00010",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00010.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00010.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -352,7 +352,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00011",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00011.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "Vr",
             "height": 4072,
@@ -361,7 +361,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00011",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00011.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00011.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -376,7 +376,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00012",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00012.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "Vv",
             "height": 4072,
@@ -385,7 +385,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00012",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00012.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00012.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -400,7 +400,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00013",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00013.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "VIr",
             "height": 4072,
@@ -409,7 +409,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00013",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00013.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00013.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -424,7 +424,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00014",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00014.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "VIv",
             "height": 4072,
@@ -433,7 +433,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00014",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00014.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00014.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -448,7 +448,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00015",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00015.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "VIIr",
             "height": 4072,
@@ -457,7 +457,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00015",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00015.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00015.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -472,7 +472,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00016",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00016.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "VIIv",
             "height": 4072,
@@ -481,7 +481,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00016",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00016.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00016.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -496,7 +496,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00017",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00017.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "VIIIr",
             "height": 4072,
@@ -505,7 +505,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00017",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00017.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00017.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -520,7 +520,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00018",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00018.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "VIIIv",
             "height": 4072,
@@ -529,7 +529,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00018",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00018.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00018.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -544,7 +544,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00019",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00019.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "IXr",
             "height": 4072,
@@ -553,7 +553,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00019",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00019.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00019.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -568,7 +568,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00020",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00020.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "IXv",
             "height": 4072,
@@ -577,7 +577,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00020",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00020.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00020.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -592,7 +592,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00021",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00021.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "Xr",
             "height": 4072,
@@ -601,7 +601,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00021",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00021.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00021.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -616,7 +616,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00022",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00022.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "Xv",
             "height": 4072,
@@ -625,7 +625,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00022",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00022.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00022.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -640,7 +640,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00023",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00023.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "XIr",
             "height": 4072,
@@ -649,7 +649,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00023",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00023.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00023.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -664,7 +664,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00024",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00024.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "XIv",
             "height": 4072,
@@ -673,7 +673,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00024",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00024.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00024.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -688,7 +688,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00025",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00025.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "XIIr",
             "height": 4072,
@@ -697,7 +697,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00025",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00025.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00025.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -712,7 +712,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00026",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00026.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "XIIv",
             "height": 4072,
@@ -721,7 +721,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00026",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00026.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00026.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -736,7 +736,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00027",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00027.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "XIIIr",
             "height": 4072,
@@ -745,7 +745,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00027",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00027.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00027.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -760,7 +760,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00028",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "XIIIv",
             "height": 4072,
@@ -769,7 +769,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00028",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -784,7 +784,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00029",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "XIVr",
             "height": 4072,
@@ -793,7 +793,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00029",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -808,7 +808,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00030",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "XIVv",
             "height": 4072,
@@ -817,7 +817,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00030",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -832,7 +832,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "1r",
             "height": 4072,
@@ -841,7 +841,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -856,7 +856,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "1v",
             "height": 4072,
@@ -865,7 +865,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -880,7 +880,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00033",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "2r",
             "height": 4072,
@@ -889,7 +889,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00033",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -904,7 +904,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "2v",
             "height": 4072,
@@ -913,7 +913,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -928,7 +928,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00035.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "3r",
             "height": 4072,
@@ -937,7 +937,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00035.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00035.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -952,7 +952,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00036.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "3v",
             "height": 4072,
@@ -961,7 +961,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00036.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00036.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -976,7 +976,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "4r",
             "height": 4072,
@@ -985,7 +985,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1000,7 +1000,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00038.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "4v",
             "height": 4072,
@@ -1009,7 +1009,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00038.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00038.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1024,7 +1024,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00039",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00039.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "5r",
             "height": 4072,
@@ -1033,7 +1033,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00039",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00039.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00039.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1048,7 +1048,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00040",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "5v",
             "height": 4072,
@@ -1057,7 +1057,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00040",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1072,7 +1072,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00041",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00041.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "6r",
             "height": 4072,
@@ -1081,7 +1081,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00041",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00041.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00041.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1096,7 +1096,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00042",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00042.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "6v",
             "height": 4072,
@@ -1105,7 +1105,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00042",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00042.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00042.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1120,7 +1120,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00043",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00043.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "7r",
             "height": 4072,
@@ -1129,7 +1129,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00043",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00043.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00043.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1144,7 +1144,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00044",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00044.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "7v",
             "height": 4072,
@@ -1153,7 +1153,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00044",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00044.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00044.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1168,7 +1168,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00045",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00045.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "8r",
             "height": 4072,
@@ -1177,7 +1177,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00045",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00045.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00045.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1192,7 +1192,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00046",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00046.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "8v",
             "height": 4072,
@@ -1201,7 +1201,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00046",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00046.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00046.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1216,7 +1216,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00047",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00047.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "9r",
             "height": 4072,
@@ -1225,7 +1225,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00047",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00047.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00047.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1240,7 +1240,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00048",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00048.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "9v",
             "height": 4072,
@@ -1249,7 +1249,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00048",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00048.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00048.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1264,7 +1264,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00049",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00049.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "10r",
             "height": 4072,
@@ -1273,7 +1273,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00049",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00049.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00049.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1288,7 +1288,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00050",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00050.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "10v",
             "height": 4072,
@@ -1297,7 +1297,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00050",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00050.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00050.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1312,7 +1312,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00051.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "11r",
             "height": 4072,
@@ -1321,7 +1321,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00051.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00051.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1336,7 +1336,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00052",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00052.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "11v",
             "height": 4072,
@@ -1345,7 +1345,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00052",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00052.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00052.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1360,7 +1360,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00053",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00053.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "12r",
             "height": 4072,
@@ -1369,7 +1369,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00053",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00053.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00053.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1384,7 +1384,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00054",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00054.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "12v",
             "height": 4072,
@@ -1393,7 +1393,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00054",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00054.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00054.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1408,7 +1408,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00055",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00055.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "13r",
             "height": 4072,
@@ -1417,7 +1417,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00055",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00055.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00055.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1432,7 +1432,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00056",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00056.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "13v",
             "height": 4072,
@@ -1441,7 +1441,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00056",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00056.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00056.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1456,7 +1456,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00057",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00057.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "14r",
             "height": 4072,
@@ -1465,7 +1465,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00057",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00057.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00057.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1480,7 +1480,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00058",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "14v",
             "height": 4072,
@@ -1489,7 +1489,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00058",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1504,7 +1504,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00059",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "15r",
             "height": 4072,
@@ -1513,7 +1513,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00059",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1528,7 +1528,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00060",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00060.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "15v",
             "height": 4072,
@@ -1537,7 +1537,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00060",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00060.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00060.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1552,7 +1552,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00061",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00061.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "16r",
             "height": 4072,
@@ -1561,7 +1561,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00061",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00061.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00061.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1576,7 +1576,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00062",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00062.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "16v",
             "height": 4072,
@@ -1585,7 +1585,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00062",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00062.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00062.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1600,7 +1600,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00063",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00063.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "17r",
             "height": 4072,
@@ -1609,7 +1609,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00063",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00063.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00063.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1624,7 +1624,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00064",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00064.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "17v",
             "height": 4072,
@@ -1633,7 +1633,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00064",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00064.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00064.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1648,7 +1648,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00065",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00065.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "18r",
             "height": 4072,
@@ -1657,7 +1657,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00065",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00065.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00065.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1672,7 +1672,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00066",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "18v",
             "height": 4072,
@@ -1681,7 +1681,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00066",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1696,7 +1696,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00067",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00067.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "19r",
             "height": 4072,
@@ -1705,7 +1705,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00067",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00067.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00067.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1720,7 +1720,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00068",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00068.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "19v",
             "height": 4072,
@@ -1729,7 +1729,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00068",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00068.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00068.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1744,7 +1744,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00069",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00069.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "20r",
             "height": 4072,
@@ -1753,7 +1753,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00069",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00069.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00069.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1768,7 +1768,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00070",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00070.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "20v",
             "height": 4072,
@@ -1777,7 +1777,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00070",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00070.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00070.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1792,7 +1792,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00071",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00071.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "21r",
             "height": 4072,
@@ -1801,7 +1801,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00071",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00071.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00071.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1816,7 +1816,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00072.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "21v",
             "height": 4072,
@@ -1825,7 +1825,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00072.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00072.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1840,7 +1840,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00073",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00073.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "22r",
             "height": 4072,
@@ -1849,7 +1849,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00073",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00073.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00073.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1864,7 +1864,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00074",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00074.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "22v",
             "height": 4072,
@@ -1873,7 +1873,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00074",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00074.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00074.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1888,7 +1888,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00075",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00075.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "23r",
             "height": 4072,
@@ -1897,7 +1897,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00075",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00075.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00075.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1912,7 +1912,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00076",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00076.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "23v",
             "height": 4072,
@@ -1921,7 +1921,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00076",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00076.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00076.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1936,7 +1936,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00077",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00077.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "24r",
             "height": 4072,
@@ -1945,7 +1945,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00077",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00077.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00077.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1960,7 +1960,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00078",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00078.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "24v",
             "height": 4072,
@@ -1969,7 +1969,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00078",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00078.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00078.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -1984,7 +1984,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00079",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00079.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "25r",
             "height": 4072,
@@ -1993,7 +1993,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00079",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00079.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00079.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2008,7 +2008,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00080",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00080.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "25v",
             "height": 4072,
@@ -2017,7 +2017,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00080",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00080.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00080.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2032,7 +2032,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00081",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00081.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "26r",
             "height": 4072,
@@ -2041,7 +2041,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00081",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00081.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00081.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2056,7 +2056,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00082",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00082.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "26v",
             "height": 4072,
@@ -2065,7 +2065,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00082",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00082.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00082.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2080,7 +2080,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00083",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00083.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "27r",
             "height": 4072,
@@ -2089,7 +2089,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00083",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00083.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00083.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2104,7 +2104,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00084",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00084.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "27v",
             "height": 4072,
@@ -2113,7 +2113,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00084",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00084.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00084.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2128,7 +2128,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00085",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00085.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "28r",
             "height": 4072,
@@ -2137,7 +2137,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00085",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00085.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00085.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2152,7 +2152,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00086",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00086.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "28v",
             "height": 4072,
@@ -2161,7 +2161,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00086",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00086.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00086.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2176,7 +2176,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00087",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00087.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "29r",
             "height": 4072,
@@ -2185,7 +2185,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00087",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00087.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00087.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2200,7 +2200,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00088.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "29v",
             "height": 4072,
@@ -2209,7 +2209,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00088.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00088.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2224,7 +2224,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00089",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00089.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "30r",
             "height": 4072,
@@ -2233,7 +2233,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00089",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00089.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00089.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2248,7 +2248,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00090",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00090.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "30v",
             "height": 4072,
@@ -2257,7 +2257,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00090",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00090.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00090.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2272,7 +2272,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00091.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "31r",
             "height": 4072,
@@ -2281,7 +2281,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00091.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00091.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2296,7 +2296,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00092",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00092.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "31v",
             "height": 4072,
@@ -2305,7 +2305,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00092",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00092.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00092.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2320,7 +2320,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00093",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00093.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "32r",
             "height": 4072,
@@ -2329,7 +2329,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00093",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00093.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00093.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2344,7 +2344,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00094",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00094.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "32v",
             "height": 4072,
@@ -2353,7 +2353,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00094",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00094.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00094.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2368,7 +2368,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00095",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00095.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "33r",
             "height": 4072,
@@ -2377,7 +2377,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00095",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00095.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00095.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2392,7 +2392,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00096",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00096.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "33v",
             "height": 4072,
@@ -2401,7 +2401,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00096",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00096.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00096.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2416,7 +2416,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00097",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00097.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "34r",
             "height": 4072,
@@ -2425,7 +2425,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00097",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00097.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00097.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2440,7 +2440,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00098",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00098.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "34v",
             "height": 4072,
@@ -2449,7 +2449,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00098",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00098.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00098.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2464,7 +2464,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00099",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00099.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "35r",
             "height": 4072,
@@ -2473,7 +2473,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00099",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00099.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00099.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2488,7 +2488,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00100.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "35v",
             "height": 4072,
@@ -2497,7 +2497,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00100.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00100.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2512,7 +2512,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00101",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00101.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "36r",
             "height": 4072,
@@ -2521,7 +2521,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00101",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00101.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00101.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2536,7 +2536,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00102",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00102.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "36v",
             "height": 4072,
@@ -2545,7 +2545,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00102",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00102.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00102.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2560,7 +2560,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00103",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00103.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "37r",
             "height": 4072,
@@ -2569,7 +2569,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00103",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00103.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00103.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2584,7 +2584,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00104",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00104.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "37v",
             "height": 4072,
@@ -2593,7 +2593,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00104",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00104.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00104.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2608,7 +2608,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00105",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00105.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "38r",
             "height": 4072,
@@ -2617,7 +2617,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00105",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00105.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00105.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2632,7 +2632,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00106.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "38v",
             "height": 4072,
@@ -2641,7 +2641,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00106.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00106.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2656,7 +2656,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00107",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00107.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "39r",
             "height": 4072,
@@ -2665,7 +2665,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00107",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00107.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00107.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2680,7 +2680,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00108",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00108.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "39v",
             "height": 4072,
@@ -2689,7 +2689,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00108",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00108.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00108.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2704,7 +2704,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00109",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00109.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "40r",
             "height": 4072,
@@ -2713,7 +2713,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00109",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00109.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00109.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2728,7 +2728,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00110.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "40v",
             "height": 4072,
@@ -2737,7 +2737,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00110.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00110.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2752,7 +2752,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00111",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00111.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "41r",
             "height": 4072,
@@ -2761,7 +2761,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00111",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00111.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00111.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2776,7 +2776,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00112.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "41v",
             "height": 4072,
@@ -2785,7 +2785,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00112.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00112.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2800,7 +2800,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00113",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00113.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "42r",
             "height": 4072,
@@ -2809,7 +2809,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00113",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00113.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00113.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2824,7 +2824,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00114",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00114.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "42v",
             "height": 4072,
@@ -2833,7 +2833,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00114",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00114.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00114.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2848,7 +2848,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00115",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00115.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "43r",
             "height": 4072,
@@ -2857,7 +2857,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00115",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00115.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00115.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2872,7 +2872,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00116",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00116.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "43v",
             "height": 4072,
@@ -2881,7 +2881,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00116",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00116.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00116.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2896,7 +2896,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00117",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00117.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "44r",
             "height": 4072,
@@ -2905,7 +2905,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00117",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00117.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00117.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2920,7 +2920,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00118.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "44v",
             "height": 4072,
@@ -2929,7 +2929,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00118.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00118.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2944,7 +2944,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00119",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00119.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "45r",
             "height": 4072,
@@ -2953,7 +2953,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00119",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00119.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00119.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2968,7 +2968,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00120",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00120.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "45v",
             "height": 4072,
@@ -2977,7 +2977,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00120",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00120.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00120.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -2992,7 +2992,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00121",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00121.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "46r",
             "height": 4072,
@@ -3001,7 +3001,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00121",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00121.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00121.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3016,7 +3016,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00122",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00122.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "46v",
             "height": 4072,
@@ -3025,7 +3025,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00122",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00122.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00122.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3040,7 +3040,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00123",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00123.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "47r",
             "height": 4072,
@@ -3049,7 +3049,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00123",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00123.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00123.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3064,7 +3064,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00124",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00124.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "47v",
             "height": 4072,
@@ -3073,7 +3073,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00124",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00124.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00124.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3088,7 +3088,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00125",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00125.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "48r",
             "height": 4072,
@@ -3097,7 +3097,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00125",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00125.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00125.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3112,7 +3112,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00126",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00126.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "48v",
             "height": 4072,
@@ -3121,7 +3121,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00126",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00126.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00126.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3136,7 +3136,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00127",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00127.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "49r",
             "height": 4072,
@@ -3145,7 +3145,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00127",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00127.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00127.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3160,7 +3160,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00128",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00128.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "49v",
             "height": 4072,
@@ -3169,7 +3169,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00128",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00128.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00128.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3184,7 +3184,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00129",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00129.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "50r",
             "height": 4072,
@@ -3193,7 +3193,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00129",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00129.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00129.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3208,7 +3208,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00130",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00130.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "50v",
             "height": 4072,
@@ -3217,7 +3217,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00130",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00130.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00130.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3232,7 +3232,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00131",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00131.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "51r",
             "height": 4072,
@@ -3241,7 +3241,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00131",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00131.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00131.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3256,7 +3256,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00132",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00132.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "51v",
             "height": 4072,
@@ -3265,7 +3265,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00132",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00132.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00132.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3280,7 +3280,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00133",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00133.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "52r",
             "height": 4072,
@@ -3289,7 +3289,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00133",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00133.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00133.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3304,7 +3304,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00134",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00134.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "52v",
             "height": 4072,
@@ -3313,7 +3313,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00134",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00134.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00134.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3328,7 +3328,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00135",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00135.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "53r",
             "height": 4072,
@@ -3337,7 +3337,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00135",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00135.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00135.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3352,7 +3352,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00136",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00136.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "53v",
             "height": 4072,
@@ -3361,7 +3361,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00136",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00136.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00136.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3376,7 +3376,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00137",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00137.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "54r",
             "height": 4072,
@@ -3385,7 +3385,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00137",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00137.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00137.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3400,7 +3400,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00138",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00138.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "54v",
             "height": 4072,
@@ -3409,7 +3409,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00138",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00138.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00138.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3424,7 +3424,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00139",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00139.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "55r",
             "height": 4072,
@@ -3433,7 +3433,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00139",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00139.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00139.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3448,7 +3448,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00140",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00140.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "55v",
             "height": 4072,
@@ -3457,7 +3457,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00140",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00140.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00140.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3472,7 +3472,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00141",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00141.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "56r",
             "height": 4072,
@@ -3481,7 +3481,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00141",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00141.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00141.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3496,7 +3496,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00142",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00142.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "56v",
             "height": 4072,
@@ -3505,7 +3505,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00142",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00142.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00142.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3520,7 +3520,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00143",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00143.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "57r",
             "height": 4072,
@@ -3529,7 +3529,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00143",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00143.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00143.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3544,7 +3544,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00144",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00144.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "57v",
             "height": 4072,
@@ -3553,7 +3553,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00144",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00144.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00144.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3568,7 +3568,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00145",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00145.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "58r",
             "height": 4072,
@@ -3577,7 +3577,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00145",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00145.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00145.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3592,7 +3592,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00146",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00146.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "58v",
             "height": 4072,
@@ -3601,7 +3601,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00146",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00146.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00146.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3616,7 +3616,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00147",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00147.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "59r",
             "height": 4072,
@@ -3625,7 +3625,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00147",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00147.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00147.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3640,7 +3640,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00148",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00148.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "59v",
             "height": 4072,
@@ -3649,7 +3649,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00148",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00148.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00148.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3664,7 +3664,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00149",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00149.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "60r",
             "height": 4072,
@@ -3673,7 +3673,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00149",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00149.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00149.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3688,7 +3688,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00150",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00150.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "60v",
             "height": 4072,
@@ -3697,7 +3697,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00150",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00150.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00150.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3712,7 +3712,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00151",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00151.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "61r",
             "height": 4072,
@@ -3721,7 +3721,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00151",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00151.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00151.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3736,7 +3736,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00152",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00152.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "61v",
             "height": 4072,
@@ -3745,7 +3745,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00152",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00152.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00152.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3760,7 +3760,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00153",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00153.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "62r",
             "height": 4072,
@@ -3769,7 +3769,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00153",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00153.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00153.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3784,7 +3784,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00154",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00154.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "62v",
             "height": 4072,
@@ -3793,7 +3793,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00154",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00154.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00154.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3808,7 +3808,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00155",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00155.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "63r",
             "height": 4072,
@@ -3817,7 +3817,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00155",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00155.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00155.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3832,7 +3832,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00156",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00156.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "63v",
             "height": 4072,
@@ -3841,7 +3841,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00156",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00156.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00156.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3856,7 +3856,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00157",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00157.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "64r",
             "height": 4072,
@@ -3865,7 +3865,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00157",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00157.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00157.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3880,7 +3880,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00158",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00158.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "64v",
             "height": 4072,
@@ -3889,7 +3889,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00158",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00158.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00158.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3904,7 +3904,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00159",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00159.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "65r",
             "height": 4072,
@@ -3913,7 +3913,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00159",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00159.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00159.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3928,7 +3928,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00160",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00160.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "65v",
             "height": 4072,
@@ -3937,7 +3937,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00160",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00160.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00160.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3952,7 +3952,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00161",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00161.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "66r",
             "height": 4072,
@@ -3961,7 +3961,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00161",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00161.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00161.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -3976,7 +3976,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00162",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00162.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "66v",
             "height": 4072,
@@ -3985,7 +3985,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00162",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00162.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00162.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4000,7 +4000,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00163",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00163.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "67r",
             "height": 4072,
@@ -4009,7 +4009,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00163",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00163.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00163.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4024,7 +4024,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00164",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00164.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "67v",
             "height": 4072,
@@ -4033,7 +4033,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00164",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00164.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00164.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4048,7 +4048,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00165",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00165.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "68r",
             "height": 4072,
@@ -4057,7 +4057,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00165",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00165.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00165.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4072,7 +4072,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00166",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00166.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "68v",
             "height": 4072,
@@ -4081,7 +4081,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00166",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00166.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00166.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4096,7 +4096,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00167",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00167.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "69r",
             "height": 4072,
@@ -4105,7 +4105,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00167",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00167.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00167.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4120,7 +4120,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00168",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00168.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "69v",
             "height": 4072,
@@ -4129,7 +4129,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00168",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00168.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00168.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4144,7 +4144,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00169",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00169.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "70r",
             "height": 4072,
@@ -4153,7 +4153,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00169",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00169.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00169.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4168,7 +4168,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00170",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00170.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "70v",
             "height": 4072,
@@ -4177,7 +4177,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00170",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00170.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00170.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4192,7 +4192,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00171",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00171.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "71r",
             "height": 4072,
@@ -4201,7 +4201,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00171",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00171.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00171.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4216,7 +4216,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00172",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00172.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "71v",
             "height": 4072,
@@ -4225,7 +4225,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00172",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00172.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00172.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4240,7 +4240,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00173",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00173.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "72r",
             "height": 4072,
@@ -4249,7 +4249,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00173",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00173.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00173.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4264,7 +4264,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00174",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00174.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "72v",
             "height": 4072,
@@ -4273,7 +4273,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00174",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00174.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00174.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4288,7 +4288,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00175",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00175.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "73r",
             "height": 4072,
@@ -4297,7 +4297,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00175",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00175.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00175.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4312,7 +4312,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00176",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00176.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "73v",
             "height": 4072,
@@ -4321,7 +4321,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00176",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00176.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00176.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4336,7 +4336,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00177",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00177.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "74r",
             "height": 4072,
@@ -4345,7 +4345,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00177",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00177.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00177.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4360,7 +4360,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00178",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00178.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "74v",
             "height": 4072,
@@ -4369,7 +4369,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00178",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00178.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00178.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4384,7 +4384,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00179",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00179.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "75r",
             "height": 4072,
@@ -4393,7 +4393,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00179",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00179.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00179.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4408,7 +4408,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00180",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00180.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "75v",
             "height": 4072,
@@ -4417,7 +4417,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00180",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00180.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00180.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4432,7 +4432,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00181",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00181.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "76r",
             "height": 4072,
@@ -4441,7 +4441,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00181",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00181.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00181.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4456,7 +4456,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00182",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00182.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "76v",
             "height": 4072,
@@ -4465,7 +4465,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00182",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00182.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00182.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4480,7 +4480,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00183",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00183.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "77r",
             "height": 4072,
@@ -4489,7 +4489,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00183",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00183.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00183.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4504,7 +4504,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00184",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00184.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "77v",
             "height": 4072,
@@ -4513,7 +4513,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00184",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00184.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00184.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4528,7 +4528,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00185",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00185.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "78r",
             "height": 4072,
@@ -4537,7 +4537,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00185",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00185.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00185.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4552,7 +4552,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00186",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00186.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "78v",
             "height": 4072,
@@ -4561,7 +4561,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00186",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00186.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00186.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4576,7 +4576,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00187",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00187.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "79r",
             "height": 4072,
@@ -4585,7 +4585,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00187",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00187.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00187.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4600,7 +4600,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00188",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00188.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "79v",
             "height": 4072,
@@ -4609,7 +4609,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00188",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00188.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00188.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4624,7 +4624,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00189",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00189.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "80r",
             "height": 4072,
@@ -4633,7 +4633,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00189",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00189.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00189.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4648,7 +4648,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00190",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00190.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "80v",
             "height": 4072,
@@ -4657,7 +4657,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00190",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00190.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00190.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4672,7 +4672,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00191",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00191.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "81r",
             "height": 4072,
@@ -4681,7 +4681,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00191",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00191.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00191.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4696,7 +4696,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00192",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00192.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "81v",
             "height": 4072,
@@ -4705,7 +4705,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00192",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00192.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00192.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4720,7 +4720,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00193",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00193.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "82r",
             "height": 4072,
@@ -4729,7 +4729,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00193",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00193.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00193.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4744,7 +4744,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00194",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00194.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "82v",
             "height": 4072,
@@ -4753,7 +4753,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00194",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00194.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00194.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4768,7 +4768,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00195",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00195.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "83r",
             "height": 4072,
@@ -4777,7 +4777,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00195",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00195.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00195.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4792,7 +4792,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00196",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00196.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "83v",
             "height": 4072,
@@ -4801,7 +4801,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00196",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00196.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00196.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4816,7 +4816,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00197",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00197.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "84r",
             "height": 4072,
@@ -4825,7 +4825,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00197",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00197.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00197.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4840,7 +4840,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00198",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00198.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "84v",
             "height": 4072,
@@ -4849,7 +4849,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00198",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00198.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00198.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4864,7 +4864,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00199",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00199.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "85r",
             "height": 4072,
@@ -4873,7 +4873,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00199",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00199.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00199.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4888,7 +4888,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00200",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00200.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "85v",
             "height": 4072,
@@ -4897,7 +4897,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00200",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00200.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00200.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4912,7 +4912,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00201",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00201.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "86r",
             "height": 4072,
@@ -4921,7 +4921,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00201",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00201.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00201.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4936,7 +4936,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00202",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00202.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "86v",
             "height": 4072,
@@ -4945,7 +4945,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00202",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00202.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00202.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4960,7 +4960,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00203",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00203.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "I*r",
             "height": 4072,
@@ -4969,7 +4969,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00203",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00203.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00203.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -4984,7 +4984,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00204",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00204.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "I*v",
             "height": 4072,
@@ -4993,7 +4993,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00204",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00204.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00204.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -5008,7 +5008,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00205",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00205.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "HS",
             "height": 4072,
@@ -5017,7 +5017,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00205",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00205.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00205.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -5032,7 +5032,7 @@
             },
         
             {
-            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00206",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206.jp2/info.json",
             "@type": "sc:Canvas",
             "label": "HD",
             "height": 4072,
@@ -5041,7 +5041,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00206",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206.jp2/info.json",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
