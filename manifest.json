@@ -36,12 +36,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066.jp2/full/full/0/default.jpg",
+								"@id": "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/007r.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://www.dl.ndl.go.jp/api/iiif/2584849/R0000002",
+									"@id": "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A007r.jpg",
 									"profile": "http://iiif.io/api/image/2/level1.json"									
 								},
 								"height": 2218,
