@@ -42,21 +42,7 @@
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
 									"@id": "https://www.dl.ndl.go.jp/api/iiif/2584849/R0000002",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json",
-										{
-											"formats": [
-												"jpg"
-											],
-											"qualities": [
-												"default"
-											],
-											"supports": [
-												"regionByPct",
-												"sizeByWh"
-											]
-										}
-									]
+									"profile": "http://iiif.io/api/image/2/level1.json"									
 								},
 								"height": 2218,
 								"width": 7884
