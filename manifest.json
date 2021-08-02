@@ -36,11 +36,10 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/007r.jpg",
+								"@id": "https://iiif.hab.de/object/mss_35-helmst/image/image_00335/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
+								"service": {									
 									"@id": "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A007r.jpg",
 									"profile": "http://iiif.io/api/image/2/level1.json"									
 								},
