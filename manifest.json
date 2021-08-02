@@ -4857,10 +4857,10 @@
          "viewingHint" : "paged",
       
    
-   "service" : "https://digi.ub.uni-heidelberg.de/diglit/cpg164",
+   "service" : "https://diglib.hab.de/?db=mss&list=ms&id=3-1-aug-2f",
    "structures" : [
       {
-         "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/range/r0",
+         "@id" : "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/range/r0",
          "@type" : "sc:Range",
          "canvases" : [
             "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001",
@@ -5071,7 +5071,7 @@
 "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206"
 
          ],
-         "label" : ""
+         "label" : "Der Sachsenspiegel und das sächsische Lehnrecht"
       }
    ],
    "within" : []
