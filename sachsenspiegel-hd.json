@@ -133,7 +133,7 @@
                "width" : 1273
             },
             {
-               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0003.json",
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0003xxx.json",
                "@type" : "sc:Canvas",
                "height" : 1734,
                "images" : [
@@ -141,7 +141,7 @@
                      "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0003-image.json",
                      "@type" : "oa:Annotation",
                      "motivation" : "sc:painting",
-                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0003.json",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0003xxx.json",
                      "resource" : {
                         "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_A_ROEM_3.jpg",
                         "@type" : "dctypes:Image",
@@ -3010,7 +3010,7 @@
          "canvases" : [
             "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0001.json",
             "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0002.json",
-            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0003.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0003xxx.json",
             "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0004.json",
             "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0005.json",
             "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0006.json",
