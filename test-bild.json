@@ -1,0 +1,73 @@
+{
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-bild.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 6747,
+    "height": 9113,
+    "sizes": [
+        {
+            "width": 105,
+            "height": 142
+        },
+        {
+            "width": 210,
+            "height": 284
+        },
+        {
+            "width": 421,
+            "height": 569
+        },
+        {
+            "width": 843,
+            "height": 1139
+        },
+        {
+            "width": 1686,
+            "height": 2278
+        }
+    ],
+    "tiles": [
+        {
+            "width": 256,
+            "height": 256,
+            "scaleFactors": [
+                1,
+                2,
+                4,
+                8,
+                16,
+                32,
+                64
+            ]
+        }
+    ],
+    "profile": [
+        "http://iiif.io/api/image/2/level2.json",
+        {
+            "formats": [
+                "jpg",
+                "png"
+            ],
+            "qualities": [
+                "default",
+                "gray",
+                "bitonal"
+            ],
+            "supports": [
+                "regionByPx",
+                "regionByPct",
+                "sizeByW",
+                "sizeByH",
+                "sizeByPct",
+                "sizeByConfinedWh",
+                "sizeByDistortedWh",
+                "rotationBy90s",
+                "rotationArbitrary",
+                "cors",
+                "baseUriRedirect",
+                "jsonldMediatype",
+                "profileLinkHeader"
+            ]
+        }
+    ]
+}
