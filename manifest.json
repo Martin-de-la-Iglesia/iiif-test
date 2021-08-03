@@ -1,54 +1,207 @@
 {
-	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/manifest.json",
-	"@type": "sc:Manifest",
-	"label": "test",
-	"metadata": [],
-	"description": [
-		{
-			"@value": "test",
-			"@language": "en"
-		}
-	],
-	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "National Diet Library Japan and others",
-	"sequences": [
-		{
-			"@id": "https://j-images.ch/iiif/test1/sequence/normal",
-			"@type": "sc:Sequence",
-			"label": [
-				{
-					"@value": "Normal Sequence",
-					"@language": "en"
-				}
-			],
-			"canvases": [
-				{
-					"@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvas.json",
-					"@type": "sc:Canvas",
-					"label": "1r",
-					"height": 4072,
-					"width": 4072,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",							
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {									
-									"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/info.json",
-									"profile": "http://iiif.io/api/image/2/level1.json"									
-								}
-							},
-							"on": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvas.json"
-						}
-					]
-				}
-			]
-		}
-	],
-	"structures": []
+    "@id": "https://iiif.hab.de/object/mss_35-helmst/manifest",
+    "@type": "sc:Manifest",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "label": "Herzog August Bibliothek Wolfenb\u00fcttel, Cod. Guelf. 35 Helmst.",
+    "viewingHint": "paged",
+    "attribution": "Herzog August Bibliothek Wolfenb\u00fcttel, CC BY SA 3.0 Deutschland",
+    "license": "http://diglib.hab.de?link=012",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Catalog Description"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Katalogeintrag"
+                }
+            ],
+            "value": "<a href=\"http://diglib.hab.de?db=mss&list=ms&id=35-helmst\" target=\"_blank\">http://diglib.hab.de?db=mss&list=ms&id=35-helmst</a>"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Titel"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Title"
+                }
+            ],
+            "value": "Missale"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Signatur"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Shelfmark"
+                }
+            ],
+            "value": "Cod. Guelf. 35 Helmst."
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Sprache"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Language"
+                }
+            ],
+            "value": "Lateinisch"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Datierung"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Date"
+                }
+            ],
+            "value": "1462"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Entstehungsort"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Place of Origin"
+                }
+            ],
+            "value": "Hildesheim, Fraterhaus L\u00fcchtenhof"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Material"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Materials"
+                }
+            ],
+            "value": "Pergament"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Provenienz"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Provenance"
+                }
+            ],
+            "value": "Hildesheim, Augustiner-Chorherrenstift S\u00fclte"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Digitalisierungsprojekt"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Digitization Project"
+                }
+            ],
+            "value": [
+                {
+                    "@language": "en",
+                    "@value": "Manuscripts from German-Speaking Lands - A Polonsky Foundation Digitization Project - A collaboration between the Bodleian Libraries and the Herzog August Bibliothek."
+                },
+                {
+                    "@language": "de",
+                    "@value": "Handschriften aus dem deutschen Sprachraum. Ein Digitalisierungsprojekt der Polonsky Stiftung. Eine Zusammenarbeit zwischen der Universit\u00e4t Oxford und der Herzog August Bibliothek Wolfenb\u00fcttel"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Digitalisierungsf\u00f6rderer"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Digitization Sponsor"
+                }
+            ],
+            "value": "The Polonsky Foundation"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Datensatz angelegt"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Record Created"
+                }
+            ],
+            "value": "2020-12-18T11:01:35.822+01:00"
+        },
+        {
+            "label": [
+                {
+                    "@language": "de",
+                    "@value": "Besitzende Einrichtung"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Holding Institution"
+                }
+            ],
+            "value": "Herzog August Bibliothek Wolfenb\u00fcttel"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://iiif.hab.de/object/mss_35-helmst/sequence/physical.top",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://iiif.hab.de/object/mss_35-helmst/canvas/mss_35-helmst_00333",
+                    "@type": "sc:Canvas",
+                    "label": "162r",
+                    "height": 9113,
+                    "width": 6747,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.hab.de/object/mss_35-helmst/canvas/mss_35-helmst_00333",
+                            "resource": {
+                                "@id": "https://iiif.hab.de/object/mss_35-helmst/image/image_00333/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@id": "https://iiif.hab.de/object/mss_35-helmst/image/image_00333",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
