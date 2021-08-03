@@ -27,7 +27,7 @@
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvas.json",
+                    "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvasxxx.json",
                     "@type": "sc:Canvas",
                     "label": "162r",
                     "height": 9113,
@@ -36,7 +36,7 @@
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvas.json",
+                            "on": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvasxxx.json",
                             "resource": {
                                 "@id": "https://iiif.hab.de/object/mss_35-helmst/image/image_00333/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
