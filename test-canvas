@@ -1,11 +1,11 @@
 {
     "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvas.json",
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "within": "https://iiif.hab.de/object/mss_35-helmst/manifest",
+    "within": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/manifest.json",
     "@type": "sc:Canvas",
-    "label": "162r",
-    "height": 9113,
-    "width": 6747,
+    "label": "1r",
+    "height": 4072,
+    "width": 4072,
     "images": [
         {
             "@type": "oa:Annotation",
