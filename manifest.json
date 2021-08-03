@@ -29,20 +29,20 @@
                 {
                     "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvasxxx.json",
                     "@type": "sc:Canvas",
-                    "label": "162r",
-                    "height": 9113,
-                    "width": 6747,
+                    "label": "1r",
+                    "height": 4072,
+                    "width": 4072,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvasxxx.json",
                             "resource": {
-                                "@id": "https://iiif.hab.de/object/mss_35-helmst/image/image_00333/full/full/0/default.jpg",
+                                "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
-                                    "@id": "https://iiif.hab.de/object/mss_35-helmst/image/image_00333",
+                                    "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/",
                                     "profile": "http://iiif.io/api/image/2/level1.json"
                                 }
                             }
