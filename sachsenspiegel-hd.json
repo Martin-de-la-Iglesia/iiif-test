@@ -601,13 +601,14 @@
                      }
                   }
                ],
-               "label" : "1v",
-               "otherContent" : [
+                "otherContent": [        
                   {
-                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0016.json",
-                     "@type" : "sc:AnnotationList"
-                  }
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json/1",
+                   "@type": "sc:AnnotationList",
+                   "label": "Transkription"
+                 }
                ],
+               "label" : "1v",            
                "width" : 1273
             },
             {
@@ -634,13 +635,14 @@
                      }
                   }
                ],
-               "label" : "2r",
-               "otherContent" : [
+                "otherContent": [        
                   {
-                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0017.json",
-                     "@type" : "sc:AnnotationList"
-                  }
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json/2",
+                   "@type": "sc:AnnotationList",
+                   "label": "Transkription"
+                 }
                ],
+               "label" : "2r",             
                "width" : 1259
             },
             {
@@ -667,13 +669,14 @@
                      }
                   }
                ],
-               "label" : "2v",
-               "otherContent" : [
+                "otherContent": [        
                   {
-                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0018.json",
-                     "@type" : "sc:AnnotationList"
-                  }
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json/3",
+                   "@type": "sc:AnnotationList",
+                   "label": "Transkription"
+                 }
                ],
+               "label" : "2v",              
                "width" : 1273
             },
             {
