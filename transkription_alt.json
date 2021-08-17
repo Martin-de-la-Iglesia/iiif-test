@@ -1,40 +1,3137 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json",
-  "@type": "sc:AnnotationList",
-  "resources": [
-    {
-      "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json/1",
-     "@type": "oa:Annotation",
-      "motivation": "commenting",
-      "resource": {       
-        "@type": "cnt:ContentAsText",
-        "format": "text/html",
-        "chars": "<p>Test 1</p>"
+   "@context" : "http://iiif.io/api/presentation/2/context.json",
+   "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/manifest.json",
+   "@type" : "sc:Manifest",
+   "attribution" : [
+      {
+         "@language" : "de",
+         "@value" : "Universit\u00e4tsbibliothek Heidelberg"
       },
-      "on": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0016.json"
-    },
-        {
-          "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json/2",
-           "@type": "oa:Annotation",
-            "motivation": "commenting",
-           "resource": {               
-               "@type": "cnt:ContentAsText",
-                "format": "text/html",
-               "chars": "<p>Test 2</p>"
-              },
-         "on": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0017.json"
-    },
-        {
-          "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json/3",
-           "@type": "oa:Annotation",
-            "motivation": "commenting",
-           "resource": {               
-               "@type": "cnt:ContentAsText",
-                "format": "text/html",
-               "chars": "<p>Test 3</p>"
-              },
-         "on": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0018.json"
-    }
-  ]
+      {
+         "@language" : "en",
+         "@value" : "Universit\u00e4tsbibliothek Heidelberg"
+      }
+   ],
+   "description" : [],
+   "label" : "Heidelberger Sachsenspiegel",
+   "license" : "https://de.wikipedia.org/wiki/Public_Domain_Mark",
+   "logo" : "http://www.ub.uni-heidelberg.de/nav4/grafik/layout/ub_logo2.gif",
+   "metadata" : [
+      {
+         "label" : "Author",
+         "value" : [
+            "Eike <von Repgow>"
+         ]
+      },
+      {
+         "label" : "Location",
+         "value" : [
+            "Ostmitteldeutschland"
+         ]
+      },
+      {
+         "label" : "Date",
+         "value" : [
+            "Anfang 14. Jh."
+         ]
+      },
+      {
+         "label" : "Published",
+         "value" : [
+            "Ostmitteldeutschland, Anfang 14. Jh."
+         ]
+      },
+      {
+         "label" : "Identifier (URN)",
+         "value" : [
+            "http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-854"
+         ]
+      },
+      {
+         "label" : "Identifier (DOI)",
+         "value" : [
+            "https://doi.org/10.11588/diglit.85"
+         ]
+      },
+      {
+         "label" : "Shelfmark",
+         "value" : [
+            "Universit\u00e4tsbibliothek Heidelberg, Cod. Pal. germ. 164"
+         ]
+      }
+   ],
+   "seeAlso" : "https://digi.ub.uni-heidelberg.de/diglit/cpg164/mets",
+   "sequences" : [
+      {
+         "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/sequence/normal.json",
+         "@type" : "sc:Sequence",
+         "canvases" : [
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0001.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0001-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0001.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_A_ROEM_1.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_A_ROEM_1.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "Vorderdeckel",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0001.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0002.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0002-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0002.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_A_ROEM_2.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_A_ROEM_2.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "Vorderspiegel",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0002.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0003xxx.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0003-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0003xxx.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_A_ROEM_3.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_A_ROEM_3.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "I",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0003.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0004.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0004-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0004.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_A_ROEM_4.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_A_ROEM_4.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "II",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0004.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0005.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0005-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0005.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_A_ROEM_5.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_A_ROEM_5.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "III",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0005.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0006.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0006-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0006.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_A_ROEM_6.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_A_ROEM_6.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "IV",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0006.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0007.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0007-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0007.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_A_ROEM_7.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_A_ROEM_7.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "V",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0007.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0008.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0008-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0008.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_A_ROEM_8.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_A_ROEM_8.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "VI",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0008.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0009.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0009-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0009.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_B_1ar.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_B_1ar.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "1ar",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0009.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0010.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0010-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0010.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_B_1av.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_B_1av.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "1av",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0010.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0011.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0011-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0011.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_B_2ar.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_B_2ar.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "2ar",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0011.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0012.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0012-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0012.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_B_2av.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_B_2av.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "2av",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0012.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0013.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0013-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0013.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_B_3ar.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_B_3ar.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "3ar",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0013.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0014.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0014-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0014.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/000_B_3av.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A000_B_3av.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "3av",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0014.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0015.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0015-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0015.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/001r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A001r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "otherContent": [        
+                  {
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription.json",
+                   "@type": "sc:AnnotationList",
+                   "label": "Transkription"
+                 },
+                   {
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/uebersetzung.json",
+                   "@type": "sc:AnnotationList",
+                   "label": "Übersetzung"
+                 },
+                  {
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/info.json",
+                   "@type": "sc:AnnotationList",
+                   "label": "Info"
+                 },
+                  {
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/sw.json",
+                   "@type": "sc:AnnotationList",
+                   "label": "Schlagwörter"
+                 }
+               ],
+               "label" : "1r",              
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0016.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0016-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0016.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/001v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A001v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+                "otherContent": [        
+                  {
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json",
+                   "@type": "sc:AnnotationList",
+                   "label": "Transkription"
+                 }
+               ],
+               "label" : "1v",            
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0017.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0017-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0017.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/002r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A002r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+                "otherContent": [        
+                  {
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json",
+                   "@type": "sc:AnnotationList",
+                   "label": "Transkription"
+                 }
+               ],
+               "label" : "2r",             
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0018.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0018-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0018.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/002v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A002v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+                "otherContent": [        
+                  {
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json",
+                   "@type": "sc:AnnotationList",
+                   "label": "Transkription"
+                 }
+               ],
+               "label" : "2v",              
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0019.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0019-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0019.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/003r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A003r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "3r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0019.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0020.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0020-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0020.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/003v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A003v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "3v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0020.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0021.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0021-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0021.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/004r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A004r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "4r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0021.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0022.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0022-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0022.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/004v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A004v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "4v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0022.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0023.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0023-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0023.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/005r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A005r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "5r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0023.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0024.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0024-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0024.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/005v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A005v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "5v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0024.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0025.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0025-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0025.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/006r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A006r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "6r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0025.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0026.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0026-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0026.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/006v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A006v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "6v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0026.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0027.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0027-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0027.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/007r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A007r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "7r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0027.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0028.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0028-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0028.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/007v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A007v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "7v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0028.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0029.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0029-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0029.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/008r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A008r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "8r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0029.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0030.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0030-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0030.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/008v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A008v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "8v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0030.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0031.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0031-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0031.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/009r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A009r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "9r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0031.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0032.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0032-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0032.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/009v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A009v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "9v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0032.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0033.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0033-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0033.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/010r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A010r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "10r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0033.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0034.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0034-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0034.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/010v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A010v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "10v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0034.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0035.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0035-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0035.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/011r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A011r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "11r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0035.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0036.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0036-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0036.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/011v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A011v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "11v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0036.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0037.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0037-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0037.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/012r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A012r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "12r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0037.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0038.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0038-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0038.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/012v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A012v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "12v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0038.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0039.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0039-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0039.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/013r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A013r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "13r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0039.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0040.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0040-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0040.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/013v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A013v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "13v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0040.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0041.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0041-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0041.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/014r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A014r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "14r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0041.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0042.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0042-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0042.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/014v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A014v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "14v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0042.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0043.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0043-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0043.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/015r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A015r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "15r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0043.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0044.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0044-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0044.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/015v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A015v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "15v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0044.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0045.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0045-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0045.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/016r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A016r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "16r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0045.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0046.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0046-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0046.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/016v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A016v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "16v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0046.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0047.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0047-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0047.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/017r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A017r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "17r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0047.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0048.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0048-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0048.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/017v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A017v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "17v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0048.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0049.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0049-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0049.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/018r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A018r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "18r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0049.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0050.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0050-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0050.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/018v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A018v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "18v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0050.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0051.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0051-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0051.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/019r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A019r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "19r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0051.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0052.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0052-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0052.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/019v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A019v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "19v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0052.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0053.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0053-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0053.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/020r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A020r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "20r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0053.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0054.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0054-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0054.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/020v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A020v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "20v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0054.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0055.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0055-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0055.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/021r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A021r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "21r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0055.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0056.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0056-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0056.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/021v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A021v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "21v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0056.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0057.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0057-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0057.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/022r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A022r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "22r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0057.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0058.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0058-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0058.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/022v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A022v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "22v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0058.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0059.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0059-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0059.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/023r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A023r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "23r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0059.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0060.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0060-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0060.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/023v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A023v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "23v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0060.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0061.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0061-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0061.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/024r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A024r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "24r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0061.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0062.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0062-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0062.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/024v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A024v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "24v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0062.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0063.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0063-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0063.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/025r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A025r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "25r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0063.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0064.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0064-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0064.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/025v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A025v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "25v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0064.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0065.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0065-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0065.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/026r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A026r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "26r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0065.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0066.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0066-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0066.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/026v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A026v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "26v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0066.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0067.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0067-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0067.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/027r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A027r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "27r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0067.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0068.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0068-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0068.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/027v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A027v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "27v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0068.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0069.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0069-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0069.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/028r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A028r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "28r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0069.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0070.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0070-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0070.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/028v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A028v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "28v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0070.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0071.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0071-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0071.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/029r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A029r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "29r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0071.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0072.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0072-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0072.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/029v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A029v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "29v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0072.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0073.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0073-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0073.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/030r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A030r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "30r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0073.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0074.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0074-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0074.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/030v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A030v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "30v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0074.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0075.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0075-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0075.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/031r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A031r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "30*r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0075.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0076.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0076-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0076.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/031v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A031v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "30*v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0076.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0077.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0077-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0077.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/032r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A032r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "30**r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0077.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0078.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0078-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0078.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/032v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A032v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "30**v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0078.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0079.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0079-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0079.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/033r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A033r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "30***r",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0079.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0080.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0080-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0080.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/033v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A033v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "30***v",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0080.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0081.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0081-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0081.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/034r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A034r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "VII",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0081.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0082.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0082-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0082.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/034v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A034v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "VIII",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0082.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0083.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0083-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0083.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/035r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A035r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "IX",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0083.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0084.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0084-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0084.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/035v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A035v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "X",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0084.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0085.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0085-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0085.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/036r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A036r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "XI",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0085.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0086.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0086-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0086.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/036v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A036v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "XII",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0086.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0087.json",
+               "@type" : "sc:Canvas",
+               "height" : 1734,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0087-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0087.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/037r.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1734,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A037r.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1259
+                     }
+                  }
+               ],
+               "label" : "Hinterspiegel",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0087.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1259
+            },
+            {
+               "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0088.json",
+               "@type" : "sc:Canvas",
+               "height" : 1736,
+               "images" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/annotation/0088-image.json",
+                     "@type" : "oa:Annotation",
+                     "motivation" : "sc:painting",
+                     "on" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0088.json",
+                     "resource" : {
+                        "@id" : "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg164/4/037v.jpg",
+                        "@type" : "dctypes:Image",
+                        "format" : "image/jpeg",
+                        "height" : 1736,
+                        "service" : {
+                           "@context" : "http://iiif.io/api/image/2/context.json",
+                           "@id" : "https://digi.ub.uni-heidelberg.de/iiif/2/cpg164%3A037v.jpg",
+                           "profile" : "http://iiif.io/api/image/2/profiles/level2.json"
+                        },
+                        "width" : 1273
+                     }
+                  }
+               ],
+               "label" : "Hinterdeckel",
+               "otherContent" : [
+                  {
+                     "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/list/0088.json",
+                     "@type" : "sc:AnnotationList"
+                  }
+               ],
+               "width" : 1273
+            }
+         ],
+         "label" : [
+            {
+               "@language" : "de",
+               "@value" : "Standardabfolge"
+            },
+            {
+               "@language" : "en",
+               "@value" : "Normal Sequence"
+            }
+         ],
+         "startCanvas" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0001.json",
+         "viewingDirection" : "left-to-right",
+         "viewingHint" : "paged"
+      }
+   ],
+   "service" : "https://digi.ub.uni-heidelberg.de/diglit/cpg164",
+   "structures" : [
+      {
+         "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/range/r0",
+         "@type" : "sc:Range",
+         "canvases" : [
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0001.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0002.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0003xxx.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0004.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0005.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0006.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0007.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0008.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0009.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0010.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0011.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0012.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0013.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0014.json"
+         ],
+         "label" : "Einband vorne"
+      },
+      {
+         "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/range/r1",
+         "@type" : "sc:Range",
+         "canvases" : [
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0015.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0016.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0017.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0018.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0019.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0020.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0021.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0022.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0023.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0024.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0025.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0026.json"
+         ],
+         "label" : "Heidelberger Sachsenspiegel: Lehnrecht"
+      },
+      {
+         "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/range/r2",
+         "@type" : "sc:Range",
+         "canvases" : [
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0027.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0028.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0029.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0030.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0031.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0032.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0033.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0034.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0035.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0036.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0037.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0038.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0039.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0040.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0041.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0042.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0043.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0044.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0045.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0046.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0047.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0048.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0049.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0050.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0051.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0052.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0053.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0054.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0055.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0056.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0057.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0058.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0059.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0060.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0061.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0062.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0063.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0064.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0065.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0066.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0067.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0068.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0069.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0070.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0071.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0072.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0073.json"
+         ],
+         "label" : "Heidelberger Sachsenspiegel: Landrecht"
+      },
+      {
+         "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/range/r3",
+         "@type" : "sc:Range",
+         "canvases" : [
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0074.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0075.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0076.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0077.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0078.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0079.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0080.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0081.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0082.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0083.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0084.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0085.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0086.json",
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0087.json"
+         ],
+         "label" : "Von der Herren Geburt"
+      },
+      {
+         "@id" : "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/range/r4",
+         "@type" : "sc:Range",
+         "canvases" : [
+            "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0088.json"
+         ],
+         "label" : "Einband hinten"
+      }
+   ],
+   "viewingDirection" : "left-to-right",
+   "viewingHint" : "paged",
+   "within" : []
 }
