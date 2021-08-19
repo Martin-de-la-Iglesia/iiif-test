@@ -1,0 +1,19 @@
+{
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/10865_sw.json",
+                            "@type": "sc:AnnotationList",
+                            "resources": [                  
+                        {
+                        "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/10865_sw.json/1",
+                        "@type": "oa:Annotation",
+                        "motivation": "commenting",
+                        "resource": {       
+                        "@type": "cnt:ContentAsText",
+                        "format": "text/html",
+                        "chars": "<p><h2>Textinitiale</h2></p><p><i>Beschreibung:</i><br/>Litera Gro▀ A. Lichtgr³n.</p>"
+                        },
+                        "on": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0016.json#xywh=2423,2758,144,142"
+                        }
+    ]
+}
+                

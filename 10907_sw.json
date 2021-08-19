@@ -1,0 +1,19 @@
+{
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/10907_sw.json",
+                            "@type": "sc:AnnotationList",
+                            "resources": [                  
+                        {
+                        "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/10907_sw.json/1",
+                        "@type": "oa:Annotation",
+                        "motivation": "commenting",
+                        "resource": {       
+                        "@type": "cnt:ContentAsText",
+                        "format": "text/html",
+                        "chars": "<p><h2>Erster Heerschild</h2></p><p><i>Oberbegriffe:</i><br/>Bewaffnung<br/>Waffe<br/>Schild<br/>Wappen<br/>Standessymbol<br/>Rechtssymbol</p><p><i>Beschreibung:</i><br/>Heerschild des K÷nigs. Schwarzer Adler in Gold.</p>"
+                        },
+                        "on": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg164/canvas/0016.json#xywh=483,2757,368,400"
+                        }
+    ]
+}
+                
