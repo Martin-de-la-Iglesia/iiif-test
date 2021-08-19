@@ -603,9 +603,19 @@
                ],
                 "otherContent": [        
                   {
-                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/transkription_alt.json",
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/10907_sw.json",
                    "@type": "sc:AnnotationList",
-                   "label": "Transkription"
+                   "label": "Schlagwort"
+                 },
+                 {
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/10865_sw.json",
+                   "@type": "sc:AnnotationList",
+                   "label": "Schlagwort"
+                 },
+                 {
+                   "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/10885_sw.json",
+                   "@type": "sc:AnnotationList",
+                   "label": "Schlagwort"
                  }
                ],
                "label" : "1v",            
