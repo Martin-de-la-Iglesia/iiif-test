@@ -108,6 +108,9 @@
   ],
   "sequences": [
     {
+    
+    "canvases": [
+        {
       "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001",
       "@type": "sc:Canvas",
       "label": "VD",
@@ -4845,6 +4848,8 @@
           }
         }
       ]
+    }
+    ]
     }
   ],
          "label" : [
