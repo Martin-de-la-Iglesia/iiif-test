@@ -14,8 +14,8 @@
           "@type": "sc:Canvas",
           "@id": "http://localhost:3000/segPap_022/canvas/1",
           "label": "22",
-          "width": 3000,
-          "height": 3000,
+          "width": 9700,
+          "height": 7980,
           "images": [
             {
               "@type": "oa:Annotation",
@@ -23,12 +23,10 @@
               "on": "http://localhost:3000/segPap_022/canvas/1",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/400,400/0/default.jpg",
-"width": 3000,
-                "height": 3000,
+                "@id": "https://iiif.hab.de/object/mss_35-helmst/image/image_00001/full/full/0/default.jpg",
                 "service": {
                   "@context":  "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/info.json",
+                  "@id": "https://iiif.hab.de/object/mss_35-helmst/image/image_00001",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
