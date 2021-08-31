@@ -753,7 +753,7 @@
       ]
     },
     {
-      "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvas.json",
+      "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033",
       "@type": "sc:Canvas",
       "label": "2r",
       "height": 4072,
@@ -762,16 +762,12 @@
         {
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
-          "on": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/test-canvas.json",
+          "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033",
           "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033.jp2/full/400,400/0/default.jpg",
             "@type": "dctypes:Image",
             "width": 3000,
-"height": 3000,
-            "service": {
-              "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033",
-              "@context":  "http://iiif.io/api/image/2/context.json","profile": "http://iiif.io/api/image/2/profiles/level2.json"
-            }
+"height": 3000
           }
         }
       ]
