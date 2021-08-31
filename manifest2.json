@@ -14,8 +14,8 @@
           "@type": "sc:Canvas",
           "@id": "http://localhost:3000/segPap_022/canvas/1",
           "label": "22",
-          "width": 6099,
-          "height": 8599,
+          "width": 3000,
+          "height": 3000,
           "images": [
             {
               "@type": "oa:Annotation",
@@ -23,12 +23,12 @@
               "on": "http://localhost:3000/segPap_022/canvas/1",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022/full/500,/0/default.jpg",
-"width": 500,
-                "height": 704,
+                "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/400,400/0/default.jpg",
+"width": 3000,
+                "height": 3000,
                 "service": {
                   "@context":  "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022",
+                  "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/info.json",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
