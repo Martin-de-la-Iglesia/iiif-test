@@ -1,76 +1,37 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://purl.stanford.edu/wh234bz9013/iiif/manifest",
   "@type": "sc:Manifest",
-  "label": "TEST2",
-  "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",   
-  "metadata": [
-    {
-      "label": "Available Online",
-      "value": "<a href='https://purl.stanford.edu/wh234bz9013'>https://purl.stanford.edu/wh234bz9013</a>"
-    },
-    {
-      "label": "Identifier",
-      "value": "C1.page2"
-    },
-    {
-      "label": "Title",
-      "value": "HÆMISPHÆRIUM STELLATVM BOREALE CVM SUBIECTO HÆMISPHÆRO TERRESTRI."
-    },
-    {
-      "label": "Date",
-      "value": "1660"
-    },
-    {
-      "label": "Date",
-      "value": "1660"
-    },
-    {
-      "label": "Creator",
-      "value": "Cellarius, Andreas"
-    },   
-    {
-      "label": "Format",
-      "value": "1 celestial chart : hand col. ; 43.5 x 51.5 cm."
-    },
-    {
-      "label": "Rights",
-      "value": "Stanford University Libraries and Academic Information Resources - Terms of Use SULAIR Web sites are subject to Stanford University's standard Terms of Use (See http://www.stanford.edu/home/atoz/terms.html) These terms include a limited personal, non-exclusive, non-transferable license to access and use the sites, and to download - where permitted - material for personal, non-commercial, non-display use only. Please contact the University Librarian to request permission to use SULAIR Web sites and contents beyond the scope of the above license, including but not limited to republication to a group or republishing the Web site or parts of the Web site. SULAIR provides access to a variety of external databases and resources, which sites are governed by their own Terms of Use, as well as contractual access restrictions. The Terms of Use on these external sites always govern the data available there. Please consult with library staff if you have questions about data access and availability."
-    },    
-    {
-      "label": "Description",
-      "value": "Includes bibliographical references (p. xv-xvi) and indexes."
-    }
-  ],   
+  "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/manifest2.json",
+  "label": "Papillons",
+  "description": "Four patterns inspired by butterflies.",
+  "attribution": "Special Collections Research Center at NCSU Libraries",
+  "logo": "http://ronallo.com/iiif-workshop-new/images/logo.jpg",
   "sequences": [
     {
-      "@id": "https://purl.stanford.edu/wh234bz9013#sequence-1",
       "@type": "sc:Sequence",
-      "label": "Current order",
-      "viewingDirection": "left-to-right",
       "canvases": [
         {
-          "@id": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/0001",
           "@type": "sc:Canvas",
-          "label": "image",
-          "height": 7647,
-          "width": 8812,
+          "@id": "http://localhost:3000/segPap_022/canvas/1",
+          "label": "22",
+          "width": 6099,
+          "height": 8599,
           "images": [
             {
-              "@id": "https://purl.stanford.edu/wh234bz9013/iiif/annotation/0001",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
+              "on": "http://localhost:3000/segPap_022/canvas/1",
               "resource": {
-                "@id": "https://stacks.stanford.edu/image/iiif/wh234bz9013%2Fwh234bz9013_05_0001/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://stacks.stanford.edu/image/iiif/wh234bz9013%2Fwh234bz9013_05_0001",
+                "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022/full/500,/0/default.jpg",
+"width": 500,
+                "height": 704,
+                "service": {
+                  "@context":  "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              },
-              "on": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/0001"
+              }
             }
           ]
         }
