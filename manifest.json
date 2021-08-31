@@ -96,10 +96,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -114,10 +116,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00002",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00002.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00002.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00002.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -132,10 +136,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -150,10 +156,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -168,10 +176,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00005",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00005.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00005.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00005.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -186,10 +196,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00006",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00006.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00006.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00006.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -204,10 +216,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00007",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00007.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00007.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00007.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -222,10 +236,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00008",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00008.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00008.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00008.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -240,10 +256,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00009",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00009.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00009.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00009.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -258,10 +276,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00010",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00010.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00010.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00010.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -276,10 +296,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00011",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00011.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00011.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00011.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -294,10 +316,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00012",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00012.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00012.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00012.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -312,10 +336,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00013",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00013.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00013.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00013.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -330,10 +356,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00014",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00014.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00014.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00014.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -348,10 +376,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00015",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00015.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00015.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00015.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -366,10 +396,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00016",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00016.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00016.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00016.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -384,10 +416,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00017",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00017.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00017.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00017.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -402,10 +436,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00018",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00018.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00018.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00018.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -420,10 +456,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00019",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00019.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00019.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00019.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -438,10 +476,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00020",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00020.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00020.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00020.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -456,10 +496,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00021",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00021.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00021.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00021.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -474,10 +516,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00022",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00022.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00022.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00022.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -492,10 +536,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00023",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00023.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00023.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00023.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -510,10 +556,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00024",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00024.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00024.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00024.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -528,10 +576,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00025",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00025.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00025.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00025.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -546,10 +596,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00026",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00026.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00026.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00026.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -564,10 +616,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00027",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00027.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00027.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00027.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -582,10 +636,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -600,10 +656,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -618,10 +676,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -636,10 +696,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -654,10 +716,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -672,10 +736,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -690,10 +756,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -708,10 +776,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00035",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00035.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00035.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00035.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -726,10 +796,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00036",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00036.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00036.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00036.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -744,10 +816,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -762,10 +836,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00038",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00038.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00038.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00038.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -780,10 +856,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00039",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00039.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00039.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00039.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -798,10 +876,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -816,10 +896,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00041",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00041.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00041.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00041.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -834,10 +916,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00042",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00042.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00042.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00042.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -852,10 +936,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00043",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00043.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00043.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00043.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -870,10 +956,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00044",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00044.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00044.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00044.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -888,10 +976,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00045",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00045.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00045.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00045.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -906,10 +996,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00046",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00046.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00046.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00046.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -924,10 +1016,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00047",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00047.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00047.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00047.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -942,10 +1036,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00048",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00048.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00048.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00048.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -960,10 +1056,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00049",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00049.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00049.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00049.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -978,10 +1076,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00050",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00050.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00050.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00050.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -996,10 +1096,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00051",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00051.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00051.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00051.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1014,10 +1116,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00052",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00052.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00052.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00052.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1032,10 +1136,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00053",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00053.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00053.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00053.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1050,10 +1156,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00054",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00054.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00054.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00054.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1068,10 +1176,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00055",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00055.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00055.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00055.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1086,10 +1196,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00056",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00056.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00056.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00056.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1104,10 +1216,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00057",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00057.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00057.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00057.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1122,10 +1236,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1140,10 +1256,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1158,10 +1276,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00060",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00060.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00060.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00060.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1176,10 +1296,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00061",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00061.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00061.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00061.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1194,10 +1316,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00062",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00062.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00062.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00062.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1212,10 +1336,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00063",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00063.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00063.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00063.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1230,10 +1356,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00064",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00064.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00064.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00064.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1248,10 +1376,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00065",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00065.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00065.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00065.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1267,10 +1397,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1285,10 +1417,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00067",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00067.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00067.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00067.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1303,10 +1437,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00068",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00068.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00068.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00068.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1321,10 +1457,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00069",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00069.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00069.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00069.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1339,10 +1477,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00070",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00070.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00070.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00070.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1357,10 +1497,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00071",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00071.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00071.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00071.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1375,10 +1517,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00072",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00072.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00072.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00072.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1393,10 +1537,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00073",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00073.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00073.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00073.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1411,10 +1557,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00074",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00074.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00074.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00074.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1429,10 +1577,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00075",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00075.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00075.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00075.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1447,10 +1597,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00076",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00076.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00076.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00076.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1465,10 +1617,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00077",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00077.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00077.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00077.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1483,10 +1637,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00078",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00078.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00078.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00078.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1501,10 +1657,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00079",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00079.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00079.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00079.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1519,10 +1677,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00080",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00080.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00080.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00080.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1537,10 +1697,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00081",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00081.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00081.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00081.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1555,10 +1717,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00082",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00082.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00082.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00082.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1573,10 +1737,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00083",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00083.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00083.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00083.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1591,10 +1757,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00084",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00084.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00084.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00084.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1609,10 +1777,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00085",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00085.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00085.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00085.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1627,10 +1797,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00086",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00086.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00086.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00086.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1645,10 +1817,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00087",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00087.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00087.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00087.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1663,10 +1837,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00088",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00088.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00088.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00088.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1681,10 +1857,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00089",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00089.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00089.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00089.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1699,10 +1877,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00090",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00090.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00090.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00090.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1717,10 +1897,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00091",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00091.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00091.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00091.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1735,10 +1917,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00092",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00092.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00092.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00092.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1753,10 +1937,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00093",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00093.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00093.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00093.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1771,10 +1957,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00094",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00094.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00094.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00094.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1789,10 +1977,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00095",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00095.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00095.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00095.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1807,10 +1997,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00096",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00096.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00096.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00096.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1825,10 +2017,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00097",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00097.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00097.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00097.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1843,10 +2037,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00098",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00098.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00098.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00098.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1861,10 +2057,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00099",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00099.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00099.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00099.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1879,10 +2077,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00100",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00100.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00100.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00100.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1897,10 +2097,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00101",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00101.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00101.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00101.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1915,10 +2117,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00102",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00102.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00102.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00102.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1933,10 +2137,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00103",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00103.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00103.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00103.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1951,10 +2157,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00104",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00104.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00104.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00104.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1969,10 +2177,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00105",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00105.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00105.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00105.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -1987,10 +2197,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00106",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00106.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00106.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00106.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2005,10 +2217,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00107",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00107.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00107.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00107.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2023,10 +2237,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00108",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00108.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00108.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00108.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2041,10 +2257,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00109",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00109.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00109.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00109.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2059,10 +2277,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00110",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00110.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00110.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00110.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2077,10 +2297,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00111",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00111.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00111.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00111.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2095,10 +2317,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00112",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00112.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00112.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00112.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2113,10 +2337,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00113",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00113.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00113.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00113.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2131,10 +2357,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00114",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00114.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00114.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00114.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2149,10 +2377,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00115",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00115.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00115.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00115.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2167,10 +2397,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00116",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00116.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00116.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00116.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2185,10 +2417,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00117",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00117.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00117.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00117.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2203,10 +2437,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00118",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00118.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00118.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00118.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2221,10 +2457,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00119",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00119.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00119.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00119.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2239,10 +2477,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00120",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00120.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00120.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00120.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2257,10 +2497,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00121",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00121.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00121.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00121.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2275,10 +2517,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00122",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00122.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00122.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00122.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2293,10 +2537,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00123",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00123.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00123.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00123.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2311,10 +2557,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00124",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00124.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00124.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00124.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2329,10 +2577,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00125",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00125.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00125.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00125.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2347,10 +2597,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00126",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00126.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00126.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00126.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2365,10 +2617,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00127",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00127.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00127.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00127.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2383,10 +2637,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00128",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00128.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00128.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00128.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2401,10 +2657,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00129",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00129.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00129.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00129.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2419,10 +2677,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00130",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00130.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00130.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00130.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2437,10 +2697,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00131",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00131.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00131.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00131.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2455,10 +2717,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00132",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00132.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00132.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00132.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2473,10 +2737,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00133",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00133.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00133.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00133.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2491,10 +2757,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00134",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00134.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00134.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00134.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2509,10 +2777,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00135",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00135.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00135.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00135.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2527,10 +2797,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00136",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00136.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00136.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00136.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2545,10 +2817,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00137",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00137.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00137.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00137.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2563,10 +2837,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00138",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00138.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00138.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00138.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2581,10 +2857,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00139",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00139.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00139.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00139.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2599,10 +2877,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00140",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00140.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00140.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00140.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2617,10 +2897,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00141",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00141.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00141.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00141.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2635,10 +2917,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00142",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00142.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00142.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00142.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2653,10 +2937,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00143",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00143.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00143.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00143.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2671,10 +2957,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00144",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00144.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00144.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00144.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2689,10 +2977,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00145",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00145.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00145.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00145.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2707,10 +2997,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00146",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00146.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00146.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00146.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2725,10 +3017,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00147",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00147.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00147.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00147.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2743,10 +3037,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00148",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00148.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00148.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00148.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2761,10 +3057,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00149",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00149.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00149.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00149.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2779,10 +3077,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00150",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00150.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00150.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00150.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2797,10 +3097,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00151",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00151.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00151.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00151.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2815,10 +3117,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00152",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00152.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00152.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00152.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2833,10 +3137,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00153",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00153.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00153.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00153.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2851,10 +3157,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00154",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00154.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00154.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00154.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2869,10 +3177,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00155",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00155.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00155.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00155.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2887,10 +3197,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00156",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00156.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00156.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00156.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2905,10 +3217,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00157",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00157.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00157.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00157.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2923,10 +3237,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00158",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00158.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00158.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00158.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2941,10 +3257,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00159",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00159.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00159.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00159.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2959,10 +3277,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00160",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00160.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00160.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00160.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2977,10 +3297,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00161",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00161.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00161.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00161.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -2995,10 +3317,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00162",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00162.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00162.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00162.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3013,10 +3337,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00163",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00163.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00163.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00163.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3031,10 +3357,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00164",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00164.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00164.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00164.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3049,10 +3377,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00165",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00165.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00165.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00165.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3067,10 +3397,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00166",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00166.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00166.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00166.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3085,10 +3417,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00167",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00167.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00167.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00167.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3103,10 +3437,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00168",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00168.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00168.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00168.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3121,10 +3457,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00169",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00169.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00169.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00169.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3139,10 +3477,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00170",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00170.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00170.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00170.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3157,10 +3497,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00171",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00171.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00171.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00171.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3175,10 +3517,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00172",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00172.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00172.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00172.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3193,10 +3537,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00173",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00173.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00173.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00173.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3211,10 +3557,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00174",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00174.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00174.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00174.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3229,10 +3577,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00175",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00175.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00175.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00175.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3247,10 +3597,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00176",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00176.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00176.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00176.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3265,10 +3617,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00177",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00177.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00177.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00177.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3283,10 +3637,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00178",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00178.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00178.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00178.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3301,10 +3657,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00179",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00179.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00179.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00179.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3319,10 +3677,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00180",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00180.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00180.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00180.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3337,10 +3697,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00181",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00181.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00181.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00181.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3355,10 +3717,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00182",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00182.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00182.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00182.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3373,10 +3737,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00183",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00183.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00183.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00183.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3391,10 +3757,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00184",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00184.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00184.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00184.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3409,10 +3777,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00185",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00185.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00185.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00185.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3427,10 +3797,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00186",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00186.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00186.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00186.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3445,10 +3817,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00187",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00187.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00187.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00187.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3463,10 +3837,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00188",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00188.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00188.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00188.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3481,10 +3857,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00189",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00189.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00189.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00189.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3499,10 +3877,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00190",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00190.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00190.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00190.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3517,10 +3897,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00191",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00191.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00191.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00191.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3535,10 +3917,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00192",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00192.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00192.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00192.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3553,10 +3937,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00193",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00193.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00193.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00193.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3571,10 +3957,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00194",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00194.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00194.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00194.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3589,10 +3977,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00195",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00195.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00195.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00195.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3607,10 +3997,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00196",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00196.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00196.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00196.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3625,10 +4017,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00197",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00197.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00197.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00197.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3643,10 +4037,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00198",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00198.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00198.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00198.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3661,10 +4057,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00199",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00199.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00199.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00199.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3679,10 +4077,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00200",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00200.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00200.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00200.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3697,10 +4097,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00201",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00201.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00201.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00201.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3715,10 +4117,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00202",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00202.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00202.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00202.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3733,10 +4137,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00203",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00203.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00203.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00203.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3751,10 +4157,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00204",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00204.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00204.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00204.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3769,10 +4177,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00205",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00205.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00205.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00205.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			},
@@ -3787,10 +4197,12 @@
 					"motivation": "sc:painting",
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206",
 					"resource": {
-						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206.jp2/full/400,400/0/default.jpg",
+						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
-						"width": 3000,
-						"height": 3000
+						"service": {
+							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206.jp2",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
 					}
 				}]
 			}
