@@ -1,0 +1,29 @@
+{
+                                "@context": "http://iiif.io/api/presentation/2/context.json",
+                                "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json",
+                                    "@type": "sc:AnnotationList",
+                                    "resources": [
+                                    {
+                                    "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/1",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Transkription:]<br/>ein man selb sibende mit u<i>n</i>bescholdenen luten<br/>an irme rechte, swer si sin.<br/><b>C. LXXXI. I</b>s ist gut, das ein man der vrouwen vrunt, ir<br/>gut mit ir enpha, durch das, ab ir herre stirbet<br/>unde di vrouwe dar nicht gevolgen enmag,<br/>wen si des herschildes darbit, das der man volge<br/>sime gute noch sime rechte, wen he den her-<br/>schilt hat. <b> S</b>welcher dirre zcweier den anderen<br/>uberlebet, der hat lenrecht in deme gute kegen den<br/>herren, der is en geligen hat, hatte is aber der man<br/> zu der vrouwen hant enphangen unde anders nicht,<br/>noch der vrouwen tode enhat he da nicht<br/>rechtes an. Ab dis gut kumt an einen an-<br/>deren herren, liet hes en beiden denne alse he durch<br/>recht sal, wen si beide ein lenrecht dar an ha-<br/>ben, so haben sis von im, alse si is von dem ersten<br/>herren hatten. <b>V</b>orspricht aber der herre der vrou-<br/>wen volge unde liet hes dem manne alleine,<br/>he hat vol lenrecht dar an zu liene unde zcu<br/>lasene mit der vrouwen wille, wen si in den ge-<br/>weren siezt, unde he mag is erben uf sine kint.<br/><b>S</b>pricht ein herre einer vrouwen gut an, das<br/>si in geweren hat, oder imant, der des herschildes<br/>darbet, unde saget is im der herre ledig von sins<br/>mannes tode, unde saget is ir di vrouwe zu von<br/>eime anderen, der noch lebet, gewert si der herre des<br/>gutes noch lenrechte, di vrouwe behelt is.<br/><b> C. LXXXII. D</b>er man mus wol sinen herren<br/>phenden durch schult unde vor gerichte<br/>beclagen, da he im rechtes umme geweigert<br/>hat vor sinen mannen unde"
+                                            },
+                                            "on": "http://localhost:3000/segPap_022/canvas/1"
+                                     },
+                                     {
+                                    "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/2",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Übersetzung:]<br/>Kaiser zu Mainz mit Zustimmung der Fürsten.<br/>Wir setzen und gebieten kraft unserer kaiserlichen<br/>Gewalt und mit Unterstützung der Fürsten<br/>und mit anderen dem Reich treuen Lehensleuten:..."
+                                            },
+                                            "on": "http://localhost:3000/segPap_022/canvas/1"
+                                     }
+                              ]
+}
