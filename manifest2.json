@@ -26,7 +26,9 @@
                 "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/full/0/default.jpg",
                "width": 3000,
           "height": 3000
-              },
+              }
+            }
+          ],
             "otherContent": [                 
             {
             "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json",
@@ -34,8 +36,6 @@
             "label": "Annotationen"
             }
             ]
-            }
-          ]
         }
       ]
     }
