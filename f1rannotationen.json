@@ -31,7 +31,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Friedrich der Zweite</b><br/>Oberbegriffe:<br/> Herrscher<br/> Kaiser<br/>Beschreibung:<br/> Mit überschlagenen Beinen sowie Lilienkrone, Reichsapfel und Zepter (jeweils golden). Gefütterter Nuschenmantel, langer goldener Rock und Beinlinge."
+                                                "chars": "<b>Friedrich der Zweite</b><br/>Typ:<br/> Person<br/>Oberbegriffe:<br/> Herrscher<br/> Kaiser<br/>Beschreibung:<br/> Mit überschlagenen Beinen sowie Lilienkrone, Reichsapfel und Zepter (jeweils golden). Gefütterter Nuschenmantel, langer goldener Rock und Beinlinge."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -42,7 +42,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Lilienkrone</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/> Insignie<br/>Beschreibung:<br/> Kennzeichnet Kaiser und König. Golden mit schwarzen Umrissen."
+                                                "chars": "<b>Lilienkrone</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/> Insignie<br/>Beschreibung:<br/> Kennzeichnet Kaiser und König. Golden mit schwarzen Umrissen."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -53,7 +53,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Reichsapfel</b><br/>Oberbegriffe:<br/> Standessymbol<br/> Insignie<br/>Beschreibung:<br/> Kennzeichnet Kaiser und König. Golden mit schwarzen Umrissen."
+                                                "chars": "<b>Reichsapfel</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Standessymbol<br/> Insignie<br/>Beschreibung:<br/> Kennzeichnet Kaiser und König. Golden mit schwarzen Umrissen."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -64,7 +64,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Zepter</b><br/>Oberbegriffe:<br/> Standessymbol<br/> Insignie<br/>Beschreibung:<br/> Kennzeichnet Kaiser und König. Golden mit schwarzen Umrissen."
+                                                "chars": "<b>Zepter</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Standessymbol<br/> Insignie<br/>Beschreibung:<br/> Kennzeichnet Kaiser und König. Golden mit schwarzen Umrissen."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -75,7 +75,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Nuschenmantel</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Gefüttert und mit Fibel (Nusche) geschlossen."
+                                                "chars": "<b>Nuschenmantel</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Gefüttert und mit Fibel (Nusche) geschlossen."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -86,7 +86,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Nusche</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Broschenförmige Spange zum Verschließen des Mantels."
+                                                "chars": "<b>Nusche</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Broschenförmige Spange zum Verschließen des Mantels."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -97,7 +97,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                "chars": "<b>Textinitiale</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -108,7 +108,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Stempelabdruck</b><br/>Beschreibung:<br/> Bibliothek zu Wolfenbüttel."
+                                                "chars": "<b>Stempelabdruck</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Bibliothek zu Wolfenbüttel."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -119,7 +119,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Seitenangabe</b><br/>Beschreibung:<br/> Folio 1 recto."
+                                                "chars": "<b>Seitenangabe</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Folio 1 recto."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -130,7 +130,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Signatur</b><br/>Beschreibung:<br/> Wohl von Herzog August von Braunschweig-Wolfenbüttel. 3. R. Msc."
+                                                "chars": "<b>Signatur</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Wohl von Herzog August von Braunschweig-Wolfenbüttel. 3. R. Msc."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -141,7 +141,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Thronarchitektur</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Kastensitz auf Fußbodenschnitt mit aufwendig gestalteter Architektur und Wandschnitten.Teilweise golden mit schwarzen Umrissen."
+                                                "chars": "<b>Thronarchitektur</b><br/>Typ:<br/> Ort<br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Kastensitz auf Fußbodenschnitt mit aufwendig gestalteter Architektur und Wandschnitten.Teilweise golden mit schwarzen Umrissen."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -152,7 +152,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> unde mit der vursten rate."
+                                                "chars": "<b>Textlücke</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> unde mit der vursten rate."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -163,7 +163,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> mit."
+                                                "chars": "<b>Textlücke</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> mit."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -174,7 +174,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> zu."
+                                                "chars": "<b>Textlücke</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> zu."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -185,7 +185,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> heiligen statt heilige."
+                                                "chars": "<b>Textlücke</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> heiligen statt heilige."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -196,7 +196,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> mit dicheiner slachte dinge."
+                                                "chars": "<b>Textlücke</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> mit dicheiner slachte dinge."
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -207,7 +207,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Fußbodenschnitt</b><br/>Oberbegriffe:<br/> Ort"
+                                                "chars": "<b>Fußbodenschnitt</b><br/>Typ:<br/> Ort<br/>Oberbegriffe:<br/> Ort"
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              },
@@ -218,7 +218,7 @@
                                                 "resource": {       
                                                 "@type": "cnt:ContentAsText",
                                                 "format": "text/html",
-                                                "chars": "<b>Beginn des Mainzer Reichslandfriedens</b>"
+                                                "chars": "<b>Beginn des Mainzer Reichslandfriedens</b><br/>Typ:<br/> Beschreibung"
                                                     },
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031"
                                              }]
