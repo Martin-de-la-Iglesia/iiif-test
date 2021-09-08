@@ -27,6 +27,11 @@
               }
             }
           ],
+          "service":{
+            "@context":"http://iiif.io/api/search/1/context.json",
+                     "@id":"https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb10000755",
+                     "profile":"http://iiif.io/api/search/1/search"
+          },
             "otherContent": [                 
             {
             "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json",
