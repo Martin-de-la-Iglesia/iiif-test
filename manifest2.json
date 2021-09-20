@@ -23,13 +23,13 @@
               "on": "http://localhost:3000/segPap_022/canvas/1",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/full/0/default.jpg"
+                "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001.jp2/full/full/0/default.jpg"
               }
             }
           ],
           "service":{
             "@context":"http://iiif.io/api/search/1/context.json",
-                     "@id":"https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00031",
+                     "@id":"https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00001",
                      "profile":"http://iiif.io/api/search/1/search"
           },
             "otherContent": [                 
