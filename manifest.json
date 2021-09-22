@@ -137,13 +137,13 @@
 					"on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003",
 					"resource": {
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003.jp2/full/full/0/default.jpg",
-						"@type": "dctypes:Image",
+						"@type": "dctypes:Image"
+					}
+				}],
 						"service": {
 							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00003",
 							"profile": "http://iiif.io/api/image/2/level1.json"
-						}
-					}
-				}]
+						},
 			},
 			{
 				"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004",
