@@ -1,0 +1,898 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>man kein urteil so recht vor dem riche binnen<br/>Sachsin envint, wil is ein Sachse scheidin, unde<br/>zut he des an sine vordirn hant unde an di<br/> meiste menie, unde widervichtit he das urteil<br/>selb sibinde wider andere sibene, wo di meiste<br/>menie gesiget, di haben das urteil behaldin. Da<br/> zu behilden si allir ir aldis recht, was wider der<br/>cristenheit e unde wider deme rechtin gloubin<br/>nicht enwas.<br/><b>C.XIX. D</b>er Swabe nimt wol<br/>hergewete unde erbe bobin der sibenden sippe, al-<br/>se verre, so he immer gereiten kan, das der man im<br/>von swerthalbin zu geborn si, unde also verre, al-<br/>se hes gezugen mag, das ein sin vorvare<br/>ienes vorvaren oder ienes vorvare sins vor-<br/>varen hergewete gevordirt habe vor gerichte<br/>oder genumen. <b>D</b>i Swabin scheldin wol urteil<br/> under en selbe binnen swebischer art unde zcien<br/>des an di eldirn Swabe, den musen si aber benen-<br/>nen, unde an di meiste menie zu echteme din-<br/> ge an di hoestin dingstat. Swebisch recht<br/>enzweit nicht von sechsicheme rechte, wen<br/>an erbe zu nemene unde urteil zu scheldene.<br/><b>C.XX. N</b> u virnemit, was ein iclich man von ritters<br/>art muge gegebin sime wibe zu morgen-<br/>gabe. Des morgens, als he mit ir zu tische<br/>gat vor essin, an erbin gelubde, so mag he<br/>ir gebn einen knecht odir eine mait, di<br/> binnen iren jarin si, unde zune unde zimmer<br/>unde veltgenge vie. Wo der vrouwen di stat<br/>nich<i>t</i> enis mit deme geb<i>iu</i>, als ir man stir-<br/>it, binnen sechswochen noch dem drise-<br/>gesten sal si mit dem gebu rumen, so<br/>das si di erde nicht enwunde. Butet si aber"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>man kein Urteil, wie rechtm&#228;&#223;ig auch immer, vor<br/>dem K&#246;nigsgericht in Sachsen findet; will es ein<br/>Sachse schelten, dann beruft er sich auf seine vordere<br/>Hand und auf die Mehrheit der M&#228;nner<br/> und ficht das Urteil selbsiebt gegen sieben andere<br/>(M&#228;nner) an: Wo die Mehrheit der M&#228;nner siegt,<br/>dort haben sie das Urteil erstritten. Au&#223;erdem<br/>behielten sie alle (die Sachsen) ihr altes Recht, sofern<br/> es nicht gegen das Gesetz der Christenheit<br/>oder wider den rechten Glauben war.<br/> <h2> Kapitel XIX. </h2> <br/> Der Schwabe nimmt Heergew&#228;te und Erbe<br/>auch &#252;ber den siebten Sippegrad hinaus, und zwar<br/>so weit, wie er berechnen kann, da&#223; der Mann<br/> ihm von der Schwertseite her verwandt ist oder<br/>so weit, wie er es bezeugen kann, da&#223; einer seiner<br/>Vorfahren jenes Vorfahren oder jenes Vorfahren<br/>von seinem Vorfahren das Heergew&#228;te vor<br/>Gericht gefordert oder genommen hat. Die<br/>Schwaben schelten ein Urteil untereinander auf<br/>schw&#228;bischer Erde und berufen sich auf ein<br/> Gericht in Alt-Schwaben, das sie aber benennen<br/>m&#252;ssen, und an die Mehrheit der M&#228;nner im echten<br/>Ding an der h&#246;chsten Gerichtsst&#228;tte. Schw&#228;bisches<br/>Recht unterscheidet sich nicht von s&#228;chsischem<br/> Recht, au&#223;er darin, wie Erbe zu nehmen<br/>und Urteil zu schelten ist.<br/> <h2> Kapitel XX. </h2> <br/> Nun vernehmet,<br/>was jeder Mann von ritterlicher Herkunft<br/>seiner Frau als Morgengabe schenken soll.<br/>Am Morgen, wenn er mit ihr zu Tische geht, also<br/>vor dem Fr&#252;hst&#252;ck, kann er ihr ohne Zustimmung<br/> der Erben einen Knecht oder eine Magd schenken,<br/>die noch innerhalb ihrer Jahre sind, ferner<br/>Zaun und Zimmer und feldg&#228;ngiges Vieh. Wo<br/> der Frau der Boden nicht geh&#246;rt, auf dem sich<br/>das Geb&#228;ude befindet, wenn ihr Mann stirbt,<br/>dann soll sie innerhalb von sechs Wochen nach<br/> dem Drei&#223;igsten mit dem Geb&#228;ude so r&#228;umen,<br/>da&#223; sie den Erdboden nicht verletzt. Bietet sie<br/>aber"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e15572",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Seitenangabe</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Folio 15 recto."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=2764,203,138,99"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e15622",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Buchangabe</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Erstes Buch Landrecht."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1474,224,110,106"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e15672",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Erstes Buch Landrecht, Artikel 19."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=2159,1025,114,107"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e15722",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Litera Klein d. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1547,951,201,248"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e15772",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Litera Groß D. Blau."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1871,1522,153,117"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e15823",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Erstes Buch Landrecht, Artikel 20."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=2596,2051,109,102"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e15873",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Litera Klein n. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1586,2044,114,114"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e15923",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=2032,2478,216,109"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e15973",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Litera Groß D. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=524,165,152,149"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16023",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Litera Klein d. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=642,899,149,156"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16073",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Litera Groß D. Lichtblau.
+"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=813,1574,115,109"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16124",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Litera Klein n. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=687,2506,123,139"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16174",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Liter Groß W. Mennigrot."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=958,2990,212,168"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16224",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Die rechtlichen Privilegien der Sachsen</b><br/>Typ:<br/> Beschreibung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=278,132,1237,808"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16273",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Rechte, die die Sachsen behalten durften</b><br/>Typ:<br/> Handlung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=278,132,1237,808"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16322",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Podest."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1101,532,391,363"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16372",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Podest</b><br/>Typ:<br/> Sache"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1098,741,391,155"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16522",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sächsin</b><br/>Typ:<br/> Person<br/>Oberbegriffe:<br/> Stammesrepräsentant<br/>Beschreibung:<br/> Symbolisiert die Erblosigkeit der Frauen nach übernommenem schwäbischen Recht. Höfisch geraffter und gefütterter Mantel, Rock und Gebände."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=892,183,296,710"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16572",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gebände</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kinnband, das von einem kappenartig auf dem Kopf liegenden steiferen Band ergänzt wird."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=881,191,211,242"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16622",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Lilienkrone</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Insignie<br/> Standessymbol<br/> Kopfbedeckung<br/> Bekleidung<br/>Beschreibung:<br/> Kennzeichnet Kaiser und König. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1225,135,208,135"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16672",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zepter</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Standessymbol<br/> Insignie<br/>Beschreibung:<br/> Kennzeichnet Kaiser und König. Golden mit schwarzen Umrissen."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1332,149,146,510"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e16723",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Karl der Große</b><br/>Typ:<br/> Person<br/>Oberbegriffe:<br/> Herrscher<br/> Kaiser<br/>Beschreibung:<br/> Die vor ihm stehenden Sachsen haben gegen seinen Willen drei Sonderrechte behalten. Mit überschlagenen Beinen, goldener Lilienkrone und goldenem Zepter. Langer goldener Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1092,143,414,715"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40420",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwur auf das Reliquiar</b><br/>Typ:<br/> Handlung<br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Erheben der Schwurfinger über das Reliquiar mit häufigem gleichzeitigen Ergreifen des Reliquienständers mit der linken Hand."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=645,223,329,685"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40470",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sachse</b><br/>Typ:<br/> Person<br/>Oberbegriffe:<br/> Stammesrepräsentant<br/>Beschreibung:<br/> Symbolisiert ein Sonderrecht der Sachsen. Leistet auf das Reliquiar den Unschuldseid und entzieht sich damit der Überführung durch Zeugen. Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=645,223,329,685"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40520",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Urteilsrose</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Pflanze<br/> Rechtssymbol<br/>Beschreibung:<br/> Symbolisiert das gescholtene Gerichtsurteil. Unbemalt."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=539,300,120,126"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40570",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sachse</b><br/>Typ:<br/> Person<br/>Oberbegriffe:<br/> Bewaffneter<br/> Stammesrepräsentant<br/>Beschreibung:<br/> Symbolisiert ein Sonderrecht der Sachsen. Schilt das durch die Rose verkörperte Urteil und will es ausfechten.  Mit rechts geschultertem blanken Schwert und Buckelschild. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=286,232,379,703"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40620",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Sachse schilt ein Urteil und führt darüber einen Zweikampf</b><br/>Typ:<br/> Handlung<br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=286,232,379,703"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40669",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Buckelschild</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schild"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=489,406,176,250"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40719",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Blank und rechts geschultert."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=310,232,164,397"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40769",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwäbische Erbfähigkeit über das Siebte Glied hinaus</b><br/>Typ:<br/> Beschreibung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=263,860,1225,724"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40818",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Der Schwabe kann Heergewäte und Erbe auch über das Siebte Glied hinaus nehmen</b><br/>Typ:<br/> Handlung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=263,860,1225,724"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40867",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Podest."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1090,1231,404,334"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40917",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Typ:<br/> Person<br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Nennt dem Schwaben die Voraussetzungen, damit dieser über den siebten Verwandschaftsgrad hinaus Erbe und Heergewäte nehmen kann. Langer Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1081,866,365,687"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e40967",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1241,866,187,93"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41018",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Podest</b><br/>Typ:<br/> Sache"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1102,1466,389,102"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41067",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Symbolisiert hier das Heergewäte. Blank."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=984,1062,205,494"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41117",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Heergewäte</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Erbmasse<br/> Rechtsbegriff<br/>Beschreibung:<br/> Symbolisiert durch das Schwert.
+"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=984,1062,205,494"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41167",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwabe</b><br/>Typ:<br/> Person<br/>Oberbegriffe:<br/> Stammesrepräsentant<br/>Beschreibung:<br/> Auf dem linken Arm sind die sieben Sippen als schwarze Ringe dargestellt. Gefütterter Mantel, der wohl über der Schulter geknöpft ist, langer Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=773,842,422,751"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41217",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grundstück</b><br/>Typ:<br/> Ort<br/>Oberbegriffe:<br/> Ort<br/> Erbmasse<br/>Beschreibung:<br/> Verdeutlicht das Erbe. Symbolisiert durch Ähren."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=267,1212,572,366"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41267",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ähren</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Pflanze<br/>Beschreibung:<br/> Symbolisieren das Grundstück und damit das Erbe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=267,1212,572,366"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41318",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Urteilsrose</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Pflanze<br/> Rechtssymbol<br/>Beschreibung:<br/> Symbolisiert ein Gerichtsurteil. Unbemalt."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=503,986,137,140"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41368",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Verwandschaftsbild</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Die 7 Punkte auf dem linken Unterarm symbolisieren die Verwandschaftsgrade."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=773,842,422,751"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41418",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Urteilsschelte der Schwaben</b><br/>Typ:<br/> Beschreibung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=271,1576,1224,724"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41467",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Typ:<br/> Person<br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Weist wohl auf die Voraussetzungen für eine Urteilsschelte unter Schwaben hin. Langer Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1091,1577,405,715"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41517",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1269,1577,195,110"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41567",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwaben schelten untereinander ein Urteil</b><br/>Typ:<br/> Handlung<br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=271,1576,1224,724"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41617",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Schwaben</b><br/>Typ:<br/> Person<br/>Oberbegriffe:<br/> Stammesrepräsentant<br/> Gruppe<br/>Beschreibung:<br/> Vollziehen untereinander Urteilsschelte. Jedoch im einzelnen nicht zu unterscheiden. Rock, Beinlinge und Knebelschuhe. Teilweise gefütterter Mantel, der über der rechten Schulter geschlossen ist."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=349,1589,846,712"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41667",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann von ritterlicher Herkunft schenkt seiner Frau die Morgengabe</b><br/>Typ:<br/> Beschreibung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=351,2284,1132,697"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41716",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Einer Ehefrau wird die Morgengabe überreicht</b><br/>Typ:<br/> Handlung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=351,2284,1132,697"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41765",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ehemann</b><br/>Typ:<br/> Person<br/>Beschreibung:<br/> Überreicht der Ehefrau am Morgen nach der Hochzeit die Morgengabe. Das Wappen kennzeichnet ihn als von ritterlicher Herkunft. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1137,2284,376,694"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41815",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ehefrau</b><br/>Typ:<br/> Person<br/>Beschreibung:<br/> Erhält von ihrem Ehemann am Morgen nach der Hochzeit die Morgengabe. Gefütterter Mantel, Rock und Gebände."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=736,2308,515,659"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41865",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wappenschild</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schild<br/> Wappen<br/> Rechtssymbol<br/> Standessymbol<br/>Beschreibung:<br/> Symbolisiert die ritterliche Herkunft seines Trägers. Ein Schrägrechtsbalken."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1327,2639,179,192"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41916",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Morgengabe</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Am Morgen des auf die Hochzeit folgenden Tages überreichte Gaben. Hier symbolisiert durch den Knecht, der noch innerhalb seiner Jahre (minderjährig) ist, Schmuck, Zaun und Zimmer sowie feldgängiges Vieh."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=389,2276,895,697"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e41966",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Knecht</b><br/>Typ:<br/> Person<br/>Beschreibung:<br/> Bestandteil der Morgengabe. Aufgrund seiner Unmündigkeit so klein gezeichnet. Deutet seine Ehrerbietung an. Langer Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1075,2527,203,424"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42016",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reif</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Bestandteil der Morgengabe. Symbolisiert Schmuck und Kostbarkeiten. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1108,2321,144,165"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42066",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schüssel</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> Bestandteil der Morgengabe. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=966,2607,197,120"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42116",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tisch</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Symbolisiert den Zeitpunkt der Überreichung der Morgengabe. Mit Tischdecke."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=755,2658,424,299"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42166",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frühstückstisch</b><br/>Typ:<br/> Zeit<br/>Oberbegriffe:<br/> Zeitpunkt<br/>Beschreibung:<br/> Symbolisiert den Morgen des auf die Hochzeit folgenden Tages als Zeitpunkt der Überreichung der Morgengabe. Mit Tischdecke."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=755,2658,424,299"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42217",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Holzbalken</b><br/>Typ:<br/> Ort<br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil der Morgengabe. Symbolisieren den Begriff "Zimmer" und damit ein Haus."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=562,2821,224,133"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42267",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zaun</b><br/>Typ:<br/> Ort<br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil der Morgengabe. Symbolisiert Hof oder Garten. Aus Flechtwerk."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=624,2719,160,187"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42317",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zaun und Zimmer</b><br/>Typ:<br/> Ort<br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil der Morgengabe. Symbolisieren Haus und Hof/Garten."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=554,2709,253,253"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42367",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Feldgängiges Vieh</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Tier<br/>Beschreibung:<br/> Bestandteil der Morgengabe. Hier bestehend aus Rind, Ziegenbock und anderen nicht eindeutig deutbaren Tieren."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=386,2279,301,678"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42417",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bedingte Räumung von Morgengabsgebäuden</b><br/>Typ:<br/> Beschreibung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=299,2988,1202,801"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42466",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Eine Witwe fordert zur Schätzung des Wertes ihres gebus auf</b><br/>Typ:<br/> Handlung"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=299,2988,1202,801"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42516",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Bauern</b><br/>Typ:<br/> Person<br/>Oberbegriffe:<br/> Gruppe<br/>Beschreibung:<br/> Symbolisieren die Nachbarn des Grundstücks, auf dem sich das gebu befindet. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1073,3132,429,645"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42566",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gebände</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kinnband, das von einem kappenartig auf dem Kopf liegenden steiferen Band ergänzt wird."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=851,2300,183,166"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42616",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Witwe</b><br/>Typ:<br/> Person<br/>Beschreibung:<br/> Ergreift ihr gebu mit der Hand und fordert die Nachbarn zur Wertschätzung auf. Mantel, Rock und Schleier mit Kinntuch."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=673,3053,435,747"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42666",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>gebu</b><br/>Typ:<br/> Ort<br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Ein Gebäude, das die Ehefrau durch die Morgengabe besitzt."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=276,2974,490,776"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42716",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zaun</b><br/>Typ:<br/> Ort<br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil des gebu. Aus Flechtwerk."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=305,3342,452,405"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42766",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wohnturm</b><br/>Typ:<br/> Ort<br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Symbolisiert das gebu der Witwe. Hier Wohnturm mit 4 Fenstern sowie Ziegeldach mit Zinnenkranz und zwei knaufartigen Abschlüssen."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=334,2974,335,726"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e42817",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zinnenkranz</b><br/>Typ:<br/> Ort<br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil des gebu der Witwe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=378,3111,268,122"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e43469",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend. Hier mit Kinntuch."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=788,3073,174,229"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e44718",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Rind</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Tier<br/> Rind<br/>Beschreibung:<br/> Bestandteil des feldgängigen Viehs und damit der Morgengabe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=381,2557,269,383"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e44768",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ziegenbock</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Tier<br/> Ziege<br/>Beschreibung:<br/> Bestandteil des feldgängigen Viehs und damit der Morgengabe."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=405,2335,284,342"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e642274",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> nicht statt nich."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1609,2564,135,102"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e642324",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Typ:<br/> Sache<br/>Beschreibung:<br/> gebiu statt gebui."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=2107,2572,184,89"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e672823",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Typ:<br/> Sache<br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Podest."
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1144,1966,344,296"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e672873",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Podest</b><br/>Typ:<br/> Sache"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=1146,2163,334,101"
+                                             },
+                                    {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f15rannotationen.json/3d4e672922",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tischdecke</b><br/>Typ:<br/> Sache"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059#xywh=755,2658,424,299"
+                                             }]
+                    }
