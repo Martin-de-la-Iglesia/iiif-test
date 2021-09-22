@@ -99,7 +99,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00001.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00001",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -119,7 +119,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00002.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00002.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00002",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -139,7 +139,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00003.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00003",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -159,7 +159,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00004.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00004",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -179,7 +179,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00005.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00005.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00005",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -199,7 +199,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00006.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00006.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00006",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -219,7 +219,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00007.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00007.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00007",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -239,7 +239,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00008.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00008.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00008",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -259,7 +259,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00009.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00009.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00009",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -279,7 +279,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00010.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00010.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00010",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -299,7 +299,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00011.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00011.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00011",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -319,7 +319,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00012.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00012.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00012",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -339,7 +339,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00013.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00013.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00013",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -359,7 +359,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00014.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00014.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00014",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -379,7 +379,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00015.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00015.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00015",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -399,7 +399,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00016.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00016.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00016",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -419,7 +419,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00017.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00017.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00017",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -439,7 +439,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00018.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00018.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00018",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -459,7 +459,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00019.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00019.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00019",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -479,7 +479,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00020.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00020.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00020",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -499,7 +499,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00021.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00021.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00021",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -519,7 +519,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00022.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00022.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00022",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -539,7 +539,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00023.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00023.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00023",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -559,7 +559,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00024.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00024.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00024",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -579,7 +579,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00025.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00025.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00025",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -599,7 +599,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00026.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00026.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00026",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -619,7 +619,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00027.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00027.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00027",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -639,7 +639,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00028",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -659,7 +659,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00029",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -679,7 +679,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00030",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -699,7 +699,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00031",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -719,7 +719,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00032",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -739,7 +739,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00033",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -759,7 +759,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00034",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -779,7 +779,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00035.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00035.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00035",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -799,7 +799,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00036.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00036.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00036",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -819,7 +819,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00037",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -839,7 +839,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00038.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00038.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00038",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -859,7 +859,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00039.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00039.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00039",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -879,7 +879,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00040",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -899,7 +899,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00041.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00041.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00041",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -919,7 +919,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00042.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00042.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00042",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -939,7 +939,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00043.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00043.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00043",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -959,7 +959,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00044.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00044.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00044",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -979,7 +979,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00045.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00045.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00045",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -999,7 +999,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00046.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00046.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00046",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1019,7 +1019,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00047.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00047.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00047",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1039,7 +1039,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00048.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00048.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00048",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1059,7 +1059,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00049.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00049.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00049",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1079,7 +1079,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00050.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00050.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00050",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1099,7 +1099,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00051.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00051.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00051",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1119,7 +1119,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00052.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00052.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00052",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1139,7 +1139,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00053.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00053.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00053",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1159,7 +1159,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00054.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00054.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00054",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1179,7 +1179,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00055.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00055.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00055",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1199,7 +1199,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00056.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00056.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00056",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1219,7 +1219,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00057.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00057.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00057",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1239,7 +1239,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00058",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1259,7 +1259,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00059.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00059",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1279,7 +1279,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00060.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00060.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00060",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1299,7 +1299,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00061.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00061.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00061",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1319,7 +1319,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00062.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00062.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00062",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1339,7 +1339,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00063.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00063.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00063",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1359,7 +1359,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00064.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00064.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00064",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1379,7 +1379,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00065.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00065.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00065",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1400,7 +1400,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00066.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00066",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1420,7 +1420,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00067.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00067.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00067",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1440,7 +1440,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00068.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00068.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00068",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1460,7 +1460,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00069.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00069.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00069",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1480,7 +1480,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00070.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00070.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00070",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1500,7 +1500,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00071.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00071.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00071",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1520,7 +1520,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00072.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00072.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00072",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1540,7 +1540,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00073.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00073.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00073",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1560,7 +1560,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00074.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00074.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00074",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1580,7 +1580,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00075.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00075.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00075",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1600,7 +1600,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00076.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00076.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00076",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1620,7 +1620,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00077.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00077.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00077",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1640,7 +1640,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00078.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00078.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00078",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1660,7 +1660,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00079.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00079.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00079",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1680,7 +1680,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00080.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00080.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00080",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1700,7 +1700,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00081.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00081.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00081",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1720,7 +1720,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00082.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00082.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00082",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1740,7 +1740,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00083.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00083.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00083",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1760,7 +1760,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00084.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00084.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00084",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1780,7 +1780,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00085.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00085.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00085",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1800,7 +1800,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00086.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00086.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00086",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1820,7 +1820,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00087.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00087.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00087",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1840,7 +1840,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00088.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00088.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00088",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1860,7 +1860,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00089.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00089.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00089",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1880,7 +1880,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00090.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00090.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00090",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1900,7 +1900,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00091.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00091.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00091",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1920,7 +1920,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00092.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00092.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00092",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1940,7 +1940,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00093.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00093.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00093",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1960,7 +1960,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00094.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00094.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00094",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -1980,7 +1980,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00095.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00095.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00095",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2000,7 +2000,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00096.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00096.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00096",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2020,7 +2020,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00097.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00097.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00097",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2040,7 +2040,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00098.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00098.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00098",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2060,7 +2060,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00099.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00099.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00099",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2080,7 +2080,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00100.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00100.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00100",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2100,7 +2100,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00101.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00101.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00101",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2120,7 +2120,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00102.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00102.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00102",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2140,7 +2140,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00103.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00103.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00103",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2160,7 +2160,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00104.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00104.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00104",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2180,7 +2180,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00105.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00105.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00105",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2200,7 +2200,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00106.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00106.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00106",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2220,7 +2220,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00107.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00107.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00107",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2240,7 +2240,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00108.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00108.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00108",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2260,7 +2260,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00109.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00109.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00109",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2280,7 +2280,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00110.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00110.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00110",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2300,7 +2300,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00111.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00111.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00111",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2320,7 +2320,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00112.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00112.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00112",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2340,7 +2340,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00113.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00113.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00113",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2360,7 +2360,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00114.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00114.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00114",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2380,7 +2380,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00115.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00115.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00115",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2400,7 +2400,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00116.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00116.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00116",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2420,7 +2420,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00117.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00117.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00117",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2440,7 +2440,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00118.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00118.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00118",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2460,7 +2460,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00119.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00119.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00119",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2480,7 +2480,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00120.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00120.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00120",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2500,7 +2500,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00121.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00121.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00121",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2520,7 +2520,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00122.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00122.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00122",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2540,7 +2540,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00123.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00123.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00123",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2560,7 +2560,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00124.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00124.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00124",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2580,7 +2580,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00125.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00125.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00125",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2600,7 +2600,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00126.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00126.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00126",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2620,7 +2620,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00127.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00127.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00127",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2640,7 +2640,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00128.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00128.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00128",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2660,7 +2660,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00129.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00129.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00129",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2680,7 +2680,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00130.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00130.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00130",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2700,7 +2700,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00131.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00131.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00131",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2720,7 +2720,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00132.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00132.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00132",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2740,7 +2740,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00133.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00133.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00133",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2760,7 +2760,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00134.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00134.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00134",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2780,7 +2780,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00135.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00135.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00135",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2800,7 +2800,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00136.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00136.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00136",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2820,7 +2820,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00137.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00137.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00137",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2840,7 +2840,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00138.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00138.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00138",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2860,7 +2860,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00139.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00139.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00139",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2880,7 +2880,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00140.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00140.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00140",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2900,7 +2900,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00141.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00141.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00141",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2920,7 +2920,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00142.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00142.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00142",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2940,7 +2940,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00143.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00143.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00143",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2960,7 +2960,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00144.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00144.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00144",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -2980,7 +2980,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00145.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00145.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00145",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3000,7 +3000,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00146.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00146.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00146",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3020,7 +3020,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00147.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00147.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00147",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3040,7 +3040,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00148.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00148.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00148",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3060,7 +3060,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00149.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00149.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00149",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3080,7 +3080,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00150.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00150.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00150",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3100,7 +3100,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00151.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00151.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00151",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3120,7 +3120,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00152.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00152.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00152",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3140,7 +3140,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00153.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00153.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00153",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3160,7 +3160,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00154.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00154.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00154",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3180,7 +3180,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00155.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00155.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00155",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3200,7 +3200,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00156.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00156.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00156",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3220,7 +3220,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00157.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00157.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00157",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3240,7 +3240,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00158.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00158.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00158",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3260,7 +3260,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00159.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00159.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00159",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3280,7 +3280,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00160.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00160.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00160",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3300,7 +3300,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00161.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00161.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00161",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3320,7 +3320,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00162.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00162.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00162",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3340,7 +3340,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00163.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00163.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00163",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3360,7 +3360,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00164.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00164.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00164",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3380,7 +3380,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00165.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00165.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00165",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3400,7 +3400,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00166.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00166.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00166",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3420,7 +3420,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00167.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00167.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00167",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3440,7 +3440,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00168.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00168.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00168",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3460,7 +3460,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00169.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00169.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00169",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3480,7 +3480,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00170.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00170.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00170",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3500,7 +3500,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00171.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00171.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00171",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3520,7 +3520,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00172.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00172.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00172",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3540,7 +3540,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00173.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00173.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00173",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3560,7 +3560,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00174.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00174.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00174",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3580,7 +3580,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00175.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00175.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00175",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3600,7 +3600,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00176.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00176.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00176",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3620,7 +3620,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00177.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00177.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00177",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3640,7 +3640,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00178.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00178.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00178",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3660,7 +3660,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00179.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00179.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00179",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3680,7 +3680,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00180.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00180.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00180",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3700,7 +3700,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00181.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00181.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00181",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3720,7 +3720,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00182.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00182.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00182",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3740,7 +3740,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00183.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00183.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00183",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3760,7 +3760,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00184.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00184.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00184",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3780,7 +3780,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00185.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00185.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00185",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3800,7 +3800,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00186.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00186.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00186",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3820,7 +3820,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00187.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00187.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00187",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3840,7 +3840,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00188.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00188.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00188",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3860,7 +3860,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00189.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00189.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00189",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3880,7 +3880,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00190.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00190.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00190",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3900,7 +3900,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00191.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00191.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00191",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3920,7 +3920,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00192.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00192.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00192",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3940,7 +3940,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00193.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00193.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00193",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3960,7 +3960,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00194.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00194.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00194",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -3980,7 +3980,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00195.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00195.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00195",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4000,7 +4000,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00196.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00196.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00196",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4020,7 +4020,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00197.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00197.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00197",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4040,7 +4040,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00198.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00198.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00198",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4060,7 +4060,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00199.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00199.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00199",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4080,7 +4080,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00200.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00200.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00200",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4100,7 +4100,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00201.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00201.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00201",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4120,7 +4120,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00202.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00202.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00202",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4140,7 +4140,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00203.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00203.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00203",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4160,7 +4160,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00204.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00204.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00204",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4180,7 +4180,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00205.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00205.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00205",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
@@ -4200,7 +4200,7 @@
 						"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206.jp2/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"service": {
-							"@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00206.jp2",
+							"@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00206",
 							"profile": "http://iiif.io/api/image/2/level1.json"
 						}
 					}
