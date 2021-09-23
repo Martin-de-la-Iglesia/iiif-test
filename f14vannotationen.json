@@ -14,6 +14,17 @@
                                                     "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058"
                                              },
                                     {
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f14vannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>kann anderes Recht erwerben als das, was ihm angeboren<br/>ist. Verleugnet er aber vor Gericht sein<br/>Recht und beansprucht er f&#252;r sich ein anderes<br/> Recht, das er aber nicht nachweisen kann, so verliert<br/>er beides, ausgenommen der Leibeigene, den<br/>man freil&#228;&#223;t; er erh&#228;lt das Recht der freien<br/>Landsassen.<br/> <h2> Kapitel XVII. </h2> <br/> Wo das Kind frei und<br/>ehelich (geboren) ist, da beh&#228;lt es das Recht seines<br/>Vaters. Ist aber der Vater ein Dienstmann<br/>oder die Mutter eine Dienstmagd, so beh&#228;lt das<br/>Kind solches Recht, wie es ihm angeboren ist.<br/>Stirbt der Mann ohne Nachkommen, so nimmt<br/>sein Vater sein Erbe. Hat er keinen Vater, so<br/>nimmt es seine Mutter mit gr&#246;&#223;erem Recht als<br/>sein Bruder. Vater- und Mutter-, Schwester- und<br/>Brudererbe nimmt der Sohn und nicht die Tochter.<br/>Wenn aber eine Erbschaft unter entfernteren<br/>Verwandten als Schwestern und Br&#252;dern geteilt<br/> wird, nehmen alle, die sich gleich nahe zu der<br/>Verwandtschaft z&#228;hlen k&#246;nnen, gleichen Anteil<br/>daran, es sei Frau oder Mann. Diese alle nennen<br/>die Sachsen Gesamterben. Doch nimmt das Kind<br/>von Sohn und Tochter das Erbe vor dem Vater<br/>und vor der Mutter, vor dem Bruder und vor der<br/>Schwester aus folgendem Grund: Es geht nichts<br/>aus der Nachkommenschaft, solange ebenb&#252;rtige<br/>Nachkommenschaft vorhanden ist. Wer dem anderen<br/>(dem Erblasser) nicht ebenb&#252;rtig ist, der<br/> darf sein Erbe nicht nehmen. Der Schwabe kann<br/>auch nicht von der Frauenseite Erbe nehmen, weil<br/>die Frauen in ihrem Stamm wegen der Missetat<br/>ihrer Vorfahren alle erblos gemacht worden sind.<br/> <h2> Kapitel XVIII. </h2> <br/> Dreierlei Recht behielten die Sachsen<br/>gegen den Willen K&#246;nig Karls: das schw&#228;bische<br/>Recht wegen der Feindschaft der Frauen;<br/>und das zweite, alles, was der Mann vor Gericht<br/>nicht zugibt, wie bekannt es auch sei, da&#223; er sich<br/>dem mit seinem Unschuldseid entziehe und man<br/> ihn dessen nicht mit Zeugen &#252;berf&#252;hren kann;<br/>das dritte ist dies, da&#223;"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058"
+                                             },
+                                    {
                                             "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f14vannotationen.json/3d5e11569",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
