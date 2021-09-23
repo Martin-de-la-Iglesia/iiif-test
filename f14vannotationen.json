@@ -2,7 +2,17 @@
                     "@context": "http://iiif.io/api/presentation/2/context.json",
                     "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f14vannotationen.json",
                         "@type": "sc:AnnotationList",
-                        "resources": [,
+                        "resources": [{
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f14vannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>enmag irwerbin ander recht, wen als im ange-<br/>born is. Vorsinet aber he sin recht vor gerichte<br/>unde sait he im zu ein ander recht, des he nicht<br/> volkumen kan, he vorlusit beide, sundir der<br/>eigine man, den man vri lezt; der beheldet<br/>vrier lantsessin recht.<br/><b>C.XVII. W</b>o das kint is vri unde echt, das behelt<br/>sins vater rech<i>t</i>. Ist aber der vater <i> dinstman</i> oder di mu-<br/>tir dinstwip, das kint behelt sulch recht,<br/>als im angeborn ist. Stirbit der man ane<br/>kint, sin vatir nimt sin erbe. Enhat he des<br/>vatir nicht, is nimt sin muter mit mereme<br/>rechte den sin bruder. Vatir unde muter, swester<br/>unde bruder erbe nimt der son unde nicht di toch-<br/>tir. Wenne aber ein erbe vorswestirt unde vor-<br/> brudirt, alle, di sich gliche na zu der sippe ge-<br/>stuppin mugen, di nemen glich teil dar an, is<br/>si wip oder man. Dise heisin di Sachsen ganerbin.<br/><b>D</b>och nimt sones unde tochter kint erbe vor<br/>vater unde vor muter, vor brudere unde vor swestire,<br/>durch das: Is enget nicht us dem buseme,<br/>di wile der ebinburtige buseme da is. Wer<br/>deme andirn ebinburtig nich<i>t</i> enis, der enmag<br/>sin erbe nicht genemen. <b> D</b>er Swabe en-<br/>mag ouch von wiphalbin kein erbe genemen,<br/>wenne di wip in irme geslechte alle erbelos<br/>sint gemacht durch irre vordirn missetat.<br/><b> C.XVIII. D</b>rierhande recht behilden di Sachsin widir<br/>kunig Karles willen: das swebissche<br/>recht durch der wibe has; unde das andere, was der man<br/>vor gerichte nicht entut, wi wissinlich das si,<br/>das hes mit siner unschult enket unde man en des<br/>nicht vorzugen mag; das dritte is das, das"
+                                                    },
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00058"
+                                             },
                                     {
                                             "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f14vannotationen.json/3d5e11569",
                                                 "@type": "oa:Annotation",
