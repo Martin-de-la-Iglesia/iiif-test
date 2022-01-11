@@ -31,14 +31,7 @@
             "@context":"http://iiif.io/api/search/1/context.json",
                      "@id":"https://iiif.hab.de/object/mss_3-1-aug-2f/image/image_00031",
                      "profile":"http://iiif.io/api/search/1/search"
-          },
-            "otherContent": [                 
-            {
-            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json",
-            "@type": "sc:AnnotationList",
-            "label": "Annotationen"
-            }
-            ]
+          }
         }
       ]
     }
