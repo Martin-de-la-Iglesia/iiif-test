@@ -1,9 +1,9 @@
 {
                     "@context": "http://iiif.io/api/presentation/2/context.json",
-                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json",
+                    "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json",
                         "@type": "sc:AnnotationList",
                         "resources": [{
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/1",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/1",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -14,7 +14,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/2",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/2",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -25,7 +25,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e672",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e672",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -36,7 +36,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=784,574,598,1082"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e16873",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e16873",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -47,7 +47,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=910,577,228,140"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e16923",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e16923",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -58,7 +58,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=1142,762,144,218"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e16973",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e16973",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -69,7 +69,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=777,636,317,591"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e17024",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e17024",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -80,7 +80,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=849,794,385,643"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e17074",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e17074",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -91,7 +91,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=990,825,74,81"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e17124",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e17124",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -102,7 +102,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=1522,662,382,250"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e17174",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e17174",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -113,7 +113,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=1349,1372,355,358"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e17224",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e17224",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -124,7 +124,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=2889,263,54,73"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e17274",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e17274",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -135,7 +135,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=1294,3605,385,251"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e19130",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e19130",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -146,7 +146,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=500,153,1171,1556"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e637658",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e637658",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -157,7 +157,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=1997,752,93,90"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e637709",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e637709",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -168,7 +168,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=728,1957,78,91"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e637759",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e637759",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -179,7 +179,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=1170,2360,74,91"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e637809",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e637809",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -190,7 +190,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=1888,2360,214,114"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e637859",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e637859",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -201,7 +201,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=1441,2688,122,100"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e672224",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e672224",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -212,7 +212,7 @@
                                                     "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00031#xywh=593,1501,977,212"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1rannotationen.json/3d5e672273",
+                                            "@id": "https://raw.githubusercontent.com/Martin-de-la-Iglesia/iiif-test/master/f1rannotationen.json/3d5e672273",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
