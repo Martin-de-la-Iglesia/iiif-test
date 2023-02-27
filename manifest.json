@@ -1045,7 +1045,7 @@
             },
         
             {
-            "@id": "http://scta.info/iiif/lon/canvas/L1r",
+            "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031",
             "@type": "sc:Canvas",
             "label": "1r",
             "height": 4072,
@@ -1054,7 +1054,7 @@
             {
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
-            "on": "http://scta.info/iiif/lon/canvas/L1r",
+            "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031",
             "resource": {
             "@id": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031.jp2/full/full/0/default.jpg",
             "@type": "dctypes:Image",
@@ -6550,7 +6550,7 @@
 "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00028",
 "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00029",
 "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00030",
-"http://scta.info/iiif/lon/canvas/L1r",
+"http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00031",
 "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00032",
 "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00033",
 "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00034",
