@@ -25,7 +25,7 @@
                                             "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00040"
                                                 },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f5vannotationen.json/3d5e639916",
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f5vannotationen.json/3d6e639916",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -33,10 +33,10 @@
                                                 "format": "text/html",
                                                 "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> sich statt si."
                                                     },
-                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040#xywh=1660,630,47,69"
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040#xywh=2253,854,64,93"
                                              },
                                     {
-                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f5vannotationen.json/3d5e639966",
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f5vannotationen.json/3d6e639966",
                                                 "@type": "oa:Annotation",
                                                 "motivation": "commenting",
                                                 "resource": {       
@@ -44,6 +44,6 @@
                                                 "format": "text/html",
                                                 "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> strase."
                                                     },
-                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040#xywh=2230,1378,76,78"
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00040#xywh=3027,1871,103,105"
                                              }]
                     }
