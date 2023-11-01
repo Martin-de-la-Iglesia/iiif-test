@@ -1,0 +1,137 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/1",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Transkription, linke Spalte:]<br/>he von en oder von irre helfe genomen hat, unde<br/>dem richter sin recht. Hat der selbin ichein len<br/>von dem vatere, das selbe len sal dem vatere<br/> ledig sin zu hant, so he en &#252;berwindet, unde<br/>sal is im nimmer wider gelin, oder liet hes<br/>im wider, so sal he dem richtere sins eigens<br/> odir sins lenes also vil in sine gewalt<br/>lien oder brengin. Hat he der keins nicht,<br/>so sal he im also vil silb<i>er</i>s gebin, also<br/>ture so das len ist. An allen disen Sachen,<br/>di hi vor geschribin sint: Mag ein iclich<br/>sein<i>t</i>bare vriman, der sin recht hat, dem<br/>vatir, es si vorste oder sus ein hoch vriman,<br/>helfin das bezcugen, swenne hes vor war<br/>weis. Ein dinstman mag is ouch bezu-<br/>gen mit andern dinstmannen, ein eigen-<br/>man mit sinen genosin, ein gebur mit<br/>sinen genossin; ein iclich vriman hilfet<br/>des ouch wol einem dinstmanne, ab hes<br/>weis; ein dinstman hilfet <i>des</i> ouch wol deme,<br/>der sin undirgenos <i>is</i>. Di nideren enmu-<br/>gens den hogern nicht gehelfin. Ist aber,<br/>das der vatir von gevencnisse odir von<br/>suche oder von andirre ehafter not das<br/> recht nicht gevordern mag, so sal is si-<br/>ner mage einer tun, unde sal der mag bere-<br/>din zu den heiligen, das den vater ehafte<br/>not nicht lest, das he dar kumen mag,<br/>unde sal di not benennen. Unde swen hes<br/> beredit, so sal man im richten &#252;ber di sache <i>an des vater stat</i><br/> also ab der vater selbe da were. <b>Dis recht<br/>is do von, das sich nimant selbe reche.</b><br/>[Rechte Spalte:]<br/><b>W</b>ir sezcin unde gebiten, swas schadin<br/>imande an keiner slachte dinge gesche,<br/>das hes selbe nicht reche, he enclage alrest<br/>deme richtere unde volge siner clage zu ende, al-<br/>se recht is, is ensi also verre, das he sinen<br/>lip da unde sin gut notwerende si. Swer sich<br/> andirs richit, den hi <i>vor</i> geschriben ist, swas<br/>schadin he da inne tut, den sal he zwivalt<br/>geldin, unde swas schadin im geschiet, der sal<br/>vorlorn sin unde ensal nimmer keine clage<br/>da noch gewinnen. Swer aber sine clage richtit,<br/>als da vor geschriben stet, wirt im nicht<br/> gerichtet, so mus he durch di not sinen vien-<br/>din widersagin. Das sal he tun bi tage.<br/>Unde von dem tage, alse he im widersait hat,<br/>denne bis <i>an</i> den vierdin tag sal <i>he</i> im keinen scha-<br/>din tun, weder an libe noch an gute; so hat<br/>he dri ganzce tage vride. Derselbe, dem da wider-<br/>sagit wirt, sal ouch weder an libe noch an<br/>gute bis an den vierdin tag deme, der im da<br/>widersait hat, keinen schadin tun. Unde an<br/>welcher me dis gesezce gebrochin wirt, der<br/>sal vor sinen richter varn unde sal en beclagin,<br/>der im getan hat. Dem sal der richter selber vor<br/>gebiten oder sin bote. Mag sich der selbe, der da<br/>angesprochin ist, nicht unschuldigen zu<br/>den heiligen mit siben seintbaren luten vor<br/> deme richtere, so si he erlos unde rechtelos<br/>eweclichen, so das he nimmer widirku-<br/>men mag zcu sime rechte.<br/><b>Dis is von den zcollen.</b>"
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032"
+                                                },
+                                    {
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/2",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Übersetzung, linke Spalte:]<br/>er von ihnen oder durch ihre Hilfe erlitten hat,<br/>und auch dem Richter, was diesem von Rechts<br/>wegen zusteht. Hat einer derselben ein Lehen<br/> von dem Vater, dasselbe Lehen soll dem Vater sofort<br/>ledig werden, wenn er ihn &#252;berf&#252;hrt, und es<br/>soll ihm niemals wieder geliehen werden. Oder<br/>leiht er es ihm doch wieder, so mu&#223; er dem Richter<br/> von seinem Eigen oder seinem Lehen ebensoviel<br/>in seine Verf&#252;gungsgewalt leihen oder &#252;bergeben.<br/>Verf&#252;gt er &#252;ber keines von beiden, so soll<br/> er ihm soviel Silber geben, wie das Lehen wert ist.<br/>F&#252;r alle die Rechtsh&#228;ndel, die hiervor genannt<br/>sind, gilt: Es kann jeder gerichtsf&#228;hige freie<br/>Mann, der im Besitz seines Rechts ist, dem Vater,<br/>er sei ein F&#252;rst oder sonst ein Freier von hohem<br/>Stand, helfen, dies zu bezeugen, wenn immer er<br/>die Wahrheit kennt. Ein Dienstmann kann es<br/>auch mit anderen Dienstleuten bezeugen, ein Eigenmann<br/> mit seinen Standesgenossen, ein Bauer<br/>mit seinesgleichen. Ein jeglicher Freie hilft dabei<br/>auch wohl einem Dienstmann, wenn er davon<br/>wei&#223;. Ein Dienstmann hilft dabei auch wohl einem<br/>Standesgenossen, der unter ihm steht. Die<br/>geringeren Standes sind, k&#246;nnen denen h&#246;heren<br/> Standes nicht helfen. Ist es aber so, da&#223; der Vater<br/>wegen Gefangenschaft oder Krankheit oder andeer<br/>echter Not sein Recht vor Gericht nicht pers&#246;nlich<br/>fordern kann, so soll es einer seiner Verwandten<br/>tun. Und es soll der Verwandte beschw&#246;ren,<br/>da&#223; den Vater echte Not am Kommen<br/>hindert, und er soll den Hinderungsgrund nennen.<br/>Und wenn er es nachweist, so mu&#223; man ihm<br/>Recht sprechen in der Angelegenheit an Stelle des<br/>Vaters, so als ob der Vater pers&#246;nlich anwesend<br/>w&#228;re.<br/> <h1> Diese gesetzliche Bestimmung handelt davon,<br/>da&#223; niemand sich selbst r&#228;che. </h1> <br/><br/>[Rechte Spalte:]<br/><b>W</b>ir setzen und gebieten: Welcher Schaden auch<br/>immer irgendeinem in irgendeiner Streitsache zusto&#223;e,<br/>da&#223; er selbst sich daf&#252;r nicht r&#228;che, er<br/>klage es erst dem Richter und verfolge seine<br/>Klage bis zu Ende, wie es Recht ist, sofern er<br/>nicht sein Leben und sein Gut in Notwehr verteidigen<br/>mu&#223;. Wer sich anders r&#228;cht, als hiervor geschrieben<br/>steht, welchen Schaden er immer dabei<br/>anrichtet, den mu&#223; er zweifach vergelten, und was<br/>immer an Schaden ihm geschieht, der soll verloren<br/>sein und mit keiner Klage anh&#228;ngig gemacht<br/>werden. Wer aber seine Klage vorbringt, wie davor<br/>geschrieben steht, wird ihm nicht Recht gesprochen,<br/>so kann er um dieser Drangsal willen<br/>seinen Feinden die Fehde ansagen. Das soll er<br/>bei Tag tun. Und von dem Tag an, an dem er ihm<br/>die Fehde angesagt hat, bis auf den vierten Tag<br/>soll er ihm (seinem Gegner) keinen Schaden zuf&#252;gen,<br/>weder an Leib noch an Gut, so hat er drei<br/>volle Tage Frieden. Derjenige, dem da die Fehde<br/> angek&#252;ndigt wird, soll ebenfalls demjenigen,der<br/>ihm die Fehde angesagt hat, weder an Leib noch<br/>an Gut bis zum vierten Tag einen Schaden zuf&#252;gen.<br/>Und an welchem diese Bestimmung gebrochen<br/>wird, der soll vor seinen Richter gehen und<br/>soll denjenigen verklagen, der ihm dies angetan<br/>hat. Diesen soll der Richter selbst vorladen oder<br/>sein Bote. Kann derselbe, der da gerichtlich angesprochen<br/>ist, nicht seine Unschuld mit sieben gerichtsf&#228;higen<br/>M&#228;nnern durch Eid auf die Reliquien<br/>vor dem Richter beweisen, so sei er ehrlos<br/>und rechtlos auf immer, so da&#223; er niemals wieder<br/>zu seinem Recht kommen kann.<br/> <h1> Von Z&#246;llen. </h1>"
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032"
+                                                },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/3d5e17725",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Dunkelblau mit Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032#xywh=1817,362,209,148"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/3d5e637909",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> silbers statt silbris."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032#xywh=1428,882,148,78"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/3d5e637959",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> seintbare statt seinbare."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032#xywh=1038,1093,182,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/3d5e638010",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> des."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032#xywh=1493,1600,58,67"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/3d5e638060",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> is."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032#xywh=1407,1660,61,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/3d5e638110",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> an des vaters stat."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032#xywh=1777,2220,67,75"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/3d5e638160",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> vor."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032#xywh=2251,744,57,67"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/3d5e638210",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> an den."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032#xywh=2039,1332,64,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/3d5e638260",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> he."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032#xywh=2347,1330,50,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f1vannotationen.json/3d5e638311",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> zollen statt zolle."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00032#xywh=2258,2284,135,72"
+                                             }]
+                    }
