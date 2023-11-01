@@ -1,0 +1,1105 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>tretin durch jagen noch durch hezzen noch der<br/>czit, das das korn glide gewinnet.<br/><b>C. LXII. W</b>er da helt einen glumenden hunt oder einen cza-<br/>men wolf oder einen hirs oder bern oder affen,<br/>was di schaden getun, das sal he gelden. Wil he<br/>sich ir usern noch deme schaden, da mite is he nicht<br/>unschuldig, ab man das gezugen mag, der man<br/>selb dritte, das he si gehalden habe bis an di zit,<br/>das si den schaden taten. <b>S</b>let ein man einen hunt<br/>zu tode oder ber <i>oder ein ander tir</i>, binnen des is<br/>im schaden wil, he bli-<br/>bet is ane wandil, ab hes gewern tar uf den heiligen,<br/>das hes in notwerunge tete.<br/><b> C.LXIII. W</b>er wilde tir hegen wil busen banvorsten, der<br/>sal si in sinen beworchten gewern habin. <b>I</b>s en-<br/>mag kein wip vorspreche gesin noch ane<br/>Vormunden clagen. Das vorlos in allen Calefor-<br/>nia, di vor deme riche missebarte von czorne,<br/>da ir wille an vorsprechen nicht muste vorgen.<br/><b>E</b>in iclich man mus wol vorspreche sin unde<br/> gezug unde clagen unde entworten, ane in dem gerich-<br/>te, da he inne vorvest is, oder ab he in des riches<br/>achte is. Vor geistlichem gerichte enmus hes<br/>abir nicht tun, ab he in deme banne is.<br/><b>C. LXIIII. W</b> ip oder mait, di not vor gerichte claget,<br/>di suln clagen mit gerufte durch di hant-<br/>hafte tat unde durch di not, di si da suln bewi-<br/>sen. <b> D</b>er ouch mit dube oder mit roube einen gevan-<br/>gen vor gerichte brenget, der sal clagen mit gerufte<br/>durch di hanthafte tat, di si mit den luten vorbren-<br/>git. <b>D</b>er ouch toten vor gerichte brenget unde clait<br/> das ungerichte, das an im getan is, di suln cla-<br/>gen mit gerufte durch di hanthafte tat, di da schin-<br/>bar is. <b>D</b>er ouch beroubet is unde weis, wo sin<br/>roup gevort is, wil he, das im der richter volge dar,<br/> he lade in mit gerufte unde clage mit gerufte durch<br/>di hanthafte tat, di he da bewisen wil. Wo keine<br/>hanthafte tat nicht is, da mus man ane geruf-<br/>te clagen, ab man is ane schaden bliben wil."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>beim Jagen oder Hetzen betreten von der Zeit an,<br/>zu der das Korn Knoten bekommt.<br/> <h2> Kapitel LXII. </h2> Wer sich einen b&#246;sartigen Hund oder einen zahmen<br/>Wolf oder einen Hirsch oder B&#228;ren oder Affen<br/>h&#228;lt, der mu&#223; f&#252;r den Schaden aufkommen,<br/>den diese anrichten. Will er sich ihrer (dieser<br/>Tiere) nach dem Schaden ent&#228;u&#223;ern, dann wird<br/>er dadurch nicht unschuldig, wenn der Kl&#228;ger<br/>selbdritt bezeugen kann, da&#223; er sie (die Tiere) bis<br/>zu dem Zeitpunkt gehalten hat, an dem sie den<br/> Schaden anrichteten. Erschl&#228;gt jemand einen<br/>Hund oder einen Eber oder ein anderes Tier,<br/>w&#228;hrend dieses ihn angreift, dann bleibt er ohne<br/> Strafe, wenn er mit Eid auf die Reliquien beschw&#246;rt,<br/>da&#223; er in Notwehr handelte.<br/> <h2> Kapitel LXIII. </h2> Wer wilde Tiere au&#223;erhalb des Bannforstes<br/>halten will, der soll sie innerhalb seines eingez&#228;unten<br/>Besitzes halten. Eine Frau kann weder<br/>Vorsprecher sein noch ohne Vormund klagen;<br/>dies verwirkte Calefurnia allen (Frauen), die sich<br/>vor dem Kaiser ungeb&#252;hrlich auff&#252;hrte, aus Zorn<br/>dar&#252;ber, da&#223; ihr Wille ohne Vorsprecher nicht<br/> durchgehen durfte. Jeder Mann kann Vorsprecher<br/>und Zeuge sein und klagen und sich verantworten,<br/>au&#223;er in dem Gerichtsbezirk, in dem er<br/> verfestet ist, oder wenn er in der Reichsacht ist.<br/>Vor einem geistlichen Gericht darf er dies aber<br/>nicht tun, wenn er im (Kirchen-)Bann ist.<br/> <h2> Kapitel LXIV. </h2> Frauen oder M&#228;dchen, die wegen Vergewaltigung<br/>vor Gericht klagen, die sollen mit Ger&#252;fte<br/>die Klage erheben wegen der handhaften<br/> Tat und der N&#246;tigung, die sie da beweisen sollen.<br/>Auch derjenige, der einen mit Diebes- oder Raubgut<br/>Gefa&#223;ten vor Gericht bringt, der soll die<br/>Klage mit Ger&#252;fte erheben wegen der handhaften<br/>Tat, die er mit den Leuten (vor Gericht) vorbringt.<br/>Wer einen Toten vor Gericht bringt und<br/>wegen des Verbrechens klagt, das an ihm ver&#252;bt<br/> worden ist, der soll mit Ger&#252;fte die Klage erheben<br/>wegen der handhaften Tat, die hier offenkundig<br/>ist. Auch derjenige, der beraubt worden ist und<br/>wei&#223;, wohin das ihm Geraubte entf&#252;hrt worden<br/> ist, will er, da&#223; ihm der Richter dahin folge, dann<br/>lade er ihn dahin und klage mit Ger&#252;fte wegen<br/>der handhaften Tat, die er dort beweisen will.<br/>Wenn keine handhafte Tat vorliegt, dann mu&#223;<br/>man ohne Ger&#252;fte klagen, wenn man ohne Nachteil<br/>bleiben will."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e229576",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1852,458,159,114"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e229626",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1858,1017,161,115"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e229676",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=2262,788,98,101"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e229727",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 62."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=2512,417,87,69"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e229777",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 63."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=2431,969,155,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e229827",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 64."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=2514,1582,119,72"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e229877",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß E. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1916,1353,78,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e229927",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1854,1649,183,124"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e229977",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß D. Dunkelblau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1965,1808,100,85"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230028",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß D. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1985,1980,104,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230078",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß D. Lichtgrün. Text wird trotz Abbildung einer zugehörigen Bildinitiale nicht dargestellt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=2024,2153,119,85"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230128",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Haftung für gefährliche Tiere</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=764,132,1148,543"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230177",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=764,132,1148,543"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230226",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gefährliche Tiere töten einen Mann</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=756,135,571,543"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230275",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Affe</b><br/>Oberbegriffe:<br/> Tier<br/>Beschreibung:<br/> Ist gezähmt und deshalb muß sein Besitzer für den von diesem angerichteten Schaden aufkommen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=859,127,210,235"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230326",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hirsch</b><br/>Oberbegriffe:<br/> Tier<br/>Beschreibung:<br/> Hat einen Menschen getötet. Ist gezähmt und deshalb muß sein Besitzer für den von diesem angerichteten Schaden aufkommen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=827,253,494,284"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230376",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bär</b><br/>Oberbegriffe:<br/> Tier<br/>Beschreibung:<br/> Hat einen Menschen getötet. Ist gezähmt und deshalb muß sein Besitzer für den von diesem angerichteten Schaden aufkommen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1032,368,179,176"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230426",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wolf</b><br/>Oberbegriffe:<br/> Tier<br/>Beschreibung:<br/> Hat einen Menschen getötet. Ist gezähmt und deshalb muß sein Besitzer für den von diesem angerichteten Schaden aufkommen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=881,447,181,197"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230476",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hund</b><br/>Oberbegriffe:<br/> Tier<br/> Hund<br/>Beschreibung:<br/> Laut Text bösartig. Hat einen Menschen getötet und deshalb muß sein Besitzer für den von diesem angerichteten Schaden aufkommen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=751,440,269,238"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230526",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ochse</b><br/>Oberbegriffe:<br/> Tier<br/> Rind<br/>Beschreibung:<br/> Soll wohl stößiges Vieh symbolisieren. Hat einen Menschen getötet, weshalb sein Besitzer für den von diesem angerichteten Schaden aufkommen muß."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=759,358,379,186"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230576",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Leichnam<br/>Beschreibung:<br/> Wurde von einem Tier getötet. Mit geschlossenen Augen. Rock."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=859,479,484,202"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230627",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1082,140,156,115"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230677",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1510,1131,172,125"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230727",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1269,675,81,130"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230777",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwur selbdritt</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1259,135,445,529"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230826",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwur auf das Reliquiar</b><br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Erheben der Schwurfinger über das Reliquiar mit häufigem gleichzeitigen Ergreifen des Reliquienständers mit der linken Hand."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1259,135,445,529"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230876",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Drei Männer beschwören vor dem Grafen den von einem gezähmten Tier angerichteten Schaden</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1263,129,636,548"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230926",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Männer</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/> Gruppe<br/>Beschreibung:<br/> Klagen um den Schaden durch gezähmte Tiere und beschwören diesen. Der Beweisführer ist nicht identifizierbar. Gegürteter Rock, Beinlinge und Knebelschuhe. Nicht alle vollständig gezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1259,135,445,529"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e230976",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquiar</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Auf Reliquienständer mit palmblätterartigem Ornament. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1557,323,152,334"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231026",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquienständer</b><br/>Beschreibung:<br/> Mit palmblätterartigem Ornament."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1557,456,139,201"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231076",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/> Bewaffneter<br/>Beschreibung:<br/> Weist auf die Folgen des Schwurs hin. Mit links geschultertem Gerichtsschwert in umwickelter Schwertscheide. Langer gegürteter Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1621,127,280,545"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231126",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gerichtsschwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den jeweiligen Richter. Schwertscheide mit dem Gurt spiralförmig umwickelt und links geschultert."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1718,132,186,349"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231176",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1724,149,122,68"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231227",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Mit Gliederung."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1624,459,243,213"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231277",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Notwehr gegen Haustiere</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=730,638,1157,538"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231326",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=730,638,1157,538"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231375",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zweimalige Darstellung derselben Person</b><br/>Beschreibung:<br/> Müßten eigentlich identische Kleidung aufweisen. Links erschlägt er ein Tier und rechts beschwört er die Notwehrsituation."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=735,667,923,511"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231425",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann verteidigt sich gegen einen Hund bzw. Eber(Bär)</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=739,684,645,489"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231474",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Bewaffneter<br/>Beschreibung:<br/> Hat wohl einen angreifenden Hund erschlagen und verteidigt sich gegen einen Bären, der eigentlich ein Eber sein müßte. Mit Knüppel. Gegürteter Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=725,689,448,489"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231525",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Knüppel</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=891,769,280,199"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231574",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hund</b><br/>Oberbegriffe:<br/> Tier<br/> Hund<br/>Beschreibung:<br/> Wurde wohl von dem Mann erschlagen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=976,974,382,197"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231624",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bär</b><br/>Oberbegriffe:<br/> Tier<br/>Beschreibung:<br/> Greift den Mann an. Müßte eigentlich ein Eber sein."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1066,808,319,285"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231674",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann beschwört die Notwehrsituation beim Töten von Haustieren</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1346,627,557,514"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231723",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwur auf das Reliquiar</b><br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Erheben der Schwurfinger über das Reliquiar mit häufigem gleichzeitigen Ergreifen des Reliquienständers mit der linken Hand."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1361,659,292,480"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231773",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Beschwört seine Notwehrsituation, in der er links die Haustiere erschlug. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1361,659,292,480"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231824",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquiar</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Auf Reliquienständer mit palmblätterartigen Ornamenten. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1514,772,146,357"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231874",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquienständer</b><br/>Beschreibung:<br/> Mit palmblätterartigen Ornamenten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1524,908,131,221"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231924",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/> Bewaffneter<br/>Beschreibung:<br/> Nimmt den Befreiungsschwur entgegen. Mit links geschultertem Gerichtsschwert in umwickelter Schwertscheide. Langer Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1610,640,285,504"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e231974",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gerichtsschwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den jeweiligen Richter. Schwertscheide mit dem Gurt spiralförmig umwickelt und links geschultert."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1700,630,189,365"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232024",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Podest."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1607,920,297,214"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232074",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Podest</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1602,1057,287,75"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232124",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Einzäunen von wilden Tieren</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=853,1133,1006,559"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232173",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wilde Tier müssen außerhalb von Bannforsten eingezäunt gehalten werden</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=853,1133,1006,559"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232222",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zaun</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Die Erhöhungen an den Seiten sollen wohl die vollständige Einzäunung des Besitzes verdeutlichen. Aus Flechtwerk."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=853,1133,1006,559"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232272",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Säugetiere</b><br/>Oberbegriffe:<br/> Tier<br/>Beschreibung:<br/> Symbolisieren die wilden Tiere, die außerhalb von Bannforsten einzuzäunen sind. Könnten Hirsch mit Kuh und Kalb darstellen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=955,1139,776,390"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232322",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frauen und Gebannte können nicht vorsprechen noch klagen vor Gericht</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=753,1659,1134,592"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232371",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung des Inhalts von mehreren Initialen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=753,1659,1134,592"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232421",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=753,1659,1134,592"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232470",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß E. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=856,1696,100,116"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232520",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß I. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1525,1666,86,218"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232570",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß I. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=2566,1084,37,81"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232620",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frauen dürfen bei Gericht weder vorsprechen noch ohne Vormund klagen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1277,1660,614,561"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232669",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>König</b><br/>Oberbegriffe:<br/> König<br/> Herrscher<br/>Beschreibung:<br/> Verweigert Calefurnia das Vorsprechen und das selbständige Klagen vor Gericht. Mit überschlagenen Beinen, goldener Lilienkrone und goldenem Zepter. Langer goldener Rock mit weiten Hängeärmeln und sichtbarem Untergewand sowie Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1465,1659,423,535"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232720",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Lilienkrone</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/> Insignie<br/>Beschreibung:<br/> Kennzeichnet Kaiser und König. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1683,1659,164,107"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232770",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zepter</b><br/>Oberbegriffe:<br/> Standessymbol<br/> Insignie<br/>Beschreibung:<br/> Kennzeichnet Kaiser und König. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1678,1706,210,272"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232820",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Fußbodenschnitt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1516,1964,359,258"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232870",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Fußbodenschnitt</b><br/>Oberbegriffe:<br/> Ort"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1520,2095,352,130"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232919",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Calefurnia</b><br/>Beschreibung:<br/> Fordert mit deutlichen Gebärden das Vorsprecherrecht. Symbolisiert C. Afrania, die als Grund für das Verbot für Frauen, als Vorsprecher und Kläger aufzutreten, angeführt wird. Rock und Schleier sowie nicht genau zu deutendes Gebilde unterhalb des Rückens."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1269,1680,277,538"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e232969",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1343,1678,169,167"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233020",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mönch erteilt dem Gebannten die Pönitenz</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=751,1694,542,551"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233069",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gebannter</b><br/>Beschreibung:<br/> Kniet vor dem Mönch und erbittet mit zusammengelegten Händen die Pönitenz. Darf als Gebannter nicht Vorsprecher sein. Langer gegürteter Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=755,1811,393,438"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233119",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mönch</b><br/>Oberbegriffe:<br/> Geistlicher<br/>Beschreibung:<br/> Wirft dem Gebannten die Stola über und legt die linke Hand auf, um diesem die Pönitenz zu erteilen. Gegürtete Mönchskutte mit Kapuze, Tonsur und barfuß."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=833,1683,457,558"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233169",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Stola</b><br/>Oberbegriffe:<br/> <br/>Beschreibung:<br/> Wird hier dem Gebannten bei der Erteilung der Pönitenz übergeworfen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=829,1728,303,319"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233219",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mönchskutte</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Mönch. Gegürtet und mit Kapuze."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1095,1710,192,500"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233269",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tonsur</b><br/>Oberbegriffe:<br/> Standessymbol"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1125,1685,133,75"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233319",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gerüfteklagen wegen Notzucht, handhaften Diebstahls sowie handhaften Totschlags</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=774,2207,1126,729"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233368",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung des Inhalts von mehreren Initialen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=774,2207,1126,729"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233417",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=774,2207,1126,729"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233466",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß D. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1013,2207,102,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233516",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1548,2219,150,105"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233566",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß D. Wohl Grün. Inhalt der zugehörigen Textinitiale wird jedoch nicht dargestellt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1491,2638,105,98"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233617",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Klein d. Blau. Inhalt der zugehörigen Textinitiale wird jedoch nicht dargestellt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=958,2609,112,143"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233667",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Eine verheiratete Frau und ein Mädchen erheben die Gerüfteklage wegen Notzucht</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1252,2231,642,640"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233716",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Weist die Kläger auf die notwendigen Voraussetzungen für die Gerüfteklage hin. Langer gegürteter Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1527,2236,329,578"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233766",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1687,2231,136,78"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233816",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Fußbodenschnitt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1505,2563,389,317"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233866",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Fußbodenschnitt</b><br/>Oberbegriffe:<br/> Ort"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1503,2743,394,141"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233916",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mädchen</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Erhebt vor dem Grafen die Gerüfteklage wegen Notzucht. Mit zerissener Bekleidung, um die handhafte Tat zu beweisen. Offenes Haar und barfuß."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1257,2224,315,595"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e233966",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frau</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Erhebt die Gerüfteklage wegen Notzucht. Ihre Kleidung entspricht allerdings nicht der Darstellung des Mädchens, was eigentlich für das Beweisen der handhaften Tat notwendig ist. Rock und Schleier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1354,2234,298,588"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e234016",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1402,2231,141,176"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e234066",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Der Kläger erhebt Gerüfteklage wegen handhaften Diebstahls</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=807,2238,480,588"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e234115",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kläger</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/> Bewaffneter<br/>Beschreibung:<br/> Symbolisiert die Klageerhebung zur Gerüfteklage sowohl wegen handhaften Diebstahls als auch wegen handhaften Totschlags. Mit rechts geschultertem blanken Schwert. Gegürteter Rock und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=970,2234,320,574"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e234165",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Blank und rechts geschultert."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=975,2236,272,325"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e234216",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Dieb</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/> Missetäter<br/>Beschreibung:<br/> Wird handhaft verklagt. Die Hände müßten eigentlich gefesselt sein und nicht nur die entsprechende Haltung aufweisen und außerdem müßte ihm das Diebesgut auf den Rücken gebunden sein. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=796,2241,243,605"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e234266",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Der Kläger erhebt Gerüfteklage wegen handhaften Totschlags unter Vorweisung des Leichnams</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=776,2246,607,679"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e234315",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Erschlagener</b><br/>Oberbegriffe:<br/> Leichnam<br/>Beschreibung:<br/> Wird bei der Gerüfteklage um des an ihm begangenen Verbrechens vorgewiesen. Mit geschlossenen Augen. Rock."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=774,2745,621,179"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e650131",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=1715,657,119,63"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f40vannotationen.json/3d5e674866",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> oder ein ander tir."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00110#xywh=2124,851,63,68"
+                                             }]
+                    }

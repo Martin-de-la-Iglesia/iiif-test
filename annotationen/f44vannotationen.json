@@ -1,0 +1,973 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>oder sin burge mus den eit vor en tun zu gelobter<br/>czit, oder di schult is uf den burgen gewunnen, da der<br/>eit vor gelobet was.<br/><b>C.XII. S</b> wer uffe den<br/>anderen clait unde iener wider uf en, der alrest clait,<br/>der enhat ieme nicht zu entworten, he ensi von im<br/>alrest ledig. Klagen vil lute uf einen man unge-<br/>richte, he enhat ir keime nicht zu entwortene,<br/> er he des ersten ledig si. Wirt ouch di clage ge-<br/>tagit, he endarf keine burgen sezzen wen vor<br/>sin wergelt, alleine si der clage vil.<br/><b> C.XIII. W</b>irt ein man durch ungerichte vor gerichte<br/>beclait, da he nicht zu entwerte is, unde wirt<br/>im vor getedinget, kumt der cleger en an in den<br/>tedingen, he mus en wol bestetigen zu rechte durch<br/>sine schuldigunge also lange, bis he burgen sezze<br/>vorzukumene. Wen der richter wirket vride deme, der<br/>da clait, unde nicht deme, den man an sine kegenwerte<br/>vorledit.<br/><b>C.XIIII. A</b>b der man an sins vorspre-<br/> chen wort nicht engiet, di wile blibe he an<i>e</i><br/>schaden sins vorsprechen worte. Wer durch un-<br/>gerichte beclait wirt, der bitte zu erst der gewere.<br/>Di wile di gewer ungelobit is, so mag der cleger<br/> bessern sine clage unde da noch nicht.<br/><b>C.XV. A</b>b zwene uf ein gut sprechen noch dem<br/>drisegisten, iener, der is under im hat, der ensal<br/> is ir keime entworten, si envorebenen sich mit<br/>minnen oder ir ein enwise den andern ab vor ge-<br/>richte mit rechte.<br/><b>C. XVI. S</b>wer so hergewete oder gerade oder erbe noch<br/>deme<br/>drisegisten weigert mit un<i>rechte</i> zu<br/>gebene, schuldiget man en dar umme vor gerichte,<br/> he mus da vor wetten unde buse geben. Is ein<br/>gut von zwen mannen anspreche, heischit is der<br/>richter zu rechte, man sal is im entworten, unde he sal<br/>is under im haben, bis si sich dar umme bescheiden noch<br/> rechte, unde iener si is ledig, der is deme richtere ent-<br/>worte.<br/><b>S</b> wer so hergewete vordirt, der sal von swerthalben"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>oder sein B&#252;rge den Eid f&#252;r ihn leisten zur versprochenen<br/> Zeit, oder die Schuld, derentwegen<br/>der Eid versprochen worden war, ist gegen den<br/>B&#252;rgen gewonnen.<br/> <h2> Kapitel XII. </h2> <br/> Wenn jemand gegen<br/>einen anderen klagt und jener wieder gegen<br/>ihn, derjenige, der zuerst klagt, braucht ihm nicht<br/>zu antworten, er sei denn zuerst frei von ihm.<br/>Klagen viele Leute gegen einen Mann wegen eines<br/>Verbrechens, so braucht er keinem zu antworten,<br/>bevor er nicht von dem ersten frei ist. Wird die<br/>Klage vertagt, so braucht er au&#223;er f&#252;r sein Wergeld<br/>keine B&#252;rgen zu stellen, obgleich viele die<br/> Klage erhoben haben.<br/> <h2> Kapitel XIII.<br/>Wird ein<br/>Mann wegen eines Verbrechens vor Gericht beklagt,<br/>wenn er nicht anwesend ist, und wird ihm<br/>ein Verhandlungstag gesetzt, trifft ihn der Kl&#228;ger<br/>vor den Gerichtstagen an, so darf er ihn zu Recht<br/>wegen seiner Beschuldigung solange festnehmen,<br/>bis jener B&#252;rgen f&#252;r sein Erscheinen (vor Gericht)<br/> stellt. Denn der Richter bewirkt Frieden dem, der<br/>da klagt, und nicht demjenigen, den man in seiner<br/>Gegenwart vorl&#228;dt.<br/> </h2> <h2> Kapitel XIV. </h2> <br/> Solange ein<br/>Mann seines Vorsprechers Wort nicht guthei&#223;t,<br/>hat er keine Nachteile von den Worten des Vorsprechers.<br/>Wer wegen eines Verbrechens beklagt<br/>wird, bitte zun&#228;chst um Gew&#228;hrschaft. Solange<br/> die Gew&#228;hrschaft nicht versprochen ist, kann der<br/>Kl&#228;ger seine Klage wiedergutmachen, danach<br/>aber nicht mehr.<br/> <h2> Kapitel XV. </h2> <br/> Wenn zwei auf ein<br/>Gut nach dem Drei&#223;igsten Anspruch erheben,<br/> dann soll es jener, der es in H&#228;nden hat, keinem<br/>(von beiden) &#252;berantworten, sie einigen sich denn<br/>in G&#252;te oder einer weise den anderen vor Gericht<br/>mit Recht zur&#252;ck.<br/> <h2> Kapitel XVI. </h2> <br/> Wer auf diese<br/>Weise Heergew&#228;te oder Gerade oder Erbe nach<br/>dem Drei&#223;igsten zu Unrecht sich herauszugeben<br/>weigert, beschuldigt man ihn deswegen vor Gericht,<br/>so mu&#223; er daf&#252;r Gewette und Bu&#223;e zahlen.<br/> Wird ein Gut von zwei M&#228;nnern beansprucht,<br/>verlangt es der Richter zu Recht, so soll man es<br/>ihm &#252;berantworten, und er soll es in seiner Hand<br/> behalten, bis sie (die M&#228;nner) sich zu Recht dar&#252;ber<br/>geeinigt haben, und jener sei frei davon, der<br/>es dem Richter &#252;berantwortet hat. Wer Heergew&#228;te<br/>fordert, der soll von M&#228;nnerseite"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268345",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1860,481,98,117"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268395",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1821,913,164,121"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268445",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß A. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1815,1298,138,158"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268495",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Drittes Buch Landrecht, Artikel 12."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=2137,481,192,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268545",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Drittes Buch Landrecht, Artikel 13."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=2408,874,142,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268595",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Drittes Buch Landrecht, Artikel 14."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=2344,1303,108,69"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268646",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Drittes Buch Landrecht, Artikel 15."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=2453,1582,99,69"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268696",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Drittes Buch Landrecht, Artikel 16."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=2156,1858,204,81"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268746",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß A. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1813,1636,145,164"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268796",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1861,1918,90,121"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268846",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1874,2385,78,112"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268896",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> Statt ungerichte unrechte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=2349,1962,179,58"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268947",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1365,119,80,90"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e268997",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1510,896,124,109"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269047",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß A. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1297,1538,168,176"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269097",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1462,1750,80,127"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269147",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Weigerungsrecht des Angeklagten bei einer Mehrheit von Klägern</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=774,127,1046,572"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269196",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein wegen Verbrechens Angeklagter muß weiteren Klägern erst antworten, wenn er vom ersten frei ist</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=774,127,1046,572"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269246",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>4 Kläger</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/> Gruppe<br/>Beschreibung:<br/> Werden vom Angeklagten weggeschoben, da er ihnen noch nicht antworten muß, was sie mit ihren Gesten auch bestätigen. Gegürteter Rock, Beinlinge und Knebelschuhe. Nicht alle vollständig gezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=776,146,477,532"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269296",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Angeklagter</b><br/>Oberbegriffe:<br/> Missetäter<br/> Prozeßpartei<br/>Beschreibung:<br/> Antwortet dem ersten Kläger und schiebt die anderen Kläger von sich weg, da er ihnen erst antworten muß, wenn er vom ersten frei ist. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1180,132,245,519"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269346",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kläger</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Hat als erster gegen den Angeklagten Klage erhoben und damit auch als erster das Anrecht auf Antwort. Quadrierter gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1411,140,197,532"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269396",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Bestätigt das Vorrecht des vor ihm stehenden Klägers auf die erste Antwort des Angeklagten. Langer gegürteter Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1539,150,252,523"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269446",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1641,152,113,69"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269496",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Podest."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1539,439,284,247"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269547",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Podest</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1520,597,306,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269596",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Klage gegen einen Abwesenden und dessen Bürgschaftsbedürftigkeit</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=800,680,1046,551"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269645",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=800,680,1046,551"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269694",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann klagt gegen einen Abwesenden und der Graf bestimmt den Verhandlungstag</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1365,683,479,532"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269743",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kläger</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Erhebt gegen einen Abwesenden Klage wegen eines Verbrechens. Quadrierter gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1368,685,212,528"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269793",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Setzt für den wegen eines Verbrechens angeklagten Abwesenden den Gerichtstag fest. Langer gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1569,685,245,516"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269844",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Podest."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1555,970,287,238"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269894",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Podest</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1543,1113,282,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269943",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zweimalige Darstellung derselben Person</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1205,683,372,528"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e269992",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Angeklagter kann nur mit dem Stellen von Bürgen seine Festnahme bis zu Gerichtstag verhindern</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=811,694,579,537"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270041",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kläger</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Will den von ihm wegen eines Verbrechens Angeklagten bis zum Verhandlungstag in Gewahrsam nehmen. Quadrierter gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1205,718,181,493"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270091",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Angeklagter</b><br/>Oberbegriffe:<br/> Missetäter<br/> Prozeßpartei<br/>Beschreibung:<br/> Kan nur mit dem links stehenden Bürgen, auf der er weist, verhindern, daß ihn der Kläger bis zum Verhandlungstag in Gewahrsam nimmt. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1008,708,229,516"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270142",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bürge</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Übernimmt die Verantwortung, daß der vor ihm stehende und wegen eines Verbrechens Angeklagte zum Verhandlungstag erscheint. Weist zur Bekräftigung auf ihn. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=811,706,215,521"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270192",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1641,685,125,72"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270242",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gerichtlicher Vergleich nach dem Dreißigsten wegen eines Grundstücks</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=812,1214,989,515"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270291",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zwei Männer einigen sich nach dem Dreißigsten durch gerichtlichen Vergleich mittels Abstandszahlung wegen eines Grundstücks</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=812,1214,989,515"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270340",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Vergleicht die Parteien wegen des strittigen Grundstücks gütlich. Langer Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1494,1208,304,505"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270390",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1643,1213,129,75"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270441",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Podest."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1476,1501,332,208"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270491",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Podest</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1478,1640,319,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270540",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Erhält als Ausgleich für das auch von ihm beanspruchte Grundstück den Sack mit 7 Münzen im Wege des gerichtlichen Vergleichs. Langer gegürteter Rock."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1313,1233,309,440"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270590",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sack</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1294,1259,189,296"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270639",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>7 Münzen</b><br/>Oberbegriffe:<br/> Münze<br/>Beschreibung:<br/> Symbolisieren die Ausgleichzahlung für den Verzicht auf das Grundstück."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1338,1398,104,110"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270689",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ausgleichszahlung</b><br/>Beschreibung:<br/> Wurde im Wege des Vergleichs für den Verzicht auf das umstrittene Grundstück gezahlt. Symbolisiert durch 7 Münzen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1338,1398,104,110"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270740",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Zeigt auf das Grundstück, das er durch die Ausgleichszahlung an den Prozeßgegner im Wege des Vergleichs erlangt hat, und fordert es vom bisherigen Besitzer heraus. Gegürteter Rock, Beinlinge und Knebelschuhe"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1056,1250,327,480"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270790",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ähren</b><br/>Oberbegriffe:<br/> Pflanze<br/>Beschreibung:<br/> Symbolisieren das von beiden Parteien nach dem Dreißigsten beanspruchte Grundstück."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=918,1483,154,248"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270840",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grundstück</b><br/>Oberbegriffe:<br/> Ort<br/> Streitgegenstand<br/>Beschreibung:<br/> Wurde von zwei Männern nach dem Dreißigsten beanprucht, die sich im Wege des gerichtlichen Vergleiches einigten. Befindet sich noch im Besitz eines Dritten. Symbolisiert durch Ähren."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=918,1483,154,248"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270890",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Besitzer</b><br/>Beschreibung:<br/> Hat das von den zwei Männern nach dem Dreißigsten beanspruchte Grundstück noch in seinem Besitz, was durch das Ergreifen der Ähren symbolisiert wird. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=812,1242,229,488"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270940",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gewette und Buße bei Vorenthaltung des Nachlasses nach dem Dreißigsten</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=831,1712,983,523"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e270989",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann muß Buße und Gewette zahlen als Strafe für das Vorenthalten des Nachlasses nach dem Dreißigsten</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=831,1712,983,523"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271039",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Erbe</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/> Erbe<br/>Beschreibung:<br/> Zeigt auf den Nachlaß und erhält die Bußgeldzahlung von 3 Münzen, weil sich der Beklagte geweigert hatte, den Nachlaß nach dem Dreißigsten zu übergeben. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=869,1750,283,485"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271089",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Heergewäte</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/> Erbmasse<br/>Beschreibung:<br/> Bestandteil des Nachlasses, der nach dem Dreißigsten dem Erben vorenthalten wurde. Hier symbolisiert durch den Gegenstand, der wohl eine Brünne darstellen soll."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=987,1906,93,238"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271139",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Brünne</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Bewaffnung<br/>Beschreibung:<br/> Aus eisernen Ringketten geflochtenes Schutzgewand. Symbolisiert das Heergewäte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=987,1906,93,238"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271189",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gerade</b><br/>Oberbegriffe:<br/> Erbmasse<br/> Rechtsbegriff<br/>Beschreibung:<br/> Bestandteil des Nachlasses, der nach dem Dreißigsten dem Erben vorenthalten wurde. Weibliche Gerätschaften und Kleider als Erbe. Symbolisiert durch die Bürste."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1048,1745,110,154"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271239",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bürste</b><br/>Beschreibung:<br/> Symbolisiert die Gerade."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1048,1745,110,154"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271289",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ähren</b><br/>Oberbegriffe:<br/> Pflanze<br/>Beschreibung:<br/> Symbolisieren das Grundstück, das zur Erbmasse gehört."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1019,2008,219,227"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271340",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grundstück</b><br/>Oberbegriffe:<br/> Ort<br/> Erbmasse<br/>Beschreibung:<br/> Bestandteil des Nachlasses, der nicht nach dem Dreißigsten dem Erben überlassen wurde. Symbolisiert durch Ähren."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1019,2008,219,227"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271390",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Beklagter</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Muß dem Erben Buße und dem Grafen das Gewette zahlen, da er sich zu Unrecht weigerte, dem Erben den Nachlaß nach dem Dreißigsten auszuhändigen. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1042,1731,563,498"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271440",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Münzen</b><br/>Oberbegriffe:<br/> Münze<br/>Beschreibung:<br/> Symbolisieren das Bußgeld für den Erben."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1033,1908,121,123"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271490",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Buße</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Schadensersatzzahlung an den Prozeßgegner. Symbolisiert durch 3 Münzen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1033,1908,121,123"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271540",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>8 Münzen</b><br/>Oberbegriffe:<br/> Münze<br/>Beschreibung:<br/> Symbolisieren das Gewette für den Richter."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1528,1893,85,139"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271590",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gewette des Grafen</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Strafgeld an den Richter. Symbolisiert durch 8 Münzen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1528,1893,85,139"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271641",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Erhält vom Beklagten 8 Münzen als Gewette. Mit überschlagenen Beinen. Langer Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1430,1708,346,506"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271691",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1626,1708,129,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271741",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Podest."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1455,1981,354,235"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271791",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Podest</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1449,2115,357,106"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271840",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Geächteten und verfesteten Klägern muß vor Gericht nicht geantwortet werden</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=690,2227,1120,665"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271889",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann weigert sich berechtigt, geächteten und verfesteten Klägern vor Gericht zu antworten</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=690,2227,1120,665"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271939",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Bestätigt dem vor ihm stehenden Beklagten, daß er verfesteten bzw. unter Bann stehenden Klägern vor Gericht nicht antworten muß. Langer gegürteter Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1445,2225,304,616"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e271989",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1567,2225,143,77"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e272039",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Fußbodenschnitt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1405,2537,403,318"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e272089",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Fußbodenschnitt</b><br/>Oberbegriffe:<br/> Ort"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1412,2705,398,152"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e272138",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Beklagter</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Mit ausdrücklichem Weigerungsgestus, da er weder verfesteten noch in der Acht befindlichen Klägern vor Gericht antworten muß. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1224,2265,208,599"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e272188",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Geächteter</b><br/>Oberbegriffe:<br/> Missetäter<br/> Prozeßpartei<br/>Beschreibung:<br/> Befindet sich in der Reichsacht, weshalb ihm der Beklagte auf seine Klage keine Antwort geben muß. Schwert mit Lilienkrone, Zeichen der Reichsacht, durch den Hals gestoßen. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=903,2302,314,585"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e272239",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kronenschwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/> Rechtssymbol<br/>Beschreibung:<br/> Durch den Hals gestoßenes Schwert mit goldener Lilienkrone auf dem Knauf. Symbolisiert die über den Mann verhängte Reichsacht."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=967,2347,253,135"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e272289",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Lilienkrone</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Symbolisiert auf dem Schwertknauf die Verhängung der Reichsacht. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=1119,2340,93,145"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e272339",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/> Rechtssymbol<br/>Beschreibung:<br/> Symbolisiert hier die Verfestung des Mannes, durch dessen Hals es gestoßen ist."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=688,2333,171,147"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e272389",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Verfesteter</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/> Missetäter<br/>Beschreibung:<br/> Befindet sich in der Verfestung, weshalb ihm der Beklagte auf die Klage nicht antworten muß. Könnte auch in der Acht sein, da das Schwert im Hals für die Verfestung wie auch für die Acht steht. Gegürteter Rock mit Zaddelung, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=692,2306,256,567"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e272439",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zaddelung</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Gezacktes und girlandenförmiges Ausschneiden der Säume an vielen Stellen von Kleidungsstücken."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=765,2429,164,272"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e650432",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ergreifen der Ähren</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=808,1242,229,488"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e650481",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gewere</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Das Ergreifen der Ähren verdeutlicht die noch bestehende Verfügungsgewalt des bisherigen Besitzers über das Grundstück."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=918,1483,154,248"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f44vannotationen.json/3d5e650531",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Erbmasse</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Wurde dem Erben nach dem Dreißigsten vorenthalten. Bestehend aus Heergewäte, Gerade und Liegenschaften."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00118#xywh=972,1747,263,491"
+                                             }]
+                    }

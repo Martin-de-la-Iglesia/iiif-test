@@ -1,0 +1,808 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>sal man bewaren, das si nicht schaden. <b>N</b>imant<br/>enmus ouch sunderliche hirten habin, da he deme<br/>gemeinen hirten sin lon mite minre, he enhabe<br/>dri huven oder me, di sin eigen sin oder sin len, der<br/> mus wol sunderliche schafhirten haben. <b>W</b>o man<br/>aber dem hirten lon gelobit von der huven unde nicht<br/>von deme vie, das lon sal nimant enthalden, durch<br/>das das dorf nicht hirtelos enblibe. Was man<br/>vor den hirten tribit, enbrengit hes nicht wider<br/>in das dorf, he mus is gelden. Was aber di wol-<br/>ve nemen oder di roibere, blibet he ungevangen<br/> unde beschriet he si nicht mit dem gerufte, so<br/>das hes geczug habe, he mus is gelden.<br/><b>B</b>elemt ein vie das andere vor dem hirten<br/>odir wirt is getret oder gebeist unde schuldigit<br/>man den hirten dar umme, he mus benennen das<br/>vie, das den schaden hat getan unde mus da zu<br/>swern. So sal iener, des das vie is, das gewunde-<br/>te vie in siner phlage halden, bis is wol zu vel-<br/>de muge gegen. Stirbit is, he mus is gelden<br/>noch sime gesazten wergelde. Schuldigit man<br/>den hirten, das he ein vie nicht zu dorfe en-<br/>habe bracht, tar he sin recht dar zu tun, he<br/>is ledig dar ab. <b>W</b>er aber sins vies vormis-<br/>set unde <i>zu hant</i> zu dem hirten get, unde en dar<br/>umme schul-<br/>deget mit urkunde zweier manne, so mag der<br/>hirte da vor nicht geswern, wen he mus im sin<br/>vie gelden. Spricht aber der hirte, das is vor en nicht<br/>getribin ensi, das mus der man bas gezugen mit<br/>czwen mannen, di is sagin, das man is an sine<br/>hute treip, den is der hirte unschuldig muge<br/>werdin.<br/><b>C. LV. W</b>as so der burmeister<br/>schaffit des dorfes vrumen mit willekor<br/> der meisten menie der gebure, das enmag das<br/>minste teil nicht widirredin.<br/><b> C.LVI. W</b>elch dorf bi wassere lit unde einen tam haben,"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>soll man beh&#252;ten, damit sie keinen Schaden anrichten.<br/>Niemand darf ferner einen eigenen Hirten<br/>anstellen, so da&#223; er dem Gemeindehirten seinen<br/>Verdienst schm&#228;lert, au&#223;er er besitzt drei Hufen<br/> (Land) oder mehr, die sein Eigengut oder sein<br/>Lehen sind; dann darf er einen eigenen Schafhirten<br/>haben. Wo man aber dem Hirten einen Verdienst<br/> verspricht aufgrund der Hufen und nicht<br/>aufgrund der (Menge) Vieh, da darf ihm niemand<br/>den Lohn vorenthalten, damit das Dorf nicht<br/>ohne Hirten bleibt. Was man zu dem Hirten<br/>treibt, das mu&#223; er erstatten, wenn er es nicht wieder<br/>in das Dorf bringt. Auch das, was ihm die<br/>W&#246;lfe nehmen oder die R&#228;uber, wird er nicht gefangen<br/>und beschreit er es nicht mit dem Ger&#252;fte,<br/>so da&#223; er Zeugen haben kann, mu&#223; er ersetzen.<br/> Wenn ein Tier ein anderes unter den Augen des<br/>Hirten verletzt oder wird es getreten oder gebissen<br/>und beschuldigt man den Hirten deshalb,<br/>dann mu&#223; er das Tier vorweisen, das den Schaden<br/>angerichtet hat und mu&#223; die Angelegenheit<br/>beschw&#246;ren. Dann soll der Besitzer dieses Tieres<br/> das verwundete Tier zu sich in Pflege nehmen, bis<br/>es wieder auf die Weide gehen kann. Stirbt es<br/>aber, dann mu&#223; er (der Hirte) es entsprechend<br/> seinem festgesetzten Wergeld ersetzen. Beschuldigt<br/>man den Hirten, da&#223; er ein Tier nicht ins<br/>Dorf zur&#252;ckgebracht habe, er getraut sich aber,<br/> seine Unschuld zu beschw&#246;ren, so ist er frei von<br/>der Anschuldigung. Wenn aber ein Mann sein<br/>Vieh vermi&#223;t und sofort zu dem Hirten geht und<br/> ihn deswegen mit dem Zeugnis zweier M&#228;nner<br/>beschuldigt, dann kann sich der Hirte davon nicht<br/>freischw&#246;ren, sondern er mu&#223; ihm sein Tier bezahlen.<br/>Sagt aber der Hirte aus, da&#223; es (das Tier)<br/>nicht zu ihm getrieben worden sei, so darf dies<br/>der Besitzer mit zwei M&#228;nnern, die sahen, da&#223;<br/>man es in seine Obhut trieb, eher bezeugen, als<br/> da&#223; der Hirte unschuldig werden kann.<br/> <h2> Kapitel LV. </h2> <br/> Was der Bauermeister mit der Zustimmung<br/>der Mehrheit der Bauern zum Nutzen des Dorfes<br/>beschlie&#223;t, dem darf die Minderheit nicht widersprechen.<br/> <h2> Kapitel LVI. </h2> <br/> Alle D&#246;rfer, die am Wasser<br/>liegen und einen Deich haben,"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214493",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Klein n. Nur mennigrot vorgezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=2458,382,65,81"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214543",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=2495,612,95,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214593",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß B. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1840,1089,135,84"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214643",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Lichtgrün."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=2160,1648,161,76"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214693",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1843,2091,173,110"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214744",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1843,2295,204,101"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214794",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 55."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=2316,2076,232,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214844",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 56."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=2444,2219,143,87"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214894",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gemeindehirte und Privathirte</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=793,174,1026,645"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214943",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Nur ein Mann mit drei Hufen Land und mehr darf einen eigenen Hirten anstellen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=793,174,1026,645"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e214992",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Privathirte</b><br/>Beschreibung:<br/> Zeigt auf sich, da er der Hirte der Schafherde ist. Ist der Privathirte des vor ihm Stehenden. Mit Keule. Gegürteter Rock, Beinlinge, Gugel und wohl Halbstiefel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=791,194,235,622"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215043",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=806,194,201,263"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215093",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Keule</b><br/>Beschreibung:<br/> Kennzeichnet hier den Hirten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=920,396,111,341"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215143",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Schafe</b><br/>Oberbegriffe:<br/> Tier<br/> Schaf<br/>Beschreibung:<br/> Symbolisieren die Schafherde, die der Privathirte hütet. Nicht alle vollständig gezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=903,547,184,233"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215193",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Beschreibung:<br/> Zeigt auf die drei ihm gehörigen Erdhügel, die drei Hufen Land symbolisieren, weshalb er gleichzeitig den Gemeindehirten ablehnen kann. Gegürteter Rock mi parti und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=982,188,229,571"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215243",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Erdhügel</b><br/>Oberbegriffe:<br/> Ort<br/>Beschreibung:<br/> Symbolisieren drei Hufen Land im Besitz eines Mannes."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=930,560,474,217"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215293",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Hufen Land</b><br/>Oberbegriffe:<br/> Ort<br/>Beschreibung:<br/> Muß ein Mann im Besitz haben, damit er sich einen eigenen Hirten für die Schafe anstellen darf. Symbolisiert durch 3 Erdhügel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=930,560,474,217"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215344",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Dorfbewohner</b><br/>Oberbegriffe:<br/> Gruppe<br/>Beschreibung:<br/> Bestätigen dem Besitzer der drei Hufen Land den Anspruch auf einen eigenen Hirten. Gegürteter Rock, Beinlinge und Knebelschuhe, teilweise ohne."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1172,192,308,556"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215394",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Dorfbewohner</b><br/>Beschreibung:<br/> Mit Verweigerungsgestus als Zeichen, daß er nicht den Gemeindehirten nutzen will, obwohl er keine drei Hufen im Besitz vorweisen kann. Gegürteter Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1399,169,204,585"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215444",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gemeindehirte</b><br/>Beschreibung:<br/> Weist den dritten Dorbewohner darauf hin, daß dieser keinen Anspruch auf einen eigenen Hirten hat. Mit Keule. Gegürteter Rock, Beinlinge, Gugel und wohl Halbstiefel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1571,167,242,573"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215494",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1646,175,167,223"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215544",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Keule</b><br/>Beschreibung:<br/> Kennzeichnet hier den Hirten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1590,391,120,339"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215594",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1487,769,173,118"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215645",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Entlohnung des Hirten und Hüteverluste</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=844,775,976,683"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215694",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=844,775,976,683"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215743",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Bauer entlohnt den Hirten nach der Anzahl der Hufen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1208,782,613,679"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215792",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bauer</b><br/>Beschreibung:<br/> Entlohnt den Hirten nach der Anzahl der Hufen, auf die er zeigt, und nicht nach der Menge des Viehs mit drei Münzen. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1528,806,298,648"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215842",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hütelohn</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Erhält der Hirte nach der Anzahl der Hufen und nicht des Viehs. Symbolisiert durch drei Münzen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1530,940,74,125"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215892",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Münzen</b><br/>Oberbegriffe:<br/> Münze<br/>Beschreibung:<br/> Symbolisieren den Hütelohn."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1530,940,74,125"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215943",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hirte</b><br/>Beschreibung:<br/> Läßt sich den Hütelohn auszahlen und weist gleichzeitig auf den Verlust von Vieh. Gegürteter Rock, Beinlinge, Gugel und wohl Halbstiefel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1220,804,379,640"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e215993",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1362,794,171,335"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216043",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Erdhügel</b><br/>Oberbegriffe:<br/> Ort<br/>Beschreibung:<br/> Symbolisieren die Hufen, nach denen der Hirte entlohnt wird. Müßten nach BZ 1 wohl eher mindestens drei sein."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1367,1280,428,170"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216093",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Hufen Land</b><br/>Oberbegriffe:<br/> Ort<br/>Beschreibung:<br/> Nach ihrer Anzahl richtet sich die Entlohnung des Hirten. Nach BZ1 müßten es jedoch mindestens drei sein."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1367,1280,428,170"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216143",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Verlust von Hütevieh durch einen Wolf</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=850,782,579,673"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216192",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wolf</b><br/>Oberbegriffe:<br/> Tier<br/>Beschreibung:<br/> Hat ein Schaf gerissen, das sich in der Obhut des Hirten befand."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=845,1017,554,434"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216243",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schaf</b><br/>Oberbegriffe:<br/> Tier<br/> Schaf<br/>Beschreibung:<br/> Wurde vom Wolf gerissen und kann deshalb vom Hirten nicht wieder in das Dorf zurückgebracht werden."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=842,1006,243,251"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216293",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Dorf</b><br/>Oberbegriffe:<br/> Ort<br/>Beschreibung:<br/> Dorthin muß der Hirte die anvertrauten Tiere zurückbringen. Symbolisiert durch das Haus."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=895,783,525,669"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216343",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Haus</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Symbolisiert das Dorf, wohin der Hirte die anvertrauten Tiere zurückbringen muß. Verzerrte Darstellung, so daß von vorn drei Seiten zu sehen sind. Mehrere Wandöffnungen oder auch Schnitte sowie Ziegeldach mit Sims und zwei knaufartigen Abschlüssen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=895,783,525,669"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216393",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß B. Dunkelblau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=949,1483,93,147"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216443",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Grün."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1056,2164,154,124"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216493",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tiere verletzen untereinander</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=775,1461,1054,734"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216543",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tiere beißen, stoßen und treten andere Tiere</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=784,1668,542,531"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216592",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Hund beißt ein Schaf</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=786,1675,525,292"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216641",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hund</b><br/>Oberbegriffe:<br/> Tier<br/> Hund<br/>Beschreibung:<br/> Beißt ein Schaf."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=784,1668,475,238"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216691",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schaf</b><br/>Oberbegriffe:<br/> Tier<br/> Schaf<br/>Beschreibung:<br/> Wird vom Hund gebissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1119,1814,201,149"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216741",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Ochse stößt ein Schwein mit den Hörnern</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=759,1842,569,295"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216790",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwein</b><br/>Oberbegriffe:<br/> Tier<br/> Schwein<br/>Beschreibung:<br/> Wird vom Ochsen mit den Hörnern gestoßen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1056,1936,272,181"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216841",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ochse</b><br/>Oberbegriffe:<br/> Tier<br/> Rind<br/>Beschreibung:<br/> Symbolisiert gleichzeitig das Treten und das Stoßen von anderen Tieren. Tritt die Lämmer/Ferkel und stößt das Schwein."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=764,1845,491,270"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216891",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Ochse tritt zwei Lämmer</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=746,1847,511,348"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216940",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Lämmer</b><br/>Oberbegriffe:<br/> Tier<br/> Schaf<br/>Beschreibung:<br/> Werden vom Ochsen getreten. Könnten allerdings auch 2 Ferkel darstellen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=833,2046,214,152"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e216990",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwur auf das Reliquiar</b><br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Erheben der Schwurfinger über das Reliquiar mit häufigem gleichzeitigen Ergreifen des Reliquienständers mit der linken Hand."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1269,1467,375,656"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217040",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Hirte beschwört die Verletzung eines Tieres durch ein anderes</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1269,1467,375,656"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217089",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hirte</b><br/>Beschreibung:<br/> Beschwört die Verletzung eines Tieres durch ein anderes auf das Reliquiar. Laut Text müßte er das Tier vorweisen. Mit goldener Keule. Gegürteter Rock, Beinlinge, Gugel und wohl Halbstiefel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1269,1467,375,656"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217140",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1297,1465,192,281"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217190",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Keule</b><br/>Beschreibung:<br/> Kennzeichnet hier den Hirten. Golden mit schwarzen Umrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1355,1697,196,277"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217240",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquiar</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Auf Reliquienständer mit palmblätterartigen Ornamenten. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1458,1633,174,488"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217290",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquienständer</b><br/>Beschreibung:<br/> Mit palmblätterartigen Ornamenten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1460,1787,167,334"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217340",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bauer</b><br/>Beschreibung:<br/> Beschuldigt den Hirten der Verantwortlichkeit für die Verletzung seines Tieres. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1570,1497,250,618"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217390",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Verantwortlichkeit des Hirten</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=866,2171,963,728"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217440",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Hirte muß für vermißtes Vieh Ersatz leisten</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=866,2171,963,728"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217489",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hirte</b><br/>Beschreibung:<br/> Will sich wegen vermissten Viehs freischwören, wird jedoch vom Eigentümer mit zwei Zeugen gehindert und muß deshalb Ersatz leisten. Mit goldener Keule und 3 Münzen. Gegürteter Rock, Beinlinge, Gugel und wohl Halbstiefel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=874,2200,391,621"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217539",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Eidesschelte</b><br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Eigentlich: Ergreifen und Wegziehen der Schwurhand des Hirten vom Reliquiar. Hier jedoch Wegziehen der Linken, da mit der Rechten die Auszahlung des Schadensersatzes dargestellt wird."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=872,2200,681,695"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217589",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=921,2218,219,235"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217639",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Keule</b><br/>Beschreibung:<br/> Kennzeichnet hier den Hirten. Golden mit schwarzen Umrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1044,2366,131,397"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217689",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquiar</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Auf Reliquienständer mit palmblätterartigen Ornamenten. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1145,2339,184,559"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217740",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquienständer</b><br/>Beschreibung:<br/> Mit palmblätterartigen Ornamenten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1137,2487,190,410"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217790",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Münzen</b><br/>Oberbegriffe:<br/> Münze<br/>Beschreibung:<br/> Symbolisieren den Ersatz für das vermißte Vieh."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1151,2450,75,71"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217840",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schadensersatz</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Für das vermißte Vieh, da sich der Hirte nicht freischwören kann. Symbolisiert durch drei Münzen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1151,2450,75,71"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217890",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bauer</b><br/>Beschreibung:<br/> Hindert mit zwei Zeugen den Hirten daran, sich wegen des Verlustes seines Viehs freizuschwören und nimmt gleichzeitig den ihm zustehenden Schadensersatz entgegen. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1180,2181,364,667"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e217940",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Zeugen</b><br/>Oberbegriffe:<br/> Gruppe<br/>Beschreibung:<br/> Bezeugen, daß der Hirte das vermißte Vieh nicht in das Dorf zurückgebracht hat. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=1445,2170,364,673"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f38vannotationen.json/3d5e674665",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> zu hant."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00106#xywh=2008,1710,50,58"
+                                             }]
+                    }

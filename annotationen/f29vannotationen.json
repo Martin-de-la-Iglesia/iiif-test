@@ -1,0 +1,929 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>oder roubet oder burnet, sunder mortbrant, oder wip odir<br/>mait noteget unde den vride bricht unde di in ubir-<br/>hure begriffen werdin, den sal man das houpt abe-<br/>slan. Di dube behalden oder roup oder di si mit helfe<br/> dar zu sterken, werdin si des vorwundin, man richtet<br/>uber si als uber iene. <b> W</b>elch cristenman oder wip<br/>ungloubig is unde mit czouber ummeget oder mit<br/> vorgift unde des vorwunden wirt, di sal man uf<br/>der hort burnen. Welch richter ungerichte nicht en-<br/>richtet, der is des selbin gerichtis schuldig, das<br/>uber ienen solde gen. Nimant is ouch phlichtig,<br/>des richters ding zu suchene noch rechtis im<br/>czu phlegene, di wile he rechtes selbe gew<i>e</i>i-<br/>gert hat.<br/><b>C.XIIII. S</b>let ein man den andern<br/>tot durch not unde entar he bi im nicht<br/>bliben, das he en vor gerichte brenge unde uber en<br/>richte vor sins libes angiste, kumt he sunder<br/>den totin vor gerichte unde bekennet hes, e man<br/>uber en clait, unde but he sich dar umme czu rech-<br/>te, man sal im sinen hals nicht vorteiln.<br/><b>D</b>em richtere sal man irteiln das hoeste gewet-<br/> te der phenninge, di man im phliet zu gebene<br/>zu gewette, unde den magen ir wergelt. Di sal man<br/>vorladen, ir wergelt zu nemene, czu den neestin<br/> dinge unde czu deme andern unde zu deme dritten. Kumen<br/>si denne nicht vor, he sal da mitte sizzen, bis<br/>das sis im mit clage angewinnen, unde man sal<br/>im vride wirken. <b>U</b>mme den man en-<br/>mag im nimant an sinen hals gesprechen,<br/>da he sich zu rechte umme bot, er man uf en clai-<br/> te. <b>B</b>rengit man aber den toten vor gerichte u<i>n</i>-<br/>begraben unde clait uf in, he mus entw<i>o</i>rten<br/>umme sinen hals oder he mus den toten bereden."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>oder ausraubt oder verbrennt, mit Ausnahme des<br/>Mordbrands, oder eine Frau oder ein M&#228;dchen<br/>vergewaltigt und den Frieden bricht und die, die<br/>beim Ehebruch ergriffen werden, denen soll man<br/>den Kopf abschlagen. Diejenigen, die Diebes-<br/>oder Raubgut h&#252;ten oder die T&#228;ter mit Hilfe unterst&#252;tzen,<br/>werden sie dessen &#252;berf&#252;hrt, so soll<br/> man &#252;ber sie richten wie &#252;ber jene (Diebe/R&#228;uber).<br/>Ist ein Christ oder eine Christin ungl&#228;ubig<br/>und besch&#228;ftigt sich mit Zauberei oder mit Giftmischerei<br/>und werden (sie) dessen &#252;berf&#252;hrt, die<br/> soll man auf dem Scheiterhaufen verbrennen. Ein<br/>Richter, der ein Verbrechen nicht richtet, der ist<br/>desselben Gerichts schuldig, das &#252;ber jenen (T&#228;ter)<br/>ergehen sollte. Auch ist niemand verpflichtet,<br/>den Gerichtstag eines Richters aufzusuchen oder<br/>ihm gegen&#252;ber dem Recht zu gen&#252;gen, wenn er<br/>selbst das Recht verweigert hat.<br/> <h2> Kapitel XIV. </h2> <br/> Schl&#228;gt ein Mann einen anderen in Notwehr tot<br/>und getraut er sich aus Angst um sein Leben nicht,<br/>bei ihm zu bleiben, um ihn vor Gericht zu bringen<br/>und &#252;ber ihn richten zu lassen, und erscheint er<br/> ohne den Toten vor Gericht und bekennt er es<br/>(die Tat), bevor man gegen ihn geklagt hat, und<br/>erbietet er sich, seine Rechtspflicht zu erf&#252;llen, so<br/>soll man ihn darum nicht zum Tode verurteilen.<br/>Dem Richter soll man (gegen ihn) das h&#246;chste<br/>Gewette in Pfennigen zuerkennen, das man als<br/>Gewette zu erheben pflegt, und den Magen ihr<br/>Wergeld. Damit sie ihr Wergeld entgegennehmen,<br/>soll man sie zum n&#228;chsten Gerichtstag vorladen<br/>und zum zweiten und zum dritten. Erscheinen sie<br/>dann nicht vor Gericht, so soll er (der T&#228;ter) es<br/>solange in seinem Besitz behalten, bis sie es ihm<br/>durch eine Klage abgewinnen, und man soll ihm<br/> Friede erwirken. Niemand kann um den Hals des<br/>Mannes (eine Klage) erheben, weil er sich rechtm&#228;&#223;ig<br/>erboten hat, ehe gegen ihn Klage erhoben<br/>wurde. Bringt man jedoch den Toten unbegraben<br/>vor Gericht und klagt gegen ihn, so mu&#223; er sich<br/>um seinen Hals verantworten oder er mu&#223; den<br/>Toten &#252;berf&#252;hren."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e151553",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 15 (Registerangabe: Artikel 14)."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=2308,1060,99,86"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e151603",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=2142,620,137,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e151653",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1843,1066,113,144"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e151703",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß D. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1812,1455,141,79"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e151753",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß U. Lichtgrün."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=2179,1857,131,67"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e151803",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1254,1230,119,163"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e151854",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Enthauptung bei Totschlag und Notzucht</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=762,83,1043,549"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e151903",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=762,83,1043,549"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e151952",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Totschläger erschlägt hinterrücks einen Mann mit seinem Schwert</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=782,83,520,582"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152001",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Totschläger</b><br/>Oberbegriffe:<br/> Missetäter<br/> Bewaffneter<br/>Beschreibung:<br/> Erschlägt hinterrücks einen Mann mit seinem Schwert. Kein Mord, da ein Schwert keine heimliche Waffe. Mit zweihändigem blanken und erhobenen Schwert. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=910,79,390,545"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152051",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Blank und erhoben und hier als Zweihänder gezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=908,83,264,333"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152101",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Beschreibung:<br/> Wird hinterrücks mit einem Schwert erschlagen. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=762,158,260,507"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152152",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Notzucht</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1234,98,261,542"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152201",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frau</b><br/>Beschreibung:<br/> Wird vergewaltigt, was sich hier jedoch nicht aus der bildlichen Darstellung sondern nur aus dem Text erschließt. Abwehrhaltung beider Hände. Rock und offenes Haar."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1244,137,182,504"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152251",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Vergewaltiger</b><br/>Oberbegriffe:<br/> Missetäter<br/>Beschreibung:<br/> Seine Handlung erschließt sich nur mit Hilfe des Textes als Vergewaltigung. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1271,100,229,536"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152301",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hinrichtung durch Enthaupten</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1329,85,477,556"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152350",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Missetäter</b><br/>Oberbegriffe:<br/> Leichnam<br/> Missetäter<br/>Beschreibung:<br/> Wurde vom Henker geköpft, wobei nicht ersichtlich ist, welche Straftat durch den Hingerichteten begangen worden ist. Langer Rock und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1348,425,454,212"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152400",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kopf</b><br/>Oberbegriffe:<br/> Wunde<br/>Beschreibung:<br/> Bei einem Enthaupteten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1667,495,141,150"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152451",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Henker</b><br/>Oberbegriffe:<br/> Bewaffneter<br/>Beschreibung:<br/> Hat den Verurteilten geköpft. Mit erhobenem Schwert, das er gerade am geschürzten Rock abwischen will. Zweifarbiger, geschürzter und gegürteter Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1451,83,322,466"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152501",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Feuertod von Ketzer und Hexe sowie eine Giftmischerin</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=737,637,1043,560"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152550",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=737,637,1043,560"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152599",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Der Ketzer wird auf dem Rost verbrannt</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=755,639,829,554"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152648",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Die Hexe wird auf dem Rost verbrannt</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=755,639,829,554"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152697",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ketzer</b><br/>Oberbegriffe:<br/> Missetäter<br/> Leichnam<br/>Beschreibung:<br/> Wird auf dem Rost verbrannt. Mit vorn gebundenen Händen und geschlossenen Augen. Langer Rock und barfuß."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=818,689,344,360"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152748",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Handfessel</b><br/>Oberbegriffe:<br/> Strafwerkzeug"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=936,840,78,87"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152797",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hexe</b><br/>Oberbegriffe:<br/> Missetäter<br/> Leichnam<br/>Beschreibung:<br/> Wird auf dem Rost verbrannt. Mit geschlossenen Augen undHände in gebundener Haltung, jedoch ohne Strick. Rock und Schleier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1086,675,218,378"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152847",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1100,680,152,175"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152897",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Feuer</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=746,819,603,376"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152946",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Rost</b><br/>Oberbegriffe:<br/> Strafvollzugsort<br/>Beschreibung:<br/> Dient zur Verbrennung von Menschen. Mit Feuer."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=746,819,603,376"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e152996",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Henker</b><br/>Beschreibung:<br/> Schürt mit einer zweizinkigen Gabel das Feuer. Geschürzter gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1180,639,403,545"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153047",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Forke</b><br/>Beschreibung:<br/> Mit zwei Zinken."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1178,873,320,286"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153097",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Giftmischerin</b><br/>Oberbegriffe:<br/> Missetäter<br/>Beschreibung:<br/> Hält eine goldene Phiole zum Zeichen ihrer Giftmischerei. Höfisch geraffter und gefütterter Mantel, Rock und Schleier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1557,644,221,522"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153147",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1564,644,150,158"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153197",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Phiole</b><br/>Beschreibung:<br/> Behältnis, das die Giftmischerin kennzeichnen soll. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1694,695,87,148"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153247",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tötung in Notwehr</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=824,1180,953,529"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153296",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann tötet einen anderen in Notwehr</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=824,1180,953,529"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153346",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Totschläger</b><br/>Oberbegriffe:<br/> Bewaffneter<br/>Beschreibung:<br/> Hat einen anderen Mann in Notwehr erschlagen und verläßt den Tatort. Mit blankem erhobenen Schwert und Tuch, das die Notwehr und damit seine Straffreiheit symbolisiert. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=828,1172,325,533"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153396",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Blank und erhoben."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=832,1185,321,115"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153446",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tuch</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Symbolisiert in der Hand eines in Notwehr Handelnden dessen Straffreiheit."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=826,1349,104,183"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153496",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Symbolisiert den Angriff seines Besitzers auf den in Notwehr Handelnden. Blank."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1226,1310,387,115"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153546",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Angreifer</b><br/>Oberbegriffe:<br/> Missetäter<br/> Leichnam<br/>Beschreibung:<br/> Das Schwert symbolisiert seinen Angriff auf den Anderen. Mit abgeschlagenen Händen und Füßen und geschlossenen Augen. Gegürteter Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1195,1330,564,346"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153596",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Fuß</b><br/>Oberbegriffe:<br/> Wunde<br/>Beschreibung:<br/> Beide Füße abgeschlagen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1195,1487,177,195"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153647",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hand</b><br/>Oberbegriffe:<br/> Wunde<br/>Beschreibung:<br/> Beide Hände abgeschlagen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1411,1438,167,183"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153697",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sühne der Notwehr</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=870,1650,951,566"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153746",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Der Totschläger zahlt für seine Notwehrhandlung dem Graf Gewette und dem Magen Wergeld</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=870,1650,951,566"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153795",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mage</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/>Beschreibung:<br/> Nächster Verwandter des in der vorigen Bildzeile erschlagenen Angreifers. Erhält 7 Münzen als Wergeld für ihn. Gegürteter Rock, Beinlinge, Gugel und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=871,1720,349,494"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153845",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>7 Münzen</b><br/>Oberbegriffe:<br/> Münze<br/>Beschreibung:<br/> Symbolisieren das Wergeld für den in der vorigen Bildzeile erschlagenen Angreifer."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1094,1838,145,104"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153895",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wergeld</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Manngeld, das die Sühneleistung für den Erschlagenen darstellt. Symbolisiert durch 7 Münzen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1094,1838,145,104"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153946",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Totschläger</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/> Bewaffneter<br/>Beschreibung:<br/> Zahlt für seinen Totschlag in Notwehr aus der vorigen Bildzeile das Gewette des Richters, nachdem er sich auf das Reliquiar freigeschworen hat. Das Wergeld zahlte er schon. Mit blankem geschulterten Schwert. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1188,1649,423,556"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e153996",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Blank und rechts geschultert."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1188,1650,245,299"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154046",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=929,1756,149,179"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154096",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquiar</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Auf Reliquienständer mit palmblätterartigen Ornamenten. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1374,1884,155,317"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154146",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquienständer</b><br/>Beschreibung:<br/> Mit palmblätterartigen Ornamenten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1383,2003,145,207"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154196",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Klein d. Lichtblau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1441,1700,121,133"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154247",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>5 Münzen</b><br/>Oberbegriffe:<br/> Münze<br/>Beschreibung:<br/> Symbolisieren das Gewette des Richters."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1499,1856,118,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154297",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gewette des Grafen</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Strafgeld an den Richter. Symbolisiert durch 5 Münzen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1499,1856,118,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154347",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Läßt sich sein Gewette übergeben. Langer gegürteter Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1519,1690,257,494"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154397",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1601,1692,121,75"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154447",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Fußbodenschnitt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1499,1959,321,237"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154497",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Fußbodenschnitt</b><br/>Oberbegriffe:<br/> Ort"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1507,2081,293,119"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154547",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kampfklage wegen Totschlags</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=754,2169,1038,716"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154596",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Der Totschläger muß sich um seinen Hals im gerichtlichen Zweikampf verteidigen</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=754,2169,1038,716"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154645",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Totschläger</b><br/>Oberbegriffe:<br/> Bewaffneter<br/> Prozeßpartei<br/>Beschreibung:<br/> Muß wegen des von ihm Getöteten aus BZ 3 gegen dessen Verwandten einen gerichtlichen Zweikampf bestreiten. Mit Schwert und Buckelschild. Geschürzter gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=759,2258,418,525"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154695",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Blank."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=756,2442,405,122"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154745",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schild</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schild<br/>Beschreibung:<br/> Rücklings und damit Griff sichtbar."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1029,2266,144,151"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154795",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Angreifer</b><br/>Oberbegriffe:<br/> Missetäter<br/> Leichnam<br/>Beschreibung:<br/> Wurde von seinem Verwandten vor Gericht gebracht, der um ihn klagt. Mit abgeschlagenen Händen und Füßen sowie geschlossenen Augen. Langer Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=776,2656,578,218"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154846",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hand</b><br/>Oberbegriffe:<br/> Wunde<br/>Beschreibung:<br/> Beide Hände abgeschlagen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1001,2676,127,189"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154896",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Fuß</b><br/>Oberbegriffe:<br/> Wunde<br/>Beschreibung:<br/> Beide Füße abgeschlagen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=765,2753,164,131"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154946",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Erdboden</b><br/>Oberbegriffe:<br/> Ort<br/>Beschreibung:<br/> Symbolisiert hier den Kampfplatz."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=790,2756,783,155"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e154996",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mage</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/> Bewaffneter<br/>Beschreibung:<br/> Hat seinen erschlagenen Verwandten vor Gericht gebracht und kämpft für diesen. Mit Schwert und Buckelschild. Geschrägter, geschürzter und gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1177,2171,329,618"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e155046",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Buckelschild</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schild"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1170,2275,151,144"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e155095",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Blank und erhoben."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1195,2169,120,404"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e155146",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß V. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1436,2202,118,124"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e155196",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1582,2213,120,75"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e155246",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Zeigt auf den Leichnam als Kampfgrund und die Kämpfer. Mit überschlagenen Beinen. Langer gegürteter Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1486,2211,275,578"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e155296",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Fußbodenschnitt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1432,2522,351,320"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e155346",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Fußbodenschnitt</b><br/>Oberbegriffe:<br/> Ort"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1419,2673,369,173"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e645535",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> geweigert statt gewigert."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=2495,1035,95,64"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e645585",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> unbegraben statt umbegraben."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=2527,2027,83,48"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e645635",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> entworten statt entwerten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=2442,2075,155,48"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e649082",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Richtschwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/> Strafwerkzeug<br/> Hinrichtungswerkzeug<br/>Beschreibung:<br/> Blank und erhoben. Wird vom Henker nach Vollzug der Enthauptung am geschürzten Rock gesäubert."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1457,89,308,96"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f29vannotationen.json/3d5e649133",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00088#xywh=1440,635,144,100"
+                                             }]
+                    }

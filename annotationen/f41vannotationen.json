@@ -1,0 +1,1226 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>wiet man ouch di phaffen <i>zu gotes dinste</i>, di der<br/>cristenheit meistere<br/>sin. <b>D</b>es suntagis worde wir vorsunet mit<br/>gote umme Adams <i>missetat</i>. Der suntag was der erste tag,<br/>der je gewart unde wirt der lezte, alse wir ufsten<br/>suln von deme tode unde varn zu gnaden mit libe unde<br/>mit sele, di das wider got vordient haben. Dar<br/>umme sin dise vier tage gemeine vridetage<br/>allen luten ane den, di in der hanthaften tat gevangen<br/>werden oder in des riches achte sin oder vorvest in deme<br/>gerichte.<br/><b>C.LXVII. W</b>er so umme ungerichte<br/> beclaget wirt, he enmus nicht me wen<br/>drisig man vuren vor gerichte, wen he vorkumt,<br/>di ensuln keine wafen tragen ane swert.<br/><b>C. LXVIII. I</b> rlit dem wegevertigen manne sin phert, he mus<br/>wol sniden korn unde im geben alse verre, als he<br/>gereichen mag, stende in deme wege mit eime vuse,<br/> he ensal is abir nicht dennen vuren.<br/><b>C. LXIX. W</b>er so totit oder wundit einen vridebrechere, he<br/>blibet is ane wandil, ab hes selb sibende ge-<br/>zugen mag, das he en wundete in der vlucht<br/>oder an der tat, da he den vride brach.<br/><b>C. LXX. M</b>an sal nimande wisen von sime gute, das he in<br/>gewern hat, im enwerde di gewere mit rechte angewunnen.<br/><b>C.LXXI. W</b>er den vride bricht,<br/>das sal man richten als hi vor gespro-<br/>chen ist. <b>B</b>innen geswornen vride ensal man<br/> keine wapen vuren, wen zu des riches dinste<br/>unde zu turnei sunder swert. Alle di andirs wapen<br/>vuren, uber di sal man richten, wen si in des riches<br/>achte sin, ab si da mite gevangen werden. Swert en-<br/>mus man ouch nicht tragen an burgen noch an ste-<br/>ten noch an dorfen, ane alle, di dar inne wanun-<br/>ge oder herberge haben. <b>W</b>apen mus man ouch wol<br/>vuren, wen man deme gerufte volget. Deme suln durch<br/>recht volgen alle, di zu iren jaren kumen sin also<br/>verre, das si swert gevuren mugen, is enbenemen<br/>en echt not sunder phaffen unde wip unde kirche-<br/>nere unde hirten. Ab si volgen <i>vor</i> eine burk, dri tage<br/> suln si da bliben, menlich mit siner spise, binnen deme"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>weiht man auch die Geistlichen, die der Christenheit<br/>Lehrer sind, zu Gottes Dienst. Am Sonntag<br/>wurden wir wegen Adams Vergehen mit Gott vers&#246;hnt.<br/>Der Sonntag war der erste Tag, der je war,<br/>und er wird auch der letzte Tag sein, (der Tag,)<br/>an dem wir von dem Tod auferstehen und an dem<br/>diejenigen, die es um Gott verdient haben, mit<br/> Leib und Seele in den Himmel auffahren werden.<br/>Deshalb sind diese vier Tage gemeing&#252;ltige Friedenstage<br/>f&#252;r alle Menschen, ausgenommen f&#252;r<br/> die, die in der handhaften Tat gefangen werden<br/>oder in der Reichsacht sind oder die in einem Gerichtsbezirk<br/>in der Bezirksacht sind.<br/> <h2> Kapitel LXVII. </h2> Wer wegen eines Verbrechens angeklagt<br/>ist, der darf nicht mehr als drei&#223;ig M&#228;nner vor<br/>das Gericht mitbringen, wenn er dort erscheint,<br/>und die (M&#228;nner) d&#252;rfen au&#223;er dem Schwert keinerlei<br/> Waffen tragen.<br/> <h2> Kapitel LXVIII. </h2> Wenn einem<br/>Reisenden das Pferd zum Erliegen kommt,<br/>dann darf er, soweit er mit einem Fu&#223; auf dem<br/>Weg stehend reichen kann, Korn schneiden und<br/>ihm (dem Pferd) zu (fressen) geben; er darf es<br/>(das Korn) aber nicht mit sich wegf&#252;hren.<br/> <h2> Kapitel LXIX. </h2> Wer einen Friedebrecher t&#246;tet oder verwundet,<br/>der bleibt ohne Strafe, wenn er selbsiebt<br/>bezeugen kann, da&#223; er ihn auf der Flucht oder bei<br/>der Handlung, mit der er den Frieden brach, verwundete.<br/> <h2> Kapitel LXX. </h2> Man soll niemanden von<br/>seinem Gut, das er in der Gewere hat, verweisen,<br/> es sei denn, es wird ihm das Besitzrecht daran gerichtlich<br/>abgesprochen.<br/> <h2> Kapitel LXXI. </h2> Wer den<br/>Frieden bricht, &#252;ber den soll man, wie hier zuvor<br/> ausgef&#252;hrt, richten. W&#228;hrend des geschworenen<br/>Friedens soll man au&#223;er dem Schwert keinerlei<br/>Waffen tragen, es sei denn im Reichsdienst oder<br/>auf dem Turnier. &#220;ber alle, die dar&#252;ber hinaus<br/> Waffen f&#252;hren, soll man richten, weil sie in der<br/>Reichsacht sind, wenn sie damit (mit Waffen) ergriffen<br/>werden. Ein Schwert darf ferner niemand<br/> mit sich f&#252;hren, weder in Burgen noch in St&#228;dten<br/>oder in D&#246;rfern, ausgenommen alle, die darin<br/>Wohnung oder Herberge haben. Waffen darf<br/> man auch mit sich f&#252;hren, wenn man dem Ger&#252;fte<br/>folgt. Und von Rechts wegen sollen diesem (Ger&#252;fte)<br/>alle folgen, die zu ihren Jahren gekommen<br/>sind und in der Lage sind, ein Schwert zu f&#252;hren,<br/> es sei denn, es hindere sie denn echte Not, ausgenommen<br/>sind Pfaffen und Frauen sowie K&#252;ster<br/>und Hirten. Wenn sie die Verfolgung bis vor eine<br/>Burg innerhalb des Gerichtsbezirks vorgenommen<br/>haben, sollen sie dort drei Tage bleiben, jedermann<br/>mit seiner eigenen Verpflegung,"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e237811",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 67."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2350,861,118,68"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e237861",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 68."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2515,1034,104,74"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e237911",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 69."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2444,1249,101,65"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e237961",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 70."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2453,1466,91,68"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238011",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 71."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2287,1637,112,67"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238061",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1197,706,207,162"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238112",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1817,837,198,135"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238162",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1826,1300,173,115"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238212",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen. Ohne zugehörige Bildinitiale."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1826,1631,186,130"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238262",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1442,1304,139,87"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238312",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß B. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1025,1740,75,111"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238362",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1065,2141,135,86"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238413",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß B. Dunkelblau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2011,1747,91,66"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238463",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2182,2129,132,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238513",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß I. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1306,988,77,88"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238563",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß I. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1829,1079,95,107"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238613",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß D. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1165,132,97,112"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238663",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß D. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1943,407,98,77"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e238714",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß M. Golden mit Mennigumrissen. Ohne zugehörige Bildinitiale."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1875,1534,132,113"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241104",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sonntag ist ein Friedenstag</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=759,117,1083,605"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241153",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Das Weltgericht findet am Friedenstag Sonntag statt</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=759,117,1083,605"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241202",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>6 Auferstandene</b><br/>Oberbegriffe:<br/> Gruppe<br/>Beschreibung:<br/> 3 Geistliche, 1 Mann, 1 Frau und 1 Mädchen bitten um Gottes Segen und symbolisieren die, die mit Leib und Seele auffahren. Knien und sind teilweise schon in aufschwebender Haltung. Rock, teilweise Tonsur und Schleier. Nicht alle vollständig gezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=766,123,702,582"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241252",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=842,130,179,235"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241302",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tonsur</b><br/>Oberbegriffe:<br/> Standessymbol"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1156,265,95,64"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241351",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tonsur</b><br/>Oberbegriffe:<br/> Standessymbol"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1267,228,121,75"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241401",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tonsur</b><br/>Oberbegriffe:<br/> Standessymbol"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1298,400,141,93"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241450",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kreuznimbus</b><br/>Oberbegriffe:<br/> Standessymbol<br/>Beschreibung:<br/> Heiligenschein. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1566,117,197,181"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241500",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gott</b><br/>Oberbegriffe:<br/> Bibelfigur<br/>Beschreibung:<br/> Segnet die Auferstandenen. Mit Bart und goldenem Kreuznimbus. Höfisch geraffter und gefütterter Mantel, langer Rock und barfuß."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1508,117,257,534"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241550",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sitz des Weltenrichters</b><br/>Beschreibung:<br/> Bestehend aus zwei Regenbögen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1414,391,423,283"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241600",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Regenbogen</b><br/>Beschreibung:<br/> Bestandteil des Weltenrichtersitzes. Dient als Fußbank."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1497,589,286,81"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241650",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Regenbogen</b><br/>Beschreibung:<br/> Bestandteil des Weltenrichtersitzes."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1414,391,423,283"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241701",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Die bewaffnete Begleitung des Angeklagten</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=822,647,992,334"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241750",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>6 Schwerter symbolisieren die 30 bewaffneten Männer, die ein wegen eines Verbrechens Angeklagter mitbringen kann</b><br/>Beschreibung:<br/> Eine stärkere Verknappung der Bildaussage ist nicht mehr möglich!"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=822,647,992,334"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241800",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>6 Schwerter</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Symbolisieren die 30 nur mit einem Schwert bewaffneten Männer, die ein wegen eines Verbrechens angeklagter Mann vor das Gericht mitbringen darf."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=822,647,992,334"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241850",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wann ein Reisender fremdes Korn schneiden darf</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=722,947,1102,389"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241899",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Reisender schneidet auf einem fremden Feld Korngarben für sein erschöpftes Pferd</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=722,947,1102,389"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241948",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reitpferd</b><br/>Oberbegriffe:<br/> Pferd<br/> Tier<br/>Beschreibung:<br/> Frißt die von seinem Reiter geschnitten Kornhalme. Mit Sattel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=732,1019,633,310"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e241999",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sattel</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=887,1022,226,158"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242048",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kornhalme</b><br/>Oberbegriffe:<br/> Pflanze<br/>Beschreibung:<br/> Wurden gerade vom Reiter auf einem fremden Feld geschnitten und nun an das Pferd verfüttert."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1246,1215,121,115"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242098",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reisender</b><br/>Beschreibung:<br/> Schneidet für sein erschöpftes Pferd ungestraft Kornhalme. Muß einen Fuß auf dem Weg lassen, was hier nicht deutlich wird. Mit Sichel. Gegürteter Rock, Beinlinge, Gugel und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1354,947,418,366"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242148",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sichel</b><br/>Oberbegriffe:<br/> Arbeitsgerät"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1525,1143,248,90"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242197",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1365,952,226,186"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242247",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kornhalme</b><br/>Oberbegriffe:<br/> Pflanze<br/>Beschreibung:<br/> Symbolisieren das fremde Feld, auf dem der Reisende ungestraft Halme für sein erschöpftes Pferd schneiden kann."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1585,969,241,349"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242298",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Feld</b><br/>Oberbegriffe:<br/> Ort<br/>Beschreibung:<br/> Von diesem darf der Reisende für sein erschöpftes Pferd Korn schneiden, solange ein Fuß auf dem Weg bleibt. Symbolisiert durch Kornhalme."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1585,969,241,349"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242348",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Strafloser Angriff auf einen Friedensbrecher bei dessen Friedensbruch bzw. Flucht</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=756,1303,1069,437"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242397",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=756,1303,1069,437"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242446",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann verletzt einen Friedensbrecher mit dem Schwert</b><br/>Beschreibung:<br/> Kann bei der strafwürdigen Handlung oder auf der Flucht sein. Körperhaltung des Friedensbrechers deutet wohl auf Flucht."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=728,1326,325,411"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242496",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Friedensbrecher</b><br/>Oberbegriffe:<br/> Verletzter<br/> Missetäter<br/> Bewaffneter<br/>Beschreibung:<br/> Wird nach seiner Körperhaltung auf der Flucht verwundet. Wohl am Kopf verletzt, wohin er sich greift. Mit rechts geschultertem blanken Schwert. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=754,1352,176,388"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242546",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Bewaffneter<br/>Beschreibung:<br/> Greift den Friedensbrecher an und verletzt ihn wohl am Kopf. Mit blankem erhobenen Schwert, das zweihändig geführt wird. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=828,1314,225,418"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242597",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Blank und rechts geschultert."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=747,1365,118,204"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242647",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/>Beschreibung:<br/> Blank und erhoben, wobei es beidhändig geführt wird."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=826,1319,158,213"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242697",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>7 Männer beschwören vor Gericht, daß der Friedensbrecher bei der Tat oder auf der Flucht verwundet wurde</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1021,1312,807,420"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242746",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwur auf das Reliquiar</b><br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Erheben der Schwurfinger über das Reliquiar mit häufigem gleichzeitigen Ergreifen des Reliquienständers mit der linken Hand."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1024,1333,602,390"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242796",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwur selbsiebt</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1024,1333,602,390"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242845",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>7 Zeugen</b><br/>Oberbegriffe:<br/> Gruppe<br/> Prozeßpartei<br/>Beschreibung:<br/> Beschwören die Verwundung des Friedensbrechers auf der Flucht. Der Beweisführer ist nicht identifizierbar. Gegürteter Rock, Beinlinge sowie Knebel- und Schnabelschuhe bzw. ohne. Nicht alle vollständig gezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1024,1333,602,390"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242896",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquiar</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Auf Reliquienständer mit palmblätterartigen Ornamenten. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1497,1385,121,320"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242946",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reliquienständer</b><br/>Beschreibung:<br/> Mit palmblätterartigen Ornamenten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1497,1508,117,197"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e242996",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/> Bewaffneter<br/>Beschreibung:<br/> Nimmt den Schwur entgegen. Mit links geschultertem Gerichtsschwert in umwickelter Schwertscheide. Langer Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1558,1319,264,374"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243046",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Standessymbol<br/> Kopfbedeckung<br/> Bekleidung<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1676,1317,98,49"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243096",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gerichtsschwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den jeweiligen Richter. Schwertscheide mit dem Gurt spiralförmig umwickelt und links geschultert."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1639,1338,184,248"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243146",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Podest."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1575,1537,241,172"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243197",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Podest</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1577,1638,229,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243246",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zwei Männer auf dem Weg zum Turnier</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=735,1711,1110,394"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243295",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zwei Männer reiten zum Turnier</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=735,1711,1110,394"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243344",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Beschreibung:<br/> Sieht sich zu dem Pferd mit dem Helm um. Ist wohl der Teilnehmer des Turniers. Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=814,1724,245,345"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243394",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reitpferd</b><br/>Oberbegriffe:<br/> Tier<br/> Pferd<br/>Beschreibung:<br/> Mit Zaumzeug und Sattel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=735,1847,411,263"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243444",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zaumzeug</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=739,1845,224,143"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243494",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sattel</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=925,1888,131,88"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243543",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reitpferd</b><br/>Oberbegriffe:<br/> Tier<br/> Pferd<br/>Beschreibung:<br/> Dürfte das Turnierpferd und damit ein Streitroß sein. Mit Zaumzeug und wohl Krippensattel. Darauf der Stechhelm mit Helmzier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1064,1792,449,311"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243593",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Topfhelm</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Bewaffnung<br/>Beschreibung:<br/> Wohl genauer ein Stechhelm, wie er bei Lanzenturnieren getragen wurde. Mit Helmzier und Helmdecke."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1263,1713,172,199"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243643",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Helmzier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Bewaffnung<br/> Standessymbol"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1282,1708,149,129"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243692",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Helmdecke</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Bewaffnung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1318,1790,118,122"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243741",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zaumzeug</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1078,1815,202,122"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243791",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sattel</b><br/>Beschreibung:<br/> Wohl ein Krippensattel, jedoch nicht eindeutig zu identifizieren."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1248,1822,138,124"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243841",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Reitpferd</b><br/>Oberbegriffe:<br/> Tier<br/> Pferd<br/>Beschreibung:<br/> Mit Zaumzeug und Sattel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1431,1794,431,295"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243891",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zaumzeug</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1454,1811,197,136"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243940",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Sattel</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1597,1862,156,81"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e243989",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wappenschild</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schild<br/> Wappen<br/> Standessymbol<br/> Rechtssymbol<br/>Beschreibung:<br/> Abbildung wohl nachträglich eingezeichnet. Ein Pfahl, überdeckt von einem Schräglinksbalken."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1607,1758,111,107"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244039",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Bewaffneter<br/>Beschreibung:<br/> Trägt wohl dem Vorausreitenden den Schild. Langer Rock und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1539,1706,179,315"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244090",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Von der Folgepflicht bei Gerüfte Ausgenommene</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1957,2543,628,374"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244139",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frauen, Hirten, Küster und Pfaffen sind von der Pflicht zur Verfolgung bei Gerüfte ausgenommen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1957,2543,628,374"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244188",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frau</b><br/>Beschreibung:<br/> Ist von der Pflicht zur Verfolgung bei Gerüfte ausgenommen. Rock und Schleier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1958,2556,161,363"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244238",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1974,2551,110,138"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244288",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hirte</b><br/>Beschreibung:<br/> Ist von der Pflicht zur Verfolgung bei Gerüfte ausgenommen. Mit geschulterter Keule. Gegürteter Rock, Beinlinge, Gugel und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2104,2547,192,352"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244338",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Keule</b><br/>Beschreibung:<br/> Kennzeichnet hier den Hirten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2107,2603,142,101"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244389",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Küster</b><br/>Oberbegriffe:<br/> Geistlicher<br/>Beschreibung:<br/> Ist von der Pflicht zur Verfolgung bei Gerüfte ausgenommen. Mit Kirchenschlüssel. Gegürteter Rock, Beinlinge, Gugel und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2289,2547,172,319"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244439",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kirchenschlüssel</b><br/>Oberbegriffe:<br/> Standessymbol<br/>Beschreibung:<br/> Symbolisiert die Aufgaben des Küsters."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2394,2545,65,186"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244489",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2140,2545,114,124"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244539",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2296,2559,97,132"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244589",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Pfaffe</b><br/>Oberbegriffe:<br/> Geistlicher<br/>Beschreibung:<br/> Ist von der Pflicht zur Verfolgung bei Gerüfte ausgenommen. Weltgeistlicher mit kleiner Tonsur. Mit Buch. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2441,2550,139,333"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244639",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tonsur</b><br/>Oberbegriffe:<br/> Standessymbol"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2473,2547,72,48"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e244689",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Buch</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2525,2565,58,103"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245189",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Die Verfolgung eines Friedensbrechers mit Gerüfte</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=752,2074,1129,841"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245238",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bewaffnete fordern vom Burgherrn die Herausgabe des mit Gerüfte Verfolgten</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=752,2074,1129,841"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245288",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Burg</b><br/>Oberbegriffe:<br/> Ort<br/>Beschreibung:<br/> In diese hat sich der Friedensbrecher geflüchtet. Mit Zinnenmauer, kleiner Tordarstellung und Turm."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=757,2129,526,789"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245338",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zinnenmauer</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil der Burg. Steinmauer mit Zinnenkranz."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=752,2432,445,483"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245388",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Turm</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil der Burg. Wohl ein Wohnturm. Mit drei Fensteröffnungen, Zinnenkranz sowie Ziegeldach mit zwei knaufartigen Abschlüssen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=802,2133,272,488"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245438",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Torturm</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil der Burg. Wohl aus kompositorischen Gründen hier so klein. Torflügel nicht sichtbar. Mit Zinnenkranz."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1150,2614,115,289"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245488",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zinnenkranz</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil der Burg."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=799,2247,282,83"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245538",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zinnenkranz</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil der Burg."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=762,2446,428,187"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245589",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zinnenkranz</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil der Burg."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1162,2624,104,75"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245639",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Burgherr</b><br/>Beschreibung:<br/> Verhandelt mit den Bewaffneten über die Auslieferung des Friedensbrechers. Gegürteter Rock."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1025,2289,260,339"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245689",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>9 Männer</b><br/>Oberbegriffe:<br/> Gruppe<br/> Bewaffneter<br/>Beschreibung:<br/> Fordern vom Burgherrn die Auslieferung des Friedensbrechers. Der Gerüftekläger ist nicht zu identifizieren. Mit Stangenwaffen, aber ohne Schwerter. Sollen wohl Dorfleute darstellen. Gegürteter Rock, Beinlinge und Knebel- bzw. Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1302,2088,576,791"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245739",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Jude</b><br/>Oberbegriffe:<br/> Stammesrepräsentant<br/>Beschreibung:<br/> Seine Bedeutung für die Darstellung ist nicht erkennbar. Hier ohne Bart. Gegürteter Rock, Beinling, Judenhut und Schnabelschuh. Nicht vollständig gezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1198,2318,229,521"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245789",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Judenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Juden. Nach unten gebogene breite Krempe und Schaft mit Kugelknauf."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1288,2313,130,115"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245839",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>9 Stangenwaffen</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/>Beschreibung:<br/> Sollen wohl die dörfliche Zugehörigkeit der dem Gerüfte Folgenden verdeutlichen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=1368,2088,452,324"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245890",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> missetat."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2159,459,141,91"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245940",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> zu gotes dinste."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2249,355,116,84"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f41vannotationen.json/3d5e245990",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> vor."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00112#xywh=2275,2417,92,73"
+                                             }]
+                    }

@@ -1,0 +1,1039 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>sin, <i>di musen wol sin unde irrer muter erbe nemen,wenne<br/>si en ebenburtig sin,</i> si enzweien sich von en mit eigenschaft.<br/><b>E</b> lich man noch euch wip ennimt och une-<br/>liches mannes <i>erbe</i> nicht. Man sait, das kein kint<br/>siner muter kebeskint ensi, des is doch nicht.<br/><b> E</b>in wip mag gewinnen euch kint, adelkint,<br/>eigenkint unde kebiskint. Is si eigen, man mag<br/>si vrilasin. Is si kebis, si mag elichen man ne-<br/> men unde mag immer kindere dar binnen gewinnen.<br/><b>W</b>elch man von sinen vier anen, das is von<br/>zwen eldervetern unde von zwen eldirmutern<br/> unde von vater unde von muter, unbescholdin is an<br/>sime rechte, den enkan nimant beschelden an<br/>siner geburt, he enhabe denne sin recht vorworcht.<br/><b> W</b>elch schephinbare vri man einen sinen genos<br/>zu kamphe ansprichit, der bedarf wol zu<br/>wissene sine vier anen unde sin hantgemal<br/>unde di zu benennene, oder iener weigert im kam-<br/>phis zu rechte. Wer sich undirwindet des an-<br/>dirn zu kamphe, enket he im mit rechte,<br/>he mus en mit buse lasin.<br/><b>C.LII. A</b>ne erben gelubde unde ane echt ding enmus<br/>nimant sin eigen noch sine lute vorgebn.<br/>Doch wechseln di herrin wol ire dinstlute ane<br/>gerichte, ab man das widerwechsil bewisen unde<br/>gezugen mag. Gibt hes wider recht ane erbin<br/>gelubde, der erbe underwinde sichs mit urteiln,<br/>als ab iener tot si, der is da gab, so hes nich<i>t</i> ge.<br/>ben enmochte. <b>A</b>lle varnde habe gibit der<br/> man ane erben gelubde, di wile das he gegurt<br/>mit eime swerte unde mit eime Schilde uf ein ros<br/>kumen mag, von eime steine oder stocke einer<br/> dumeln ho, ane mannes helfe, das man im<br/>das ros unde den stegereif halde. Wen he des"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>sind; die k&#246;nnen durchaus sein und ihrer Mutter<br/>Erbe nehmen, wenn sie ihnen ebenb&#252;rtig sind, es<br/>sei denn, da&#223; sie sich durch Leibeigenschaft von<br/>ihnen unterscheiden. Ein ehelich geborener<br/>Mann und eine ehelich geborene Frau nehmen<br/>das Erbe eines unehelich geborenen (Mannes)<br/>nicht. Man sagt, da&#223; kein Kind seiner Mutter<br/> Kebskind sei, dies ist aber nicht so. Eine Frau<br/>kann eheliche Kinder bekommen, adelige (Kinder),<br/>leibeigene (Kinder) und Kebskinder. Ist sie<br/> aber selbst leibeigen, so kann man sie freilassen.<br/>Ist sie eine Kebse, so kann sie einen Mann heiraten<br/>und jederzeit (eheliche) Kinder in dieser Verbindung<br/>bekommen. Wer von seinen vier Ahnen<br/>her, das ist von seinen zwei Gro&#223;v&#228;tern und von<br/>zwei Gro&#223;m&#252;ttern sowie von Vater und von Mutter,<br/>in seinem Recht unbescholten ist, den kann<br/> niemand in seinem Geburtsstand schelten, es sei<br/>denn, er habe sein Geburtsrecht verwirkt. Ein<br/>sch&#246;ffenbarfreier Mann, der einen seiner Standesgenossen<br/>zu einem Zweikampf herausfordert,<br/>der mu&#223; seine vier Ahnen und sein Handgemal<br/>kennen und sie benennen, oder jener (der Herausgeforderte)<br/>verweigert ihm den Zweikampf mit<br/>Recht. Wer einen anderen (durch Anfassen) zum<br/>Zweikampf herausfordert, und dieser entzieht<br/>sich ihm mit Recht, so mu&#223; er (der Herausforderer)<br/>ihn mit Bu&#223;e entlassen.<br/> <h2> Kapitel LII. </h2> <br/> Ohne<br/>Zustimmung der Erben und ohne echtes Ding<br/>darf niemand sein Grundeigentum oder seine<br/>Leute ver&#228;u&#223;ern. Doch tauschen die Herren untereinander<br/>ihre Dienstleute wohl ohne Gericht,<br/>wenn man den Austausch beweisen und bezeugen<br/>kann. Ver&#228;u&#223;ert es (das Grundeigentum) jemand<br/>wider das Recht ohne Zustimmung der<br/>Erben, dann m&#246;ge sich der Erbe dessen mit Urteil<br/>bem&#228;chtigen, so als ob derjenige, der es da ver&#228;u&#223;erte,<br/>wie er es nicht ver&#228;u&#223;ern durfte, tot sei.<br/> Alle Fahrhabe ver&#228;u&#223;ert der Mann ohne Zustimmung<br/>der Erben, solange er geg&#252;rtet mit einem<br/>Schwert und mit einem Schild auf ein Pferd steigen<br/>kann, und zwar von einem Stein oder Stock<br/>eine Daumenelle hoch, und ohne die Hilfe(leistung)<br/>eines Mannes, au&#223;er da&#223; man ihm das<br/>Pferd und den Steigb&#252;gel halte. Wenn er dies"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91015",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß E. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1845,394,83,106"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91066",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß E. Lichtgrün."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1854,567,70,86"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91116",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1804,791,168,92"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91166",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1803,1085,179,83"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91216",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß A. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1805,1472,165,206"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91266",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß A. Lichtgrün. Zugehörige Bildzeile befindet sich auf Folio 22 recto."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=2108,1844,115,97"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91316",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Erstes Buch Landrecht, Artikel 52."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=2331,1394,156,117"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91367",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß E. Lichtblau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=975,119,95,103"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91417",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Beerbung eines Unehelichen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=690,119,1087,647"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91466",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Der Richter spricht einem ehelichen Mann und einer ehelichen Frau das Erbe eines Unehelichen ab</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1260,131,522,593"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91515",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frau</b><br/>Beschreibung:<br/> Ist ehelich geboren und darf nicht das Erbe eines Unehelichen nehmen, weshalb sie vom Grafen weggeschoben wird. Gefütterter Mantel, Rock und Schleier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1550,145,218,574"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91565",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1587,145,161,204"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91615",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Beschreibung:<br/> Ist ehelich geboren und darf nicht das Erbe eines Unehelichen nehmen, weshalb er vom Grafen weggeschoben wird. Gegürteter Rock und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1475,163,208,555"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91666",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Spricht den ehelich Geborenen das Erbe ab und bestätigt das Erbrecht des Mädchens durch Überreichung des Rocks. Stehend. Gegürteter Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1135,137,410,588"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91716",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1314,147,145,91"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91766",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Rock</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Erbmasse<br/>Beschreibung:<br/> Erhält die Erbin vom Grafen überreicht."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1149,220,141,278"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91816",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mädchen</b><br/>Oberbegriffe:<br/> Erbe<br/>Beschreibung:<br/> Kann von seiner Mutter erben, falls es kein Kebskind ist. Erhält vom Grafen den Rock als Symbol für die Erbschaft überreicht. Rock und offenes Haar."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=992,131,239,571"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91866",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frau</b><br/>Beschreibung:<br/> Mutter des Erblassers und des Mädchens. Gefütterter Mantel, Rock und Schleier mit Kinntuch."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=814,131,234,599"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91916",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend. Hier mit Kinntuch."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=835,140,152,206"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e91967",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Pfaffe</b><br/>Oberbegriffe:<br/> Geistlicher<br/>Beschreibung:<br/> Wohl der Vater des unehelichen Verstorbenen. Weltgeistlicher mit kleiner Tonsur. Langer Rock und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=692,166,192,602"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92017",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tonsur</b><br/>Oberbegriffe:<br/> Standessymbol"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=696,145,161,155"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92066",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Pfaffenkind</b><br/>Oberbegriffe:<br/> Erblasser<br/> Leichnam<br/>Beschreibung:<br/> Kann als unehelich Geborener nicht an ehlich Geborene vererben. Verstorben und auf einer Bahre liegend. Mit geschlossenen Augen. Vollständig in ein Leichentuch eingehüllt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=943,468,691,232"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92116",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bahre</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf zwei Böcken stehend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=943,468,691,232"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92166",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Leichentuch</b><br/>Oberbegriffe:<br/> Bekleidung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1077,475,506,145"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92215",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Der Graf überreicht einem Mädchen den Rock als Zeichen der Bestätigung ihrer Erbfähigkeit</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1015,135,511,585"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92265",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Welche Kinder eine Frau bekommen kann</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=821,705,794,545"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92314",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß E. Grün."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1283,702,103,103"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92364",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frau</b><br/>Beschreibung:<br/> Kann eheliche, adelige, leibeigene und Kebskinder bekommen. Höfisch geraffter und gefütterter Mantel, Rock und Gebände."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=823,719,241,537"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92414",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gebände</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kinnband, das von einem kappenartig auf dem Kopf liegenden steiferen Band ergänzt wird."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=870,714,119,124"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92464",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kind</b><br/>Oberbegriffe:<br/> Kind<br/>Beschreibung:<br/> Könnte aufgrund der Tracht eheliche und adelige Kinder symbolisieren. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=985,787,175,461"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92514",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kind</b><br/>Oberbegriffe:<br/> Kind<br/>Beschreibung:<br/> Könnte leibeigene Kinder symbolisieren. Linker Arm nicht gezeichnet. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1156,806,166,412"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92565",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Fiedel</b><br/>Oberbegriffe:<br/> Musikinstrument<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Spielmann. Nicht wie üblich in Gold gezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1344,778,112,213"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92615",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kind</b><br/>Oberbegriffe:<br/> Kind<br/>Beschreibung:<br/> Als Spielmann gezeichnet. Soll wohl das Kebskind symbolisieren, da uneheliche Kinder so rechtlos wie ein Spielmann sind. Mit Fiedel auf dem Rücken. Karierter gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1351,735,262,503"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92665",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Vierahnenbeweis</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=704,1207,1089,595"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92714",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wer von seinen vier Ahnen her im Recht unbescholten ist, den kann niemand in seinem Geburtsrecht schelten</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=704,1207,1089,595"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92763",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Pfaffe</b><br/>Oberbegriffe:<br/> Geistlicher<br/>Beschreibung:<br/> Funktion ist hier unklar. Mit kleiner Tonsur, aber in langem Frauenrock und mit goldenem Trauring!"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1556,1193,232,559"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92813",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1539,1219,80,92"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92864",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tonsur</b><br/>Oberbegriffe:<br/> Standessymbol"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1621,1193,160,146"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92913",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Bewaffneter<br/>Beschreibung:<br/> Ergreift die Schulter seiner Mutter und beruft sich damit auf die Unbescholtenheit seiner Ahnen. Mit goldenem Trauring und Nierendolch an der Seite. Geschachter gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1271,1196,315,562"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e92963",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1504,1278,70,77"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93013",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Nierendolch</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Dolch<br/>Beschreibung:<br/> Mit zwei runden nierenförmigen Verdickungen an der Hilze, die als Parierbalken fungieren. Blank und am Gürtel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1426,1421,106,138"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93063",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Nierendolch</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Dolch<br/>Beschreibung:<br/> Mit zwei runden nierenförmigen Verdickungen an der Hilze, die als Parierbalken fungieren. Blank."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1096,1452,53,132"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93113",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Frau</b><br/>Beschreibung:<br/> Mutter des seine rechtliche Unbescholtenheit Beweisenden. Mit einem unbemalten Ring. Höfisch geraffter und gefütterter Mantel, Rock und Schleier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1175,1222,223,553"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93164",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1245,1231,135,167"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93214",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Bewaffneter<br/>Beschreibung:<br/> Vater des seine rechtliche Unbescholtenheit Beweisenden. Linker Arm nicht gezeichnet. Mit goldenem Trauring und Nierendolch an der Seite. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1038,1247,200,511"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93264",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Männer</b><br/>Oberbegriffe:<br/> Gruppe<br/>Beschreibung:<br/> Großväter des seine rechtliche Unbescholtenheit Beweisenden. Mit Bart als Zeichen des Alters. Gegürteter Rock, Beinlinge und Knebel- bzw. Schnabelschuhe. Nicht alle vollständig gezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=859,1247,272,555"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93314",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Könnte aus dem Bildzusammenhang heraus einen Trauring darstellen. Unbemalt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1229,1278,48,64"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93364",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Frauen</b><br/>Oberbegriffe:<br/> Gruppe<br/>Beschreibung:<br/> Großmütter des seine rechtliche Unbescholtenheit Beweisenden. Mit Trauring. Höfisch geraffter und gefütterter Mantel, Rock und Schleier, teilweise mit Kinntuch. Nicht alle vollständig gezeichnet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=705,1229,223,546"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93414",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Unbemalt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=847,1366,76,90"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93465",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend. Hier einmal mit Kinntuch."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=712,1224,211,202"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93515",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1168,1315,70,84"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93565",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kämpfliche Ansprache</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=933,1723,901,583"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93614",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Schöffenbarfreier fordert einen Standesgenossen zum Zweikampf heraus</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=933,1723,901,583"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93663",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/> Bewaffneter<br/>Beschreibung:<br/> Weist wohl auf die obige Bildzeile, die die Voraussetzung für die Herausforderung zeigt. Mit Gerichtsschwert in umwickelter Schwertscheide. Langer Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1455,1737,377,561"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93713",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1607,1742,131,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93764",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gerichtsschwert</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schwert<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den jeweiligen Richter. Schwertscheide mit dem Gurt spiralförmig umwickelt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1468,1949,368,153"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93814",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kastensitz</b><br/>Oberbegriffe:<br/> Möbel<br/>Beschreibung:<br/> Auf Fußbodenschnitt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1440,1990,349,307"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93864",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Fußbodenschnitt</b><br/>Oberbegriffe:<br/> Ort"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1449,2170,347,125"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93913",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schöffenbarfreier</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/> Bewaffneter<br/>Beschreibung:<br/> Wird zum Zweikampf herausgefordert, könnte jedoch mit der Linken ablehnen. Wohl Schild in der Hand. Gegürteteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1262,1725,218,578"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e93963",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schöffenbarfreier</b><br/>Oberbegriffe:<br/> Prozeßpartei<br/> Bewaffneter<br/>Beschreibung:<br/> Unterwindet sich den Gegner vor Gericht und fordert ihn damit zum Zweikampf heraus. Mit Buckelschild und Schwertscheide an der Seite. Geschürzter gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=952,1778,394,523"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94013",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Buckelschild</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schild"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1161,1782,120,263"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94063",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwertscheide</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/>Beschreibung:<br/> Am Gürtel befestigt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=937,2016,180,141"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94113",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Unterwinden</b><br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Der ebenbürtige Gegner eines angestrebten Zweikampfes wird mit richterlicher Genehmigung beim Halskragen gepackt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=947,1727,542,588"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94163",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1192,1740,152,104"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94213",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Ursprünglich wohl Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1126,1217,132,89"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94263",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Auflassung von Grundeigentum mit/ohne Erbenerlaubnis</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=731,2297,1056,609"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94312",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann läßt mit Genehmigung des Erben sein Land vor dem Richter auf</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=731,2297,1056,609"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94362",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Graf</b><br/>Oberbegriffe:<br/> Richter<br/>Beschreibung:<br/> Hier stehend. Symbolisiert das echte Ding, vor dem die Auflassung erfolgen muß. Gegürteter Rock, Beinlinge, Grafenhut und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1593,2278,191,620"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94412",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grafenhut</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Grafen. Weiß mit rotem Aufschlag und roter Bügelborte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1641,2293,126,87"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94462",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann läßt sein Grundstück an einen Pfaffen auf</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1122,2275,573,630"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94511",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Pfaffe</b><br/>Oberbegriffe:<br/> Geistlicher<br/> Auflassungsempfänger<br/>Beschreibung:<br/> Nimmt Zweig zum Zeichen der Auflassung des links dargestellten Grundstücks entgegen. Weltgeistlicher mit kleiner Tonsur. Langer Rock und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1428,2295,264,611"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94561",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zweig</b><br/>Oberbegriffe:<br/> Pflanze<br/> Auflassungssymbol<br/> Rechtssymbol<br/>Beschreibung:<br/> Seine Übergabe symbolisiert die Auflassung des rechts dargestellten Grundstücks."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1428,2293,91,303"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94611",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Erblasser<br/> Auflassender<br/> Bewaffneter<br/>Beschreibung:<br/> Läßt ein Grundstück auf und sichert sich die hierfür notwendige Zustimmung seines Erben. Mit Schweizerdolch und Zweig. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1098,2275,423,613"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94662",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß A. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1081,2293,147,145"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94712",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schweizerdolch</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Dolch<br/>Beschreibung:<br/> Griff in Form eines Doppelt-T`s, Parier- und Knaufbalken verstärkt. Am Gürtel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1217,2523,105,161"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94762",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann sichert sich die Zustimmung seines Erben zur Grundstücksveräußerung</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=899,2304,502,578"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94811",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Erbe</b><br/>Oberbegriffe:<br/> Erbe<br/>Beschreibung:<br/> Stimmt der Auflassung des Grundstücks zu. Zweifarbiger gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=894,2315,291,567"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94861",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Erbe</b><br/>Oberbegriffe:<br/> Erbe<br/>Beschreibung:<br/> Symbolisiert die Verweigerung der Zustimmung zur Grundstücksauflassung durch den Erben. Gestreifter gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=801,2337,160,540"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94911",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grundstück</b><br/>Oberbegriffe:<br/> Ort<br/>Beschreibung:<br/> Wird durch den Mann mit Genehmigung seines Erben an den Pfaffen aufgelassen. Symbolisiert durch Ähren."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=734,2340,438,540"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e94962",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ähren</b><br/>Oberbegriffe:<br/> Pflanze<br/>Beschreibung:<br/> Symbolisieren das aufzulassende Grundstück."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=734,2340,438,540"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e95012",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Austausch von Dienstleuten</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1876,2222,591,531"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e95061",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zwei Herren tauschen untereinander Dienstleute ohne Gericht</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1876,2222,591,531"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e95110",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Herr</b><br/>Beschreibung:<br/> Zieht den Dienstmann des anderen zu sich. Mit goldenem Schapel (hier fälschlich als Lilienkrone gezeichnet). Gegürteter Rock, Beinlinge und Gitterschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1876,2235,221,522"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e95160",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Herr</b><br/>Beschreibung:<br/> Zieht den Dienstmann des anderen zu sich. Mit goldenem Schapel (hier fälschlich als Lilienkrone gezeichnet). Gegürteter Rock, Beinlinge und Gitterschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=2216,2222,251,505"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e95210",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schapel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Herrn. Hier irrtümlich als Lilienkrone gezeichnet. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1874,2237,130,114"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e95261",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schapel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Herrn. Hier irrtümlich als Lilienkrone gezeichnet. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=2351,2223,118,87"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e95311",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Dienstmannen</b><br/>Oberbegriffe:<br/> Gruppe<br/>Beschreibung:<br/> Werden durch ihre Herren gegeneinander getauscht. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1974,2237,333,522"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e643628",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> di musen wol sin unde irrer muter erbe nemen, wenne si en ebenburtig sin."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1889,354,50,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e643678",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> erbe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=2072,467,83,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e643729",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> nicht statt nich."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=2451,1794,85,58"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e647737",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schild</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe<br/> Schild<br/>Beschreibung:<br/> Jedoch nicht genau zu deuten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1381,1731,69,226"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f21vannotationen.json/3d5e647787",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Tonsur</b><br/>Oberbegriffe:<br/> Standessymbol"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00072#xywh=1528,2316,144,142"
+                                             }]
+                    }

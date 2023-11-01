@@ -1,0 +1,720 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>unde was im vorgolden is, das sal he czwivalt<br/>widergeben.<br/><b> C.XXXIX. W</b>elch knecht aber<br/>elich wip nimt oder eine vormunde-<br/> schaft anirsterbit von kindern, di binnen iren jaren<br/>sin, der mus wol us sins herren dinste kumen unde<br/>behelt alse vil lones, als im geburt bis an<br/>di zit. Is aber im me gegeben, das gebe he wider<br/>ane wandil.<br/><b> C.XL. W</b>es hunt oder ber oder<br/>ochse oder welcherhande vie das si einen<br/> andern totet oder belemt oder ein vie, sin herre<br/>sal den schaden noch rechteme wergelde oder noch<br/>sime werde bessern, ab hes ane sine gewer<br/> nimt noch der zit, alse der schade geschit. <b>S</b>let<br/>hes aber us unde enhovet is noch enhuset is<br/>noch enesset is noch entrenkt is, so is he<br/> unschuldig an deme schadin, so underwinde sich<br/>iener vor den schaden, ab he wolle. Kein vie vor-<br/>buret kein gewette dem richtere an siner tat.<br/><b> W</b>elchen schaden aber eins mannes phert oder<br/>sin vie tut an sins knechtis oder an sins ge-<br/>sindes hute, da sal der vor entwerten, in des hute<br/>is was. Wirt aber he abrunnig unde werdin des<br/>mannes phert oder ochsen unde wagen bestetigit in<br/>der hanthaften tat, unde mag man das gezugen,<br/>der man mus bessern, des das vie unde der wagen is,<br/>ab hes nicht entreden kan, also verre alse sin wa-<br/>gin unde sine phert oder ander sin vie wert is,<br/>das da ufgehalden is, oder he mus is unpern<br/> unde iener behelt is vor sinen schaden. <b>V</b>rezzit ein<br/>man siner nakebure korn oder ander ir sat mit<br/>swinen oder mit gensen, di man nicht gephenden mag,<br/>hezzit man si denne mit hunden, biesin si di hunde<br/> tot oder wunden si sie, man blibit is ane wandil.<br/><b>C.XLI. W</b>o der richter sin gewette nicht us-<br/>gephenden enmag uf eins mannes eigen, das<br/> also kleine"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>und das, was ihm bereits gezahlt worden ist, das<br/>mu&#223; er doppelt zur&#252;ckgeben.<br/> <h2> Kapitel XXXIX. </h2> <br/> Der Knecht aber, der eine Frau heiratet oder dem<br/>anl&#228;&#223;lich eines Todesfalls eine Vormundschaft<br/>&#252;ber unm&#252;ndige Kinder zuf&#228;llt, der darf aus dem<br/>Dienst bei seinem Herrn scheiden und erh&#228;lt soviel<br/>von seinem Lohn, wie ihm bis zu dieser Zeit<br/>geb&#252;hrt. Ist ihm aber bereits mehr gegeben worden,<br/>so mu&#223; er dies ohne Nachteil zur&#252;ckgeben.<br/> <h2> Kapitel XL. </h2> <br/> Wessen Hund oder Eber oder Ochse<br/>oder welcher Art Vieh es sei einen anderen<br/>(Mann) t&#246;tet oder verletzt oder ein anderes Vieh,<br/>sein Herr soll den Schaden dem rechtm&#228;&#223;igen<br/>Wergeld oder seinem Werte entsprechend bezahlen,<br/>wenn er es nach dem Zeitpunkt, an dem der<br/> Schaden passierte, in seine Gewere nimmt. Jagt er<br/>es (das Tier) aber hinaus und nimmt es weder in<br/>seinen Hof noch in sein Haus auf noch f&#252;ttert<br/> oder tr&#228;nkt er es, dann tr&#228;gt er keine Schuld an<br/>dem Schaden; dann kann sich jener (der Gesch&#228;digte)<br/>es (das Tier) zur Abgeltung des Schadens<br/>nehmen, wenn er will. Bei keinem Vieh, das durch<br/>seine Tat einen Schaden angerichtet hat, geht dem<br/>Richter das Gewette verloren. F&#252;r den Schaden,<br/>den ein Pferd oder ein Vieh eines Mannes unter<br/>der Aufsicht seines Knechtes oder Gesindes anrichtet,<br/> soll derjenige verantwortlich sein, unter<br/>dessen Obhut sich es (das Tier) befand. Ist dieser<br/>aber fl&#252;chtig und werden die Pferde oder Ochsen<br/> des Mannes vor dem Wagen auf handhafter Tat ergriffen,<br/>dann mu&#223; - kann man das bezeugen - derjenige<br/>Entsch&#228;digung leisten, dem das Vieh und<br/> der Wagen geh&#246;ren, wenn er es (die Tat durch<br/>Eid) nicht widerlegen kann, dann mu&#223; er (f&#252;r den<br/>Schaden in der H&#246;he aufkommen), wie sein Wagen<br/>und seine Pferde oder das andere Vieh wert<br/>sind, die da ergriffen wurden, oder er mu&#223; auf alles<br/>verzichten und jener (der Gesch&#228;digte) erh&#228;lt<br/>alles als Schadensausgleich. L&#228;&#223;t aber jemand das<br/>Korn oder andere Saat seiner Nachbarn von<br/>Schweinen oder G&#228;nsen, die man nicht pf&#228;nden<br/>kann, abfressen, hetzt man sie darauf mit Hunden<br/>und bei&#223;en diese Hunde sie tot oder verletzen sie,<br/> so bleibt man ohne Strafe daf&#252;r.<br/> <h2> Kapitel XLI. </h2> <br/> Wenn der Richter sein Gewette nicht durch Pf&#228;ndung<br/>erlangen kann, weil das Eigentum eines<br/>Mannes zu gering"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e194871",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1789,410,173,132"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e194921",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1793,738,186,125"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e194972",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=2482,1034,101,118"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195022",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 39."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=2220,432,164,78"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195072",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 40."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=2258,746,132,89"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195122",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 41."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=2450,2167,130,86"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195172",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1835,1355,173,90"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195222",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen. Zugehörige Bildzeile befindet sich auf Folio 36 recto."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1784,2184,201,130"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195273",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß U. Lichtrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=2393,1894,107,83"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195323",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wann ein Knecht aus dem Dienst seines Herrn austreten kann</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=849,141,924,592"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195372",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=849,141,924,592"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195421",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann scheidet wegen Hochzeit aus dem Dienst seines Herrn aus und erhält den bisher erarbeiteten Lohn</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=849,141,924,592"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195470",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann scheidet wegen der Vormundschaft über unmündige Kinder aus dem Dienst seines Herrn aus und erhält den bisher erarbeiteten Lohn</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1015,137,759,586"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195519",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Herr</b><br/>Beschreibung:<br/> Zahlt seinem ausscheidenden Knecht 3 Münzen als den bereits erarbeiteten Lohn aus. Gegürteter Rock, goldenes Schapel und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1494,135,281,572"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195570",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schapel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/> Standessymbol<br/>Beschreibung:<br/> Kennzeichnet den Herrn. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1610,133,137,76"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195670",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Arbeitslohn</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Der aus dem Dienst ausscheidende Knecht hat Anspruch auf den bisher erarbeiteten Lohn. Symbolisiert durch drei Münzen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1492,299,89,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195720",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Münzen</b><br/>Oberbegriffe:<br/> Münze<br/>Beschreibung:<br/> Symbolisieren den Arbeitslohn, auf den der Knecht Anspruch hat."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1492,299,89,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195770",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Knecht</b><br/>Beschreibung:<br/> Erhält von seinem Herrn den Arbeitslohn in die Linke ausgezahlt. Sein Ausscheiden aus dem Dienst kann als Grund eine Heirat wie auch die Übernahme der Vormundschaft über unmündige Kinder haben. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1170,146,412,552"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195820",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1065,149,89,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195871",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1160,139,98,101"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195921",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Braut</b><br/>Beschreibung:<br/> Hebt ihren goldenen Trauring als Zeichen der Hochzeit mit dem Knecht in die Höhe. Rock und offenes Haar."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=847,147,301,590"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e195971",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Kinder</b><br/>Oberbegriffe:<br/> Gruppe<br/> Kind<br/>Beschreibung:<br/> Begeben sich als unmündige Kinder in die Vormundschaft des Knechtes, was durch das Greifen nach ihm verdeutlicht wird. Mädchen: Rock und offenes Haar. Junge: Gegürteter Rock, Beinlinge und Schuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=998,254,349,471"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196021",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Haftung des Eigentümers für schadenstiftendes Vieh</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=714,719,1112,531"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196070",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=714,719,1112,531"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196119",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Leichnam<br/>Beschreibung:<br/> Wird von dem Hengst zu Tote getreten, jedoch ohne Absicht des mit dem Rücken dazu stehenden Eigentümers. Mit geschlossenen Augen. Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=764,1097,583,155"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196170",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Hengst</b><br/>Oberbegriffe:<br/> Tier<br/> Pferd<br/>Beschreibung:<br/> Trampelt den am Boden Liegenden zu Tode. Hengst als Synonym für ein aggressives Tier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=714,719,610,443"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196220",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Beschreibung:<br/> Versucht den Eber am Angriff auf den am Boden Liegenden zu hindern. Wohl auch der Eigentümer des Hengstes. Muß den entstandenen Schaden bezahlen. Gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1293,710,275,529"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196270",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Eber</b><br/>Oberbegriffe:<br/> Tier<br/> Schwein<br/>Beschreibung:<br/> Scheint auch den am Boden Liegenden angreifen zu wollen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1356,997,353,256"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196320",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1509,730,191,137"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196370",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß S. Unbemalt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1428,1260,98,132"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196420",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ochse</b><br/>Oberbegriffe:<br/> Tier<br/> Rind<br/>Beschreibung:<br/> Könnte für die Verletzung eines Tieres durch ein anderes stehen, indem es den Ziegenbock angreift. Würde auch eine Schadensersatzzahlung nach sich ziehen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1410,935,371,207"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196471",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ziegenbock</b><br/>Oberbegriffe:<br/> Tier<br/> Ziege<br/>Beschreibung:<br/> Könnte durch den Ochsen angegriffen werden."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1561,922,263,333"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196521",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann wird durch einen Hengst zu Tode getrampelt, was Schadensersatz nach sich zieht</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=716,715,624,542"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196570",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Ochse greift einen Ziegenbock an, was Schadensersatz nach sich zieht</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1414,913,412,349"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196619",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1311,1851,197,102"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196669",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß V. Grün."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1417,2391,134,108"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196719",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Keine Schadensersatzpflicht beim Wegjagen des schadenstiftenden Viehs</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=708,1252,1087,528"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196769",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann jagt das schadenstiftende Vieh von seinem Hof</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=708,1252,1087,528"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196818",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Pferd</b><br/>Oberbegriffe:<br/> Tier<br/> Pferd<br/>Beschreibung:<br/> Dürfte der Hengst aus der vorigen Bildzeile sein. Wird vom Eigentümer weggejagt, so daß dieser nicht schadensersatzpflichtig ist."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1189,1304,596,463"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196868",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Eber</b><br/>Oberbegriffe:<br/> Tier<br/> Schwein<br/>Beschreibung:<br/> Dürfte der Eber aus der vorigen Bildzeile sein. Wird vom Eigentümer weggejagt, so daß dieser nicht schadensersatzpflichtig ist."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1192,1496,427,278"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196918",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ochse</b><br/>Oberbegriffe:<br/> Tier<br/> Rind<br/>Beschreibung:<br/> Dürfte der Ochse aus der vorigen Bildzeile sein. Wird vom Eigentümer weggejagt, so daß dieser nicht schadensersatzpflichtig ist."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=995,1424,389,341"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e196968",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Bewaffneter<br/>Beschreibung:<br/> Verjagt sein schadenstiftendes Vieh von seinem Hof, so daß er nicht für den angerichteten Schaden Ersatz leisten muß. Mit Knüppel. Gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=847,1361,357,420"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197018",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Knüppel</b><br/>Oberbegriffe:<br/> Bewaffnung<br/> Waffe"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=956,1401,249,210"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197068",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gebäudedarstellung</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Symbolisiert den Hof, von dem der Eigentümer sein schadenstiftendes Vieh vertreibt. Mit Rückwand und Fenster sowie Dach mit Zinnenkranz."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=712,1252,386,542"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197118",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zinnenkranz</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil der Gebäudedarstellung."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=716,1252,380,144"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197168",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ergreifen von schadenstiftendem Vieh vor dem Wagen auf handhafter Tat</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=738,1757,1089,544"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197217",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann ergreift das vom Knecht zurückgelassene schadenstiftende Vieh auf handhafter Tat</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=738,1757,1089,544"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197266",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Beschreibung:<br/> Ergreift die Pferde am Zügel, die gerade den am Boden Liegenden überrollten, und zeigt auf den flüchtenden Knecht, der diese in seiner Obhut hatte. Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1528,1752,300,509"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197316",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Zugpferde</b><br/>Oberbegriffe:<br/> Tier<br/> Pferd<br/>Beschreibung:<br/> Überrollten gerade mit dem Wagen den am Boden Liegenden. Mit Zaumzeug und Geschirr."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1286,1907,542,363"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197367",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zaumzeug</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1613,1935,215,150"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197416",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zuggeschirr</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1294,1976,326,202"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197465",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Wagen</b><br/>Oberbegriffe:<br/> Arbeitsgerät<br/>Beschreibung:<br/> Zweiachsig mit Speichenrädern, Langbaum, Holzrungen und Wagscheiten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=856,1874,455,307"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197515",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Leichnam<br/>Beschreibung:<br/> Wurde mit dem Wagen überrollt und getötet. Mit geschlossenen Augen. Rock und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=756,2120,542,183"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197565",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Knecht</b><br/>Beschreibung:<br/> Ergreift die Flucht, nachdem die von ihm beaufsichtigten Zugpferde einen Mann mit dem Wagen überrollten und töteten. Gestreifter gegürteter Rock, Beinlinge und Schnabelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=733,1782,187,465"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197615",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Erlaubte Eigenmacht gegen Fraßschäden von Schweinen und Gänsen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=896,2306,1704,588"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197665",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Mann hetzt seine Hunde auf Schweine und Gänse, die bei ihm Fraßschäden anrichten</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=896,2306,1704,588"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197714",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Beschreibung:<br/> Hetzt seine Hunde auf die seinen Nachbarn gehörenden Schweine und Gänse, die bei ihm Korn oder Saat abfressen. Bleibt dafür straflos. Gegürteter Rock, Beinlinge, Gugel und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=911,2313,360,520"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e197764",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=923,2309,212,260"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e198165",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Hunde</b><br/>Oberbegriffe:<br/> Tier<br/> Hund<br/>Beschreibung:<br/> Werden vom Besitzer auf die Schweine und Gänse gehetzt. Sind beißend dargestellt, da sie ohne Schadensersatzpflicht als Folge die Schweine und Gänse verletzen bzw. töten können."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1001,2553,788,330"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e198215",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Gänse</b><br/>Oberbegriffe:<br/> Tier<br/> Gans<br/>Beschreibung:<br/> Haben beim Nachbarn Schaden durch Fraß angerichtet und dürfen mit Hunden gejagt werden, da sie nicht pfändbar sind."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1664,2571,449,243"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e198266",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Schweine</b><br/>Oberbegriffe:<br/> Tier<br/> Schwein<br/>Beschreibung:<br/> Haben beim Nachbarn Schaden durch Fraß angerichtet und dürfen mit Hunden gejagt werden, da sie nicht pfändbar sind."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=2023,2592,571,289"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e365833",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Überreichung der Trauringe</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=859,128,668,598"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f35vannotationen.json/3d5e649932",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00100#xywh=1451,155,167,118"
+                                             }]
+                    }

@@ -1,0 +1,764 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>unde das he der tat unschuldig si, da mite he be-<br/>clait is, so blibet iener rechtelos unde erlos.<br/><b>C.XX. B</b>rudere unde swestere nemen irs<br/> ungeczweiten brudere unde swestere erbe<br/>vor den bruder unde vor di swester, di geczweit<br/>von vater unde von muter sin. <b>U</b>ngezwei-<br/>te brudir kint sint ouch gliche na deme<br/>geczweiten brudere, an deme erbe czu nemene.<br/><b>V</b>ol wergelt unde volle buse sal haben iclich<br/>man, alleine darbe he eczliches glides, di<br/>wile he vor gerichte sine lemde nicht be-<br/>wiset, so das he da vormunden mite gewin-<br/>ne odir is im vorgolden werde.<br/><b>C.XXI. D</b>er czinsman, wer he si, he erbet sin gebu<br/>uf sinen erben uf zinsgute, is ensi<br/>denne ein man von ritters art, der is sineme wi-<br/>be czu morgengabe hab gegeben. Wirt is ouch<br/> ledig eime herren, he nimt das gebu mit<br/>samt deme lene, der man enhabe wip, der hes<br/>czu morgengabe hab gegeben. <b>H</b>at ouch ein<br/>wip ein lipgedinge an eigen oder an lene, was<br/>si gebues dar uffe hat, wen si stirbit, das en-<br/>erbit si nicht an iren neesten mage, is nimt<br/>der, deme ir gut ledig wirt. Wen ein iclich man<br/>mus wol sin gebu bessern unde ergern uf si-<br/>me lene wider sins herren willen. Also mus die<br/> vrouwe ouch wol uf irme lipgedinge.<br/><b>H</b>at ouch ein man einen son, der sin lenerbe is<br/>unde nicht sin erbe noch lantrechte, der beheldit<br/> doch sins vater gebu uf sime lene mit<br/>mereme rechte denne der, der sin erbe is noch<br/>lantrechte. <b>L</b>iet ouch ein herre ein gut eineme<br/> manne ane underscheit, was da gebues uffe<br/>is, das is des mannes allis mit deme gute, als<br/>is des herren was, he endinge is denne us.<br/><b> C.XXII. W</b>as so ein man kegen dem richtere gezugen sal,"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>und da&#223; er der Tat nicht schuldig sei, f&#252;r die er<br/>angeklagt ist; dann bleibt jener rechtlos und ehrlos.<br/> <h2> Kapitel XX. </h2> <br/> Bruder und Schwester nehmen<br/>das Erbe ihres vollb&#252;rtigen Bruders und ihrer<br/>(vollb&#252;rtigen) Schwester vor dem Bruder und der<br/> Schwester, die von Vater oder von Mutter her<br/>halbb&#252;rtig sind. Vollb&#252;rtiger Br&#252;der Kinder sind<br/>ferner gleich nahe dem Halbbruder, um von dem<br/>Erbe zu nehmen. Volles Wergeld und volle Bu&#223;e<br/> soll jedermann haben, auch wenn ihm irgendein<br/>K&#246;rperglied fehlt, solange er nicht seine Verletzung<br/>vor Gericht beweist, um so einen Vormund<br/>zu gewinnen oder entsch&#228;digt zu werden.<br/> <h2> Kapitel XXI. </h2> <br/> Der Zinsmann, wer es auch sei, vererbt sein<br/>Geb&#228;ude auf seinen Erben am Zinsgut, wenn es<br/>nicht ein Mann von ritterlichem Stand ist, der es<br/> seiner Frau als Morgengabe gegeben hat. Wird es<br/>f&#252;r einen Lehensherrn frei, dann nimmt dieser<br/>das Geb&#228;ude mit dem Lehen zusammen, es sei<br/> denn, der Mann h&#228;tte eine Ehefrau, der er es als<br/>Morgengabe gegeben h&#228;tte. Hat ferner eine verheiratete<br/>Frau Leibgedinge an Grundeigentum<br/>oder an Lehen, was immer sie an Geb&#228;uden darauf<br/> besitzt, das vererbt sie, wenn sie stirbt, nicht<br/>an ihren n&#228;chsten Verwandten, sondern es nimmt<br/>derjenige, dem das Gut frei wird. Denn jeder Lehensmann<br/>kann sein Geb&#228;ude auf seinem Lehen,<br/>auch gegen den Willen seines Herrn, verbessern<br/>oder verschlechtern. Dasselbe darf die Frau im<br/>Rahmen ihres Leibgedinges. Hat aber ein Mann<br/>einen Sohn, der sein Lehenserbe ist und nicht sein<br/>Erbe nach Landrecht, dann erh&#228;lt dieser das Geb&#228;ude<br/>seines Vaters auf seinem Lehen mit gr&#246;&#223;erem<br/> Recht als derjenige, der sein Erbe nach Landrecht<br/>ist. Gibt ferner ein Herr einem Mann ein<br/>Gut ohne Vorbehalt zum Lehen, (dann geh&#246;rt<br/>das,) was an Geb&#228;uden darauf steht, dem Mann<br/>zusammen mit dem Gut, und zwar genau so, wie<br/>es dem Lehensherrn geh&#246;rte, es sei denn, er h&#228;tte<br/> es (das Geb&#228;ude) sich ausbedungen.<br/> <h2> Kapitel XXII. </h2> <br/> Was ein Mann gegen den Richter bezeugen mu&#223;,"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165384",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Seitenangabe</b><br/>Beschreibung:<br/> Folio 31 recto."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=2868,233,136,65"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165434",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Buchangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1549,281,108,77"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165484",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß B. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1684,644,132,173"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165534",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 20."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=2446,624,202,102"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165584",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 21."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=2443,1356,217,105"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165635",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß V. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=2304,838,208,105"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165685",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß U. Mennigrot. Text wird trotz Abbildung einer entsprechenden Bildinitiale nicht dargestellt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1658,1071,184,96"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165735",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß D. Golden mit Mennigumrissen. Text wird trotz Abbildung einer entsprechenden Bildinitiale nicht dargestellt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1700,1442,159,170"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165785",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Klein h. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=2364,1874,193,108"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165835",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Klein h. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1664,2486,172,108"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165885",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß L. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1947,2767,110,106"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165936",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1708,3082,152,103"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e165986",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Artikelangabe</b><br/>Beschreibung:<br/> Zweites Buch Landrecht, Artikel 22."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=2616,2990,150,152"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166036",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß B. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=565,287,139,196"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166086",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß V. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=499,999,238,172"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166136",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß U. Mennigrot. Inhalt der dazugehörigen Textinitiale wird jedoch nicht abgebildet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1060,990,125,108"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166186",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Vollbürtige Geschwister nehmen das Erbe vor halbbürtigen Geschwistern</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=457,225,1093,743"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166236",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Vollbürtige Geschwister von Verstorbenen schließen den Erbanspruch der halbbürtigen Geschwister aus</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=457,225,1093,743"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166285",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bruder</b><br/>Oberbegriffe:<br/> Leichnam<br/> Erblasser<br/>Beschreibung:<br/> Ist Erblasser seiner vollbürtigen Geschwister. Mit geschlossenen Augen. Langer Rock."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=457,584,533,373"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166335",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwester</b><br/>Oberbegriffe:<br/> Leichnam<br/> Erblasser<br/>Beschreibung:<br/> Ist Erblasserin ihrer vollbürtigen Geschwister. Mit geschlossenen Augen. Langer Rock und offenes Haar."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=502,530,604,415"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166385",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ähren</b><br/>Oberbegriffe:<br/> Pflanze<br/>Beschreibung:<br/> Symbolisieren Grundstück und damit die Erbmasse."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=581,215,345,574"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166435",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grundstück</b><br/>Oberbegriffe:<br/> Ort<br/> Erbmasse<br/>Beschreibung:<br/> Stellt die Erbmasse dar. Symbolisiert durch die Ähren."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=581,215,345,574"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166485",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ergreifen der Ähren</b><br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Symbolisiert hier den Anspruch auf das Erbe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=733,215,446,740"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166536",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwester</b><br/>Oberbegriffe:<br/> Erbe<br/>Beschreibung:<br/> Ist ihren verstorbenen Geschwistern vollbürtig und damit erbberechtigt, verdeutlicht durch das Ergreifen der Ähren. Rock und offenes Haar."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=777,235,315,639"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166586",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bruder</b><br/>Oberbegriffe:<br/> Erbe<br/>Beschreibung:<br/> Ist seinen verstorbenen Geschwistern vollbürtig und damit erbberechtigt, verdeutlicht durch das Ergreifen der Ähren. Gegürteter Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=796,235,378,715"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166636",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bruder</b><br/>Beschreibung:<br/> Wird als halbbürtiger Bruder durch die vor ihm stehenden vollbürtigen Geschwister vom Erbe ausgeschlossen. Zur Verdeutlichung kleiner gezeichnet. Gegürteter Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1333,315,221,632"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166686",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwester</b><br/>Beschreibung:<br/> Wird als halbbürtige Schwester durch die vor ihr stehenden vollbürtigen Geschwister vom Erbe ausgeschlossen. Zur Verdeutlichung kleiner gezeichnet. Höfisch geraffter gefütterter Mantel, Rock und Schleier mit Kinntuch."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1075,296,287,677"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166736",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend. Hier mit Kinntuch."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1167,301,157,217"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166786",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Halbbürtige Geschwister und Kinder von vollbürtigen Geschwistern</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=418,983,1150,653"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166836",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Halbbürtige Geschwister und Kinder von vollbürtigen Geschwistern sind dem Erbe gleich nahe</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=418,983,1150,653"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166885",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bruder</b><br/>Oberbegriffe:<br/> Erblasser<br/> Leichnam<br/>Beschreibung:<br/> Ist jetzt Erblasser für die Kinder seines bereits verstorbenen vollbürtigen Bruders und seine halbbürtigen Brüder. Mit geschlossenen Augen. Langer Rock und barfuß."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=468,1177,808,407"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166935",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schwester</b><br/>Oberbegriffe:<br/> Erblasser<br/> Leichnam<br/>Beschreibung:<br/> Ist jetzt Erblasserin für die Kinder ihres bereits verstorbenen vollbürtigen Bruders und ihre halbbürtigen Brüder. Mit geschlossenen Augen. Langer Rock und offenes Haar."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=418,1281,792,353"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e166985",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Kinder</b><br/>Oberbegriffe:<br/> Gruppe<br/> Erbe<br/>Beschreibung:<br/> Sind die Kinder des bereits verstorbenen vollbürtigen Bruders der Erblasser und stehen im Erbanspruch den halbbürtigen Brüdern der Erblasser gleich, weshalb sie auch auf die Ähren zeigen. Rock."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=768,973,265,489"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167035",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ähren</b><br/>Oberbegriffe:<br/> Pflanze<br/> Rechtssymbol<br/>Beschreibung:<br/> Symbolisieren das Grundstück und damit die Erbmasse. Ihr Ergreifen verdeutlicht die Erlangung der Gewere."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=950,1060,283,476"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167085",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Grundstück</b><br/>Oberbegriffe:<br/> Ort<br/> Erbmasse<br/>Beschreibung:<br/> Stellt die Erbmasse dar. Symbolisiert durch Ähren."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=950,1060,283,476"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167136",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ergreifen der Ähren</b><br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Symbolisiert hier den Anspruch auf das Erbe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1054,973,315,628"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167186",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Brüder</b><br/>Oberbegriffe:<br/> Erbe<br/> Gruppe<br/>Beschreibung:<br/> Sind die halbbürtigen Brüder der Erblasser und stehen im Erbanspruch den Kindern des bereits verstorbenen vollbürtigen Bruders der Erblasser gleich, weshalb einer auch die Ähren ergreift. Gegürteter Rock und Beinlinge, teilweise mit Beinbinden."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1076,976,491,628"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167236",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Beinbinden</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Weiße Beinlinge, die mit roten und grünen Binden spiralförmig umwickelt sind."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1173,1286,203,320"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167286",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Erbanfall eines Gebäudes nach erledigtem Leibgedinge</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=400,1583,1175,826"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167335",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Erbe nimmt das Haus aus dem Leibgedinge nach dem Tod der Witwe in Besitz</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=400,1583,1175,826"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167384",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß D. Inhalt der dazugehörigen Textinitiale wird jedoch nicht abgebildet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1327,1817,140,140"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167435",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Erbe<br/>Beschreibung:<br/> Nimmt das freigewordene Leibgedinge der verstorbenen Witwe an dem Haus in Besitz. Gegürteter Rock, Beinlinge und Gugel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=388,1710,310,705"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167485",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gugel</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Kapuze mit einem Schulterkragen und verlängertem Zipfel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=385,1713,229,375"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167535",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Witwe</b><br/>Oberbegriffe:<br/> Leichnam<br/> Erblasser<br/>Beschreibung:<br/> War bis zu ihrem Tod im Besitz des Leibgedinges und vererbt es dem, dem es frei wird. Mit geschlossenen Augen. Gefütterter Mantel, Rock und Schleier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=750,1955,678,387"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167585",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1219,1953,211,247"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167635",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Dachsims</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil des Hauses und damit des Leibgedinges. Mit zwei knaufartigen Abschlüssen. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=564,1588,1019,300"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167685",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Haus</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil des Leibgedinges. Räumliche Darstellung mit 5 Hausecken und 7 Wandöffnungen sowie Ziegeldach mit goldenem Sims und zwei knaufartigen goldenen Abschlüssen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=554,1588,1022,813"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167736",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Das Bauen auf Leibgedinge</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=490,2328,1095,738"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167785",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Eine Witwe veranlaßt Arbeiten an dem Haus auf ihrem Leibgedinge</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=490,2328,1095,738"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167834",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Klein h. Blau."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1239,2661,114,167"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167884",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Groß L. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1254,3409,122,151"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167934",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Witwe</b><br/>Beschreibung:<br/> Weist den Knecht an, an dem Haus auf ihrem Leibgedinge zu arbeiten. Höfisch geraffter und gefütterter Mantel, Rock und Schleier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1247,2372,328,691"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e167984",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1372,2372,201,243"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e168035",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Knecht</b><br/>Beschreibung:<br/> Klettert die Leiter zum Dach hoch, um Arbeiten auszuführen. Gegürteter Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=791,2412,333,540"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e168085",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Haus</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil des Leibgedinges der Witwe. Wandschnitte sowie Ziegeldach mit Sims und zwei knaufartigen Abschlüssen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=509,2334,790,746"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e168135",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Leiter</b><br/>Beschreibung:<br/> Mit 5 Sprossen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=739,2525,499,538"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e168185",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein Lehensgut wird mit darauf befindlichen Gebäuden verliehen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=395,3045,1212,793"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e168234",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Der Lehensherr belehnt einen Mann mit einem Gut</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=395,3045,1212,793"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e168283",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kommendation</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=885,3040,750,781"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e168333",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Herr</b><br/>Oberbegriffe:<br/> Lehensherr<br/> Lehensgeber<br/>Beschreibung:<br/> Belehnt mit unvollständigem Kommendationsgestus seinen Lehensmann mit einem Gut, zu dem auch ein Haus gehört. Irrtümlich mit goldener Lilienkrone statt mit Schapel gezeichnet. Gegürteter Rock und Beinlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1270,3039,356,739"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e168383",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Oberbegriffe:<br/> Vasall<br/> Lehensempfänger<br/>Beschreibung:<br/> Wird mittels unvollständigem Kommendationsgestus mit dem Gut samt Haus belehnt. Zeigt dabei auf das Haus. Gestreifter gegürteter Rock, Beinlinge und Knebelschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=890,3063,488,771"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e168433",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Haus</b><br/>Oberbegriffe:<br/> Lehensgut<br/> Gebäude<br/>Beschreibung:<br/> Symbolisiert das Lehensgut. Räumliche Darstellung mit 5 Hausecken, ausgebrochenen Wänden und Fenstern sowie Ziegeldach mit goldenem Sims und zwei knaufartigen goldenen Abschlüssen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=393,3058,642,779"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e171878",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Angabe der Bogenlage</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=2725,3570,20,77"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e645836",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> sins ist einmal zu viel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=1848,2638,244,82"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e649333",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Leibgedinge</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Ein auf Lebenszeit zur Nutznießung ausbedungenes und übertragenes Gut, Leibrente."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=554,1588,1022,813"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e649383",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Leibgedinge</b><br/>Oberbegriffe:<br/> Rechtsbegriff<br/>Beschreibung:<br/> Ein auf Lebenszeit zur Nutznießung ausbedungenes und übertragenes Gut, Leibrente."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=509,2334,790,746"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f31rannotationen.json/3d5e649434",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Dachsims</b><br/>Oberbegriffe:<br/> Gebäude<br/>Beschreibung:<br/> Bestandteil des Hauses. Mit zwei knaufartigen Abschlüssen. Golden mit Mennigumrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00091#xywh=390,3056,636,350"
+                                             }]
+                    }
