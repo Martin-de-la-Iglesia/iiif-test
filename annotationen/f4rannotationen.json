@@ -33,7 +33,7 @@
                                                 "format": "text/html",
                                                 "chars": "<b>Seitenangabe</b><br/>Beschreibung:<br/> Folio 4 recto."
                                                     },
-                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037#xywh=2927,209,73,53"
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037#xywh=2927,209,73,53"
                                              },
                                     {
                                             "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4rannotationen.json/3d5e639464",
@@ -44,7 +44,7 @@
                                                 "format": "text/html",
                                                 "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> luneburg statt limborch."
                                                     },
-                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037#xywh=1267,1362,227,86"
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037#xywh=1267,1362,227,86"
                                              },
                                     {
                                             "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4rannotationen.json/3d5e639515",
@@ -55,6 +55,6 @@
                                                 "format": "text/html",
                                                 "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> mir statt nir."
                                                     },
-                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037#xywh=1177,1625,97,86"
+                                                    "on": "http://image1.hab.de/fcgi-bin/iipsrv.fcgi?IIIF=/images/mss/3-1-aug-2f/00037#xywh=1177,1625,97,86"
                                              }]
                     }
