@@ -1,0 +1,60 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4rannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4rannotationen.json/1",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Transkription, linke Spalte:]<br/>unde von Blankenburg unde di burcgreven<br/>von Vinni unde di von Clodene unde di von Druz-<br/>ke unde di von Kotebus, di sint alle Vranken.<br/>Di von Brunswig unde di von Luneburg unde<br/>di von Poppenburg unde di von Ostirburg unde<br/>di von Aldenhusen sint Swabin. Unde di von<br/> Werningenrode unde di von Arnstein unde di von<br/>Besenrode unde di von Emersleve unde di burcgre-<br/>ven von Gevekenstein unde der tumvoit von<br/> Halbirstat unde di von Suselicz unde di von Lich-<br/>tenberg unde di von Obin, disse sint alle gebor-<br/>ne Swabin. Di herzcogen von <i>Luneburg</i> unde<br/>sin geslechte sint alle geborne Sachsin; dar<br/>zu alle di vri herren unde schephin, di zu Sach-<br/>sen sint wonhaft unde di <i>m</i>ir sint kundig<br/>bi miner zeit, sundir di hie vor benant sint.<br/>Swelch bischof von dem riche belent is mit<br/>vanlene binnen deme lande zcu Sachsen unde<br/>den herschilt dar ab hat, di heisen alle Sachsen,<br/>von welcheme lande he geborn si, unde mag<br/>wol orteil vinden unde urteiles volgen unde<br/>vorspreche sin zcu lenrechte unde zcu lantrech-<br/>te vor deme riche ubir iclichen man, da is<br/>en an den lip odir in di hant nicht enget,<br/>unde anders nirgen zcu lantrechte noch zcu<br/>lenrechte.<br/>[Rechte Spalte:]<br/>und die von Blankenburg und die Burggrafen von<br/>Wettin und die von Kl&#246;den und die von Krosick<br/>und die von Kottbus, die sind alle Franken. Die<br/>von Braunschweig und die von L&#252;neburg und die<br/>von Poppenburg und die von Osterburg und die<br/>von Altenhausen sind Schwaben. Und die von<br/>Wernigerode und die von Arnstein und die von<br/>Biesenrode und die von Emersleben und die Burggrafen<br/>von Giebichenstein und der Domvogt von<br/>Halberstadt und die von Suselitz und die von<br/>Lichtenberg und die von Dobin, diese sind alle geborene<br/>Schwaben. Die Herz&#246;ge von L&#252;neburg<br/>und ihr Geschlecht sind alle geborene Sachsen;<br/>dazu alle die freien Herren und Sch&#246;ffen, die in<br/>Sachsen wohnhaft sind und die mir zu meiner<br/>Zeit bekannt sind, ohne diejenigen, die hiervor genannt<br/>sind. Jeder Bischof, der vom Kaiser im<br/>Land Sachsen mit einem Fahnenlehen belehnt ist<br/>und den Heerschild davon hat, wird Sachse genannt,<br/>ganz gleich aus welchem Land er auch immer<br/>stammt. Und er kann wohl Urteil finden und<br/>einem Urteil zustimmen und F&#252;rsprech sein zu<br/> Lehenrecht und zu Landrecht vor dem Kaiser f&#252;r<br/>jedermann, vorausgesetzt, es geht nicht um Todes-<br/>oder Leibesstrafe, und sonst nirgends zu<br/>Land- noch zu Lehenrecht."
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037"
+                                                },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4rannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>und die von Blankenburg und die Burggrafen von<br/>Wettin und die von Kl&#246;den und die von Krosick<br/>und die von Kottbus, die sind alle Franken. Die<br/>von Braunschweig und die von L&#252;neburg und die<br/>von Poppenburg und die von Osterburg und die<br/>von Altenhausen sind Schwaben. Und die von<br/>Wernigerode und die von Arnstein und die von<br/>Biesenrode und die von Emersleben und die Burggrafen<br/>von Giebichenstein und der Domvogt von<br/>Halberstadt und die von Suselitz und die von<br/>Lichtenberg und die von Dobin, diese sind alle geborene<br/>Schwaben. Die Herz&#246;ge von L&#252;neburg<br/>und ihr Geschlecht sind alle geborene Sachsen;<br/>dazu alle die freien Herren und Sch&#246;ffen, die in<br/>Sachsen wohnhaft sind und die mir zu meiner<br/>Zeit bekannt sind, ohne diejenigen, die hiervor genannt<br/>sind. Jeder Bischof, der vom Kaiser im<br/>Land Sachsen mit einem Fahnenlehen belehnt ist<br/>und den Heerschild davon hat, wird Sachse genannt,<br/>ganz gleich aus welchem Land er auch immer<br/>stammt. Und er kann wohl Urteil finden und<br/>einem Urteil zustimmen und F&#252;rsprech sein zu<br/> Lehenrecht und zu Landrecht vor dem Kaiser f&#252;r<br/>jedermann, vorausgesetzt, es geht nicht um Todes-<br/>oder Leibesstrafe, und sonst nirgends zu<br/>Land- noch zu Lehenrecht."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4rannotationen.json/3d5e17524",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Seitenangabe</b><br/>Beschreibung:<br/> Folio 4 recto."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037#xywh=2927,209,73,53"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4rannotationen.json/3d5e639464",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> luneburg statt limborch."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037#xywh=1267,1362,227,86"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4rannotationen.json/3d5e639515",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> mir statt nir."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00037#xywh=1177,1625,97,86"
+                                             }]
+                    }

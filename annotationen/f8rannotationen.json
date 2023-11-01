@@ -1,0 +1,60 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f8rannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f8rannotationen.json/1",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Transkription, linke Spalte:]<br/>LXVII.<br/>Swelch gut dem manne wirt geligen ane manschaft.<br/>LXVIII.<br/> Der man sal icliches gutes sinnen mit manschaft.<br/>LXIX.<br/>Wor umme ein herre sinen manne tedinget. Unde<br/>wo hes beginnet unde wo hes let.<br/> LXX.<br/>Wo he sin gut uszcien sal.<br/>LXXI.<br/>Ab der herre dem manne oder der man dem herren<br/>zcu entwertene begint.<br/>LXXII.<br/>Swelches tages der man sime herren dinet.<br/>LXXIII.<br/>Wo der man in des herren lenrecht kumen sal.<br/>Unde wo he da sten sal.<br/>LXXIIII.<br/>Worumme ein man sime herren wettet unde wi vil.<br/>LXXV.<br/>Von orteiln zu scheldene. Wo man des volkumt.<br/>LXXVI.<br/>Ab zwei dorf sich zcweien umme mar<i>g</i> scheidunge.<br/>LXXVII.<br/>Swer gerichte zcu lene hat.<br/>LXXVIII.<br/>Swer eigen zcu len hat. Von burglene.<br/>LXXIX.<br/>Is ein vri gut, da nimant zinsrecht an enhat.<br/>LXXX.<br/>Hat ein man gut in geweren von vormundeschaft.<br/>LXXXI.<br/>Is is gut, das ein man der vrou-<br/>wen vrunt ir gut mit ir enpha.<br/>LXXXII.<br/>Wo ein man sinen herren vorclagen sal. Unde<br/>wi ir ein<br/>dem anderen untsagen sal.<br/>LXXXIII.<br/>Len zcu burmeisterschaft.<br/>LXXXIIII.<br/>Doch sagen s<i>u</i>meliche lute, das me liunge si.<br/>LXXXV.<br/>Binnen tedingen enmag man keine teding<br/>de<i>n</i> mannen gelegen, das si suchen sullen<br/>me den des riches hervart.<br/>LXXXVI.<br/> Swer an den obersten herren sinnet lenunge<br/>oder wisunge mit sime gute. Ab he en den-<br/>ne wiset in sins herren ungenos.<br/>[Rechte Spalte:]<br/>Von gevangenen: Liber lus: LXIX; Liber IIus: XXXII.<br/>Liber IIIus: XXXII, XXXV, XLI, LX.<br/><br/>II. VIII. XII.<br/>herschilt si zcwene vunf schillinge.<br/>XXIX.<br/>bin sinen jaren.<br/>III. XII.<br/>Hulde, ban, vest, achte, dise wiset<br/>von gezuge. Lenrecht.<br/><br/><br/>Unecht, roup, dube, swer gezug buit.<br/>Kemphe beschorne.<br/><br/>Spilman, vest, achte, dise wiset von<br/>gezcuge. Lantrecht.<br/>Lenrecht: LXXV; Liber IIIus: XIII; Liber IIus: XV.<br/>vorderen nicht bessern, nimant.<br/><br/>Anders gibit were werschaft ..."
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00045"
+                                                },
+                                    {
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f8rannotationen.json/2",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Übersetzung, linke Spalte:]<br/>LXVII.<br/>Welches Gut dem Lehensmann ohne Lehenspflicht<br/>geliehen wird {D folio 77 verso/78<br/>recto}.<br/>LXVIII.<br/>Der Mann soll jedes Gut mit Lehenspflicht begehren<br/>{D folio 78 recto)}<br/>LXIX.<br/>Weswegen ein Herr seinen Mann vor das Lehensgericht<br/>laden darf. Und wann er es beginnen<br/>und wo er es halten darf {D folio 78 recto}.<br/>LXX.<br/>Wie er sein Gut wieder an sich ziehen soll {folio<br/>75 verso}.<br/>LXXI.<br/>Wenn der Herr dem Mann oder der Mann<br/>dem Herrn Rede und Antwort zu stehen beginnt<br/>{folio 75 verso}.<br/>LXXII.<br/>Wenn der Mann an einem Tag seinem Herrn<br/>den Dienst erweist {folio 75 verso}.<br/>LXXIII.<br/>Wie der Mann in das Lehensgericht des Herrn<br/>kommen soll {folio 75 verso}. Und wie er sich<br/>dort (seinem Herrn) stellen soll {folio 76 recto}.<br/>LXXIV.<br/> Wof&#252;r ein Mann seinem Herrn Gewette zahlt<br/>und wieviel {folio 76 verso}.<br/> LXXV.<br/>Von der Urteilsschelte. Wie man dort Erfolg<br/>hat {folio 78 recto}.<br/> LXXVI.<br/>Wenn zwei D&#246;rfer um eine Gemarkungsgrenze<br/>streiten {folio 79 verso}.<br/>LXXVII.<br/>Wer ein Gericht zu Lehen hat {folio 79 verso}.<br/> LXXVIII.<br/>Wer Eigengut zu Lehen hat. Vom Burglehen<br/>{folio 80 recto}.<br/> LXXIX.<br/>Ist es ein freies Gut, an dem niemand Zinsrecht<br/>hat {folio 82 verso}.<br/>LXXX.<br/>Hat ein Mann Lehensgut als Vormund in Besitz<br/>{folio 82 verso}.<br/>LXXXI.<br/>Es ist ratsam, da&#223; ein Mann als Verwandter der<br/> Frau ihr Gut mit ihr empf&#228;ngt {folio 83 recto}.<br/>LXXXII.<br/>Wie ein Mann seinen Herrn verklagen soll {folio<br/>83 recto}. Und wie einer dem anderen aufk&#252;ndigen<br/>soll {folio 83 verso}.<br/>LXXXIII.<br/>Ein Lehen auf ein Bauermeisteramt {folio 84<br/>verso}.<br/>LXXXIV.<br/>Doch sagen einige Leute, da&#223; es weitere Belehnungen<br/>gebe {folio 84 verso}.<br/>LXXXV.<br/>W&#228;hrend des Verfahrens kann man den Lehensmannen<br/> keinen (weiteren) Gerichtstag ansetzen,<br/>den sie besuchen sollen, au&#223;er des Reiches<br/>Heerfahrt {folio 85 recto}.<br/>LXXXVI.<br/>Wer vom Oberlehensherrn Belehnung oder<br/>Verweisung mit seinem Gut verlangt. Wenn er<br/>ihn dann an einen Genossen seines Herrn verweist<br/>{folio 85 recto}.<br/>[Rechte Spalte:]<br/>Von Gefangenen: erstes Buch: LXIX; zweites<br/>Buch: XXXII; drittes Buch: XXXII, XXXV, XLI,<br/>LX.<br/>II. VIII. XII.<br/>Heerschild, das sind zweimal f&#252;nf Schillinge.<br/>XXIX.<br/>Binnen seinen Jahren.<br/>III. XII.<br/> Hulde, Bann, Verfestung, Acht, diese sind mit<br/>Zeugen zu beweisen. Lehenrecht.<br/>Unehelich(keit), Raub, Diebstahl, wer Zeugen<br/>wegnimmt.<br/> Geschorene Berufsk&#228;mpfer.<br/>Spielmann, Verfestung, Acht, diese sind mit Zeugen<br/>zu beweisen. Landrecht.<br/>Lehenrecht: LXXV; drittes Buch: XIII; zweites<br/>Buch: XV.<br/>Niemand (mu&#223;) die Vorfahren entsch&#228;digen.<br/> Niemand gibt mit Gewere Gew&#228;hrschaft."
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00045"
+                                                },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f8rannotationen.json/3d5e640568",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> sumeliche statt simeliche."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00045#xywh=979,2362,241,105"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f8rannotationen.json/3d5e640618",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> den statt dem."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00045#xywh=699,2533,108,86"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f8rannotationen.json/3d5e672322",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Seitenangabe</b><br/>Beschreibung:<br/> Folio 8 recto."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00045#xywh=2958,173,102,64"
+                                             }]
+                    }

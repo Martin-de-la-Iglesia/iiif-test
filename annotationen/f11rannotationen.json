@@ -1,0 +1,489 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/1",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Transkription:]<br/>muge. Di leienvursten habin aber den sechsten<br/>schilt in den sibinden bracht, sint si der bisch-<br/>hove man wurden, des er nich<i>t</i> enwas. Al-<br/>so der herschilt in deme sibendin zuget, al-<br/>so czuget di sippe an dem sibenden glide.<br/><b>N</b>u merket, wi odir wo di sippe begin-<br/> ne unde ende. In dem houpte is beczeigit<br/>man unde wip, di elich unde echtlich zu-<br/>samne kumen sin. In des halsis glide ire<br/>kindere, di an zcweiunge von vatir unde<br/>von mutir geborn sin. Is da zcweiun-<br/>ge an, di mugen an eime glide nicht besten<br/>unde tretin an ein andir glit. Nemen<br/> zcwene brudere zwu swestirn unde der drit-<br/>te bruder ein vremde wip, ire kindere sint<br/>doch gliche na, ir iclichir des andirn<br/>erbe zcu nemene, ab si ebinburtig sin.<br/>Ungezcweiter bruder kint, di sten an de-<br/>me glide, da di schuldere unde der arm zu-<br/>samne get. Also tun di swester kint. Dis<br/>is di erste sippe zcu tale, di man zu ma-<br/>gen rechint: bruder kint unde swestir kint.<br/><b>I</b>n deme ellebogin stet di andere, in deme<br/>glide der hant di dritte, in deme ersten<br/>glide des mittilsten vingers di vierde, in<br/>deme andirn glide di vunfte, in deme<br/> drittin glide di sechste. An deme sibindin<br/>stet ein nail unde nich<i>t</i> ein glit. Dar um-<br/>me endit sich da di sippe unde heisin<br/>nailmage. Di zcwischin deme naile<br/>unde deme houpte sich zcu der sippe<br/>geczien mugen an glicher stat, di ne-<br/>men das erbe glich. Der nehir sich zcu der"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/2",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "[Übersetzung:]<br/>kann. Die Laienf&#252;rsten haben aber den sechsten<br/>Schild in den siebten gebracht, weil sie der Bisch&#246;fe<br/>Lehensleute geworden sind, was es zuvor<br/>nicht gab. So wie die Heerschildordnung mit dem<br/>siebten Schild endet, so h&#246;rt die Verwandtschaft<br/>mit dem siebten Glied auf. Nun seht, wie oder wo<br/>die Verwandtschaft beginnt und endet. Am Kopf<br/> sind Mann und Frau zu sehen, die ehelich und<br/>rechtm&#228;&#223;ig zusammengekommen sind. Am Glied<br/>des Halses ihre Kinder, die ohne Halbb&#252;rtigkeit<br/> von Vater und Mutter geboren sind. Besteht da<br/>Halbb&#252;rtigkeit, so k&#246;nnen sie nicht an einem<br/>Glied stehen und r&#252;cken in ein anderes Glied.<br/> Nehmen zwei Br&#252;der zwei Schwestern und der<br/>dritte Bruder eine fremde Frau, ihre Kinder sind<br/>doch gleich nahe, da&#223; ein jeder des anderen Erbe<br/> nehme, sofern sie ebenb&#252;rtig sind. Vollb&#252;rtige<br/>Bruderkinder, die stehen an dem Glied, wo Schulter<br/>und Arm zusammengehen. Das gleiche gilt f&#252;r<br/>die Kinder der Schwester. Dies ist der erste Verwandtschaftsgrad,<br/>den man zu den Vettern rechnet:<br/>Bruderkind und Schwesterkind. Am Ellenbogen<br/>steht der zweite, am Handgelenk der dritte,<br/> an dem ersten Glied des Mittelfingers der vierte,<br/>an dem zweiten Glied der f&#252;nfte, an dem dritten<br/>Glied der sechste. An dem siebten steht ein Nagel<br/>und nicht ein Glied. Darum endet hier die Verwandtschaft<br/>mit dem Nagelmagen. Diejenigen,<br/>die sich zwischen dem Nagel und dem Kopf an<br/> gleicher Stelle zur Verwandtschaft rechnen k&#246;nnen,<br/>nehmen das Erbe zu gleichen Teilen. Derjenige,<br/>der sich n&#228;her zu der"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e21",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schecke</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Schecke/Wams. Kurzer geschachter und taillierter Rock mit eng anliegenden Ärmeln und Knöpfung sowie Gürtel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1171,2711,459,519"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27373",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Seitenangabe</b><br/>Beschreibung:<br/> Folio 11 recto."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=2947,165,82,65"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27423",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Buchangabe</b><br/>Beschreibung:<br/> Erstes Buch Landrecht."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1613,272,87,96"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27473",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Klein n. Lichtgrün."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1670,825,177,114"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27524",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Klein n. Golden auf Grün."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=2498,1346,109,99"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27574",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß I. Mennigrot. Keine entsprechende Bildinitiale vorhanden, allerdings ist der Text in Bildzeile 2 mit dargestellt."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1672,2095,123,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27673",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung der Verwandschaftsregeln</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=515,255,1091,1171"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27722",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Verwandtschaftsbild</b><br/>Beschreibung:<br/> Die Punkte auf den Körpern geben die Verwandtschaftsgrade an."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=515,255,1091,1171"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27772",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Doppelfigur</b><br/>Beschreibung:<br/> Symbolisiert die Verwandschaftsgrade. Rote Punkte bestimmen die Verwandschaftsverhältnisse. Unbekleidet, doppelter Oberkörper, Frauenkopf mit Schleier."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=987,269,576,1147"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27823",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schleier</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung<br/>Beschreibung:<br/> Viereckiges Tuch, über den Kopf gelegt und auf die Wangen herabhängend. Hier mit Kinntuch."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1014,322,267,294"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27873",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Mann</b><br/>Beschreibung:<br/> Symbolisiert Verwandtschaftsregeln. Rote Punkte bestimmen die Verwandtschaftsverhältnisse. Unbekleidet."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=509,353,488,1072"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27923",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Doppelverwandtschaft und Erbverhältnis</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=525,1391,1115,2409"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e27972",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ergreifen der Ähren</b><br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Symbolisiert hier die Erbberechtigung."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=525,1391,1115,2409"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28022",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Klein n. Golden auf Grün."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1053,1388,162,184"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28072",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden mit grünen Umrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=943,1440,133,138"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28123",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden mit grünen Umrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1137,1581,114,125"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28173",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=820,1656,94,109"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28223",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden mit grünen Umrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1163,1781,115,118"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28273",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden mit grünen Umrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=915,2627,119,134"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28323",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Trauring</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/>Beschreibung:<br/> Mit in Kassette gefaßtem Stein. Golden mit grünen Umrissen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1102,2608,100,114"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28373",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ähren</b><br/>Oberbegriffe:<br/> Rechtssymbol<br/> Pflanze<br/>Beschreibung:<br/> Symbolisieren die Erbmasse. Alle haben Ansprüche aus derselben Erbmasse, verdeutlicht durch den Ring zwischen den Halmen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=907,1520,398,2181"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28424",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Zwei Brüder heiraten zwei Schwestern</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=500,1411,1125,1096"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28473",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>2 Schwestern</b><br/>Oberbegriffe:<br/> Gruppe<br/>Beschreibung:<br/> Heiraten die gegenüber stehenden Brüder. Mit goldenen Trauringen. Langer Rock, langer gefütterter und höfisch geraffter Mantel und offenes Haar. Teilweise Nuschenmantel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=517,1453,563,1025"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28523",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Nuschenmantel</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Höfisch gerafft und gefüttert. Mit Fibel (Nusche) geschlossen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=524,1616,303,860"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28573",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Nusche</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Broschenförmige Spange zum Verschließen des Mantels. Golden."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=632,1654,61,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28623",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ergreifen der Ähren</b><br/>Oberbegriffe:<br/> Rechtshandlung<br/>Beschreibung:<br/> Symbolisiert die gleichrangigen Erbansprüche."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=871,1883,435,1769"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28673",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Vettern</b><br/>Oberbegriffe:<br/> Gruppe<br/> Kind<br/>Beschreibung:<br/> Haben wegen ihrer Ebenbürtigkeit gleichrangige Erbansprüche. Gegürteter Rock, Beinlinge und Riemenschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=871,1883,435,1769"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28724",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>3 Brüder</b><br/>Oberbegriffe:<br/> Gruppe<br/>Beschreibung:<br/> Heiraten Schwestern und eine \"Fremde\". Jeweils mit goldenem Trauring. Geschachte Schecke mit Gürtel, teilweise mit Knöpfung, Beinlinge und Riemenschuhe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1094,1450,534,2384"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28774",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Schecke</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Schecke/Wams. Kurzer geschachter und taillierter Rock mit eng anliegenden Ärmeln und Knöpfung sowie Gürtel."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1203,1685,373,378"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28824",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Fremde</b><br/>Beschreibung:<br/> Heiratet einen der drei Brüder. Goldener Trauring. Langer Rock, langer gefütterter und höfisch geraffter Nuschenmantel und offenes Haar mit Kranz."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=544,2551,494,1131"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28874",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Kranz</b><br/>Oberbegriffe:<br/> Bekleidung<br/> Kopfbedeckung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=649,2566,225,108"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28923",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Nuschenmantel</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Höfisch gerafft und gefüttert. Mit Fibel (Nusche) geschlossen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=574,2741,374,838"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e28973",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Nusche</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Broschenförmige Spange zum Verschließen des Mantels."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=693,2770,58,54"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e57063",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Bildinitiale</b><br/>Beschreibung:<br/> Litera Klein n. Grün."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=876,334,174,221"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e465402",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gürtel</b><br/>Oberbegriffe:<br/> Bekleidung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1327,1948,216,116"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e465452",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Gürtel</b><br/>Oberbegriffe:<br/> Bekleidung<br/>Beschreibung:<br/> Mit Schließe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=1354,3122,216,76"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e465502",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Darstellung von mehreren verschiedenen Situationen</b>"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=525,1391,1115,2409"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e465551",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Ein dritter Bruder heiratet eine Fremde</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=547,2551,1073,1247"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e465600",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> nicht statt nich."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=2295,608,152,95"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e465650",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> nicht statt nich."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=2262,2453,136,110"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e651481",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Überreichung der Trauringe</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=500,1411,1125,1096"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f11rannotationen.json/3d5e651531",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Überreichung der Trauringe</b><br/>Oberbegriffe:<br/> Rechtshandlung"
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00051#xywh=547,2551,1073,1247"
+                                             }]
+                    }

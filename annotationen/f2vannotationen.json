@@ -1,0 +1,104 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f2vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f2vannotationen.json/1",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Transkription, linke Spalte:]<br/>unde sal erlos unde rechtelos sin. Wil aber, der den<br/>hantvride gemachit hat <i>oder enphangen</i>, nicht gesten des<br/>rechten, das he an im gebrochen si, dem<br/>sal der richter gebiten bi des keisers hulden,<br/>das her im sins rechtis gehelfe oder zcu den<br/>heiligen swere, das he sin nicht wisse. Lest he<br/>das durch manschaft oder durch icheiner<br/>slachte ding, so si he dem keiser <i>unde dem richter</i> der hant<br/>schuldig.<br/> <h1> Dis ist von den, di gerichte haben. </h1> <br/> <b>W</b>ir sezcin unde gebiten bi unsen<br/>hulden, das alle unse vorsten unde<br/>alle, di gerichte von uns haben, das si rech-<br/>te richten, alse des landis <i>recht</i> si unde<br/>gewonheit, unde das si das selbe gebiten,<br/>den di gerichte von en haben. Swer das<br/>nicht tut, ubir den wolle wir scherflichen<br/>richten, alse recht is, unde swas uns uber den<br/> irteilt wirt, des wolle wir nicht lasin unde<br/>dar an nimande ubirsen noch nimandes<br/>schonen. Unde gebiten ouch den vorsten, das<br/>si mit buse twingen, di von en gerichte<br/>haben, das si rechte richten unde der buse<br/> nicht lan, di uf si irteilt wirt. Wir sezcin<br/>unde gebiten, das ichein richter nimande in<br/>di achte tu wen offenlichen, unde das ich-<br/>ein richter nimande us der achte lase, he ne-<br/>me di gewisheit, das dem clegere gerich-<br/>tet werde noch des landis gewonheit. Tut<br/>des der richter nicht, das sal der keiser richten,<br/>alse recht ist. Wir sezcin unde gebiten: Swas<br/>iclichem richter gewettit wirt, das he den<br/> echtere us der achte lase, das he das neme<br/>unde nicht lase, durch das di lute deste un-<br/>[Rechte Spalte:]<br/>gerner in di achte kumen. Wir wollen ouch<br/>unses rechtis nicht lasin. Wir vorbiten vestec-<br/>lichen, das imant icheinen muntman habe.<br/>Wir sezcin unde gebiten, das man di phalbur-<br/>gere allenthalben lasi. Wir wollen ouch in<br/>unsen stetin icheinen habin und wollen ouch<br/>nicht, das si imant anders habe. Wir vorbi-<br/>ten bi unsen hulden, das imant den ande-<br/>ren beleite durch das lant durch kein gut,<br/>he enneme das geleite von deme riche.<br/>Wir sezcin unde gebiten, das nimant einen<br/> echter behalde oder herberge. Swer das tut,<br/>wirt he sin ubirredit, alse recht ist, her ist<br/>in den selbin schulden, unde sal man ubir en<br/> richten als ubir einen echter. Untredit he<br/>abir sich, alse recht ist, mit siben seintbaren<br/>mannen zcu den heiligen, das he nicht en-<br/> wisse, das he ein echtere was, he sal un-<br/>schuldig sin. Swo man den echter vorbutet<br/>odir angrifet, den sal nimant weren. <i>Swer den wert,</i> wirt<br/>he des ubirredit, alse recht ist, das he en<br/>wissinlichen hat geweret, der sal sin in den<br/>selbin schuldin, unde sal <i>man</i> ubir en richten als<br/>ubir einen echter. In welche stat der echter kumt,<br/> den sal man nicht behalden, unde swer im ubil<br/>tut, das sal nimant wern. Im sal nimant<br/>ich<i>t </i>odir nicht zu koufen geben noch vorge-<br/> bin, unde sal im nimant nicht koufen, unde<br/>sal en miden an allen dingen. Beheldit en<br/>eine stat gemeinlichen unde wissenlichen,<br/>ist si ummemuret, der richter, in des gerichte<br/>das ist, der sal si niderbrechin. Ubir den wirt,<br/>der en beheldit, sal man richten als uber einen"
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034"
+                                                },
+                                    {
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f2vannotationen.json/2",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Übersetzung, linke Spalte:]<br/>Und er soll ehrlos und rechtlos sein. Will aber<br/>derjenige, der den gelobten Frieden gemacht oder<br/>empfangen hat, nicht wahrheitsgem&#228;&#223; eingestehen,<br/>da&#223; er an ihm gebrochen wurde, dem soll<br/>dies der Richter bei des Kaisers Huld gebieten,<br/>da&#223; er ihm zu seinem Recht verhelfe, es sei denn,<br/>er schw&#246;re auf die Reliquien, da&#223; er nichts davon<br/> wisse. Unterl&#228;&#223;t er dies um eines Lehensverh&#228;ltnisses<br/>oder irgendeiner anderen Sache willen, so<br/>schuldet er dem Kaiser und dem Richter die<br/>Hand.<br/> <h1> Von denjenigen, die Gericht haben. </h1> <br/> <b>W</b>ir setzen und gebieten bei unserer Huld, da&#223;<br/>alle unsere F&#252;rsten und alle, die Gericht von uns<br/>haben, dem Recht gem&#228;&#223; richten, wie es des Landes<br/>Recht und Gewohnheit ist, und da&#223; sie dasselbe<br/>denjenigen gebieten, welche Gericht von ihnen<br/>haben. Wer dies nicht tut, &#252;ber den wollen<br/>wir scharf richten, wie es Recht ist, und was immer<br/>uns &#252;ber diesen geurteilt wird, davon wollen<br/> wir nichts erlassen und darin niemanden &#252;bersehen<br/>oder schonen. Und wir gebieten auch den<br/>F&#252;rsten, da&#223; sie mit Bu&#223;e diejenigen zwingen, die<br/>von ihnen Gericht haben, da&#223; sie dem Recht gem&#228;&#223;<br/> richten und nichts von der Bu&#223;e erlassen, die<br/>ihnen durch Urteil zugesprochen wird. Wir setzen<br/>und gebieten, da&#223; kein Richter jemanden (anders)<br/>in die Acht tue als &#246;ffentlich und da&#223; kein Richter<br/> jemanden aus der Acht entlasse, er habe sich denn<br/>Gewi&#223;heit dar&#252;ber verschafft, da&#223; dem Kl&#228;ger<br/>nach des Landes Gewohnheit Recht gesprochen<br/>werde. Tut dies der Richter nicht, dann soll der<br/>Kaiser dar&#252;ber richten, wie es Recht ist. Wir erlassen<br/>und verordnen: Was jedem Richter an Gewette<br/>zusteht, wenn er den Ge&#228;chteten aus der<br/> Acht entl&#228;&#223;t, da&#223; er dies nehme und nicht erlasse,<br/>damit die Leute umso<br/>[Rechte Spalte:]<br/>ungerner in die Acht kommen. Wir wollen auch<br/>von unserem Recht nichts erlassen. Wir verbieten<br/>nachdr&#252;cklich, da&#223; jemand irgendeinen Muntmann<br/> habe. Wir setzen und gebieten, da&#223; man<br/>die Pfahlb&#252;rger allenthalben aufgebe. Wir wollen<br/>auch in unseren St&#228;dten keine haben und wollen<br/> auch nicht, da&#223; jemand anders sie habe. Wir verbieten<br/>bei unserer Huld, da&#223; irgend jemand einen<br/>anderen um irgendwelchen Gutes durch das<br/>Land geleite, es sei denn, er habe das Geleitrecht<br/>vom Reich. Wir setzen und gebieten, da&#223; niemand<br/>einen Ge&#228;chteten bei sich aufnehme oder beherberge.<br/>Wer das tut, wird er dessen &#252;berf&#252;hrt, wie<br/> es Recht ist, so ist er gleicherweise in Schuld und<br/>man soll &#252;ber ihn richten wie &#252;ber einen Ge&#228;chteten.<br/>Macht er sich aber vor Gericht von der Anklage<br/>frei, wie es Recht ist, mit sieben gerichtsf&#228;higen<br/>M&#228;nnern durch Eid auf die Reliquien, da&#223;<br/> er nichts davon wisse, da&#223; er (den er beherbergt<br/>hat) ein Ge&#228;chteter war, so soll er unschuldig<br/>sein. Wo immer man den Ge&#228;chteten ausweist<br/> oder angreift, soll diesen niemand sch&#252;tzen. Wer<br/>immer ihn verteidigt, wird er dessen &#252;berf&#252;hrt,<br/>wie es Recht ist, da&#223; er ihn wissentlich gesch&#252;tzt<br/>hat, der soll gleicherweise in Schuld sein, und man<br/>soll &#252;ber ihn richten wie &#252;ber einen Ge&#228;chteten.<br/> In welche Stadt der Ge&#228;chtete kommt, den soll<br/>man dort nicht aufnehmen, und wer ihm B&#246;ses<br/>zuf&#252;gt, das soll niemand wehren. Ihm soll niemand<br/>etwas verkaufen noch schenken, und es<br/>soll ihm niemand etwas abkaufen, und man soll<br/>ihn meiden in allen Dingen. Nimmt eine Stadt ihn<br/>gemeinschaftlich und wissentlich auf, ist sie ummauert,<br/> der Richter, in dessen Gerichtsbezirk sie<br/>liegt, der soll sie (die Mauern) niederbrechen.<br/>&#220;ber den Wirt, der ihn aufnimmt, soll man wie<br/> &#252;ber einen"
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034"
+                                                },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f2vannotationen.json/3d5e18026",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Dunkelblau mit Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034#xywh=1007,867,214,161"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f2vannotationen.json/3d5e638561",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> oder enphangen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034#xywh=1502,367,83,81"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f2vannotationen.json/3d5e638612",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> unde dem richter."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034#xywh=1626,743,81,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f2vannotationen.json/3d5e638662",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> recht statt gerichte."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034#xywh=1565,1078,163,71"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f2vannotationen.json/3d5e638712",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> swer den wert."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034#xywh=2560,1501,100,85"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f2vannotationen.json/3d5e638762",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> man."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034#xywh=2327,1701,87,68"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f2vannotationen.json/3d5e638812",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> icht statt ich."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00034#xywh=1908,1953,79,90"
+                                             }]
+                    }

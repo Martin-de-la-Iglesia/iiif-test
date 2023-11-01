@@ -1,0 +1,115 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json/1",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Transkription, linke Spalte:]<br/><h4> Liber primus </h4> I.<br/>Von zcwen swertin.<br/>II.<br/>Geistlich gerichte unde werltlich zu suchene.<br/>III.<br/>Von sechs werlden unde herschilden unde von<br/>der sippe.<br/>IIII.<br/>Wer kein erbe nemen ensal.<br/>V.<br/>Wo man erbe unde gerade nemen sal.<br/>VI.<br/>Swer das erbe nimt, der gilt di schult.<br/>VII.<br/> Ab ein <i>man</i> vorsachet, des man en zciet.<br/>VIII.<br/>Uf eigen unde an sin recht unde an sinen lip, sune<br/>unde orvede zcu tune.<br/>IX.<br/>Swer globet, eigen zu gebne unde zu lasene.<br/>X.<br/>Gibit der vater dem sone ros unde phert.<br/>XI.<br/>Helt der vater oder di muter kindere in vormunde.<br/> XII.<br/>Ab lute ir gut zusamne habin.<br/>XIII.<br/>Von absunderunge der kindere.<br/> XIIII.<br/>Von lene zcu teilne.<br/>XV.<br/>Swer varnde gut liet.<br/>XVI.<br/> Erwerbin ander recht unde den eigen vri lest.<br/>XVII.<br/>Vri unde echt behelt des vater recht. Unde wer das<br/>erbe nimt von <i>deme</i> Swabe<i>n</i> .<br/>XVIII.<br/>Von de<i>n</i> rechtin wider Karles willen.<br/>XIX.<br/>Von swebischeme rechte.<br/>XX.<br/>Was man gibt zu morgengabe. Unde alse sich<br/> di witewe von den kinderen scheidet.<br/>XXI.<br/>Morgengabe unde eigen zu irme libe. Wo si<br/>is behelt unde vorluset.<br/>XXII.<br/>Wo di witewe scheidet von dem erbin. Von<br/>gesinde unde von hergewete.<br/>XXIII.<br/>Von kinderin vormunden.<br/>XXIIII.<br/>Von morgengabe, musteil unde gerade.<br/> XXV.<br/>Der phaffe teilt mit deme brudere. Unde ab sich<br/>lute begeben.<br/> XXVI.<br/>Begibet sich ein kint. Swer sin gut hat.<br/>XXVII.<br/>Iclich man unde wip von ritters art erbet zcweier<br/>wegene.<br/>[Rechte Spalte:]<br/>XXVIII.<br/>Erbelos irstirbet hergewete oder gerade.<br/>XXIX.<br/>Bis swenne man sich vorswige<i>n</i> <i>mag</i> an eigene.<br/>XXX.<br/>Erbe enphet man noch des landis rechte.<br/>XXXI.<br/>Man unde wip enhaben kein gezweit gut.<br/> XXXII.<br/>Kein wip mag behalden zu eigene lipgedinge.<br/>XXXIII.<br/>Ab ein wip kint treit na des mannes tode.<br/>XXXIIII.<br/>Von eigene zu gebene. Unde wider zu liene<br/>unde zu lasene.<br/>XXXV.<br/>Von begrabeneme schazce. Unde silber zu brechene.<br/>XXXVI.<br/>Von kinderen zu vru unde zu spete geborn.<br/>XXXVII.<br/>Wer eins mannes wip behuret oder wip odir<br/>magit notiget. Unde von rechtelosen luten.<br/>XXXVIII.<br/>Von des riches achte.<br/> XXXIX.<br/>Wer das heise isen tragen sal.<br/>XL.<br/>Swer truwelos beredit wirt.<br/> XLI.<br/>Claget mait oder witewe uber iren vormunden.<br/>XLII.<br/>Wenne ein man vormunden haben mag, ab he<br/>wil. Unde wenne he en brengin sal.<br/>XLIII.<br/> Wen man den vrouwen vormunde gebin sal.<br/>XLIIII.<br/>Wenne der richter vrouwen vormunden sal.<br/>XLV.<br/>Ein man is vormunde sins wibes. Alse he stirbet,<br/>so ist is ir swertmag. Si enmac ouch nicht<br/>vorgebin an<i>e</i> irs mannes willen.<br/>XLVI.<br/>Meide unde wip musen vormunden habin. Ir<br/> eide sullen si selbe tun.<br/>XLVII.<br/>Wie lange des richters vormundeschaft wert.<br/>XLVIII.<br/>Rechtelose lute darben vormunden unde lame lu-<br/>te, is enge zu kamphe. Alsus wert man einen toten.<br/>XLIX.<br/> Mit kemphin mag ein man wol weren sich.<br/>L.<br/>Sprichit ein gewunt man zu kamphe an. Swer<br/>ouch den anderen gewunt vor gerichte vurt.<br/>LI.<br/> Is ist mancher echtelos unde nicht rechtelos.<br/>Von den vier anen.<br/>LII.<br/> Wen ein man sin gut vorgeben mag."
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038"
+                                                },
+                                    {
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json/2",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Übersetzung, linke Spalte:]<br/><h4> Erstes Buch </h4> <br/> I.<br/>Von den zwei Schwertern {folio 10 recto}.<br/>II.<br/>(Wie) geistliches und weltliches Gericht aufzusuchen<br/>sind {folio 10 recto/verso}.<br/>III.<br/>Von den sechs Weltaltern und den Heerschilden<br/> und von der Verwandtschaft {folio 10 verso-11<br/>verso}.<br/>IV.<br/>Wer kein Erbe nehmen darf {folio 11 verso}.<br/>V.<br/>Wie man Erbe und Gerade nehmen soll {folio 11<br/>verso/12 recto}.<br/>VI.<br/>Wer das Erbe nimmt, der bezahlt die Schuld {folio<br/>12 recto}.<br/>VII.<br/>Wenn ein Mann bestreitet, wessen man ihn bezichtigt<br/>hat {folio 12 verso}.<br/>VIII.<br/> Wie man auf Grundeigentum, sein Recht und sein<br/>Leben S&#252;hne und Urfehde schw&#246;rt {folio 12 verso}.<br/>IX.<br/>Wer gelobt, Grundeigentum zu &#252;bergeben und<br/>aufzulassen {folio 12 verso}.<br/>X.<br/>Gibt der Vater dem Sohn Streitro&#223; und Pferd {folio<br/>13 recto}.<br/>XI.<br/> Behalten der Vater oder die Mutter die Vormundschaft<br/>&#252;ber (ihre) Kinder {folio 13 verso}.<br/>XII.<br/>Wenn Leute ihr Gut gemeinsam haben {folio 13 verso}.<br/>XIII.<br/>Von der Absonderung von Kindern {folio 13 verso}.<br/> XIV.<br/>Von Lehen, das zu teilen (ist) {folio 14 recto}.<br/>XV.<br/>Wer Fahrhabe verleiht {folio 14 recto}.<br/>XVI.<br/>Erwerben anderen Rechts und Freilassen des<br/>Leibeigenen {folio 14 verso}.<br/>XVII.<br/>Frei und ehelich (geborenes Kind) erh&#228;lt das<br/>Recht des Vaters. Und wer das Erbe von dem<br/>Schwaben nimmt {folio 14 verso}.<br/>XVIII.<br/>Von den Rechten gegen (Kaiser) Karls Willen {folio<br/>14 verso/15 recto}.<br/>XIX.<br/> Von schw&#228;bischem Recht {folio 15 recto}.<br/>XX.<br/>Was man zur Morgengabe gibt {folio 15 recto}.<br/>Und wie sich die Witwe von den Kindern trennt<br/> {folio 15 verso}.<br/>XXI.<br/>Morgengabe und Grundeigentum zu ihren Lebzeiten<br/>{folio 15 verso}. Wie sie (die Frau) es beh&#228;lt<br/>und verliert {folio 16 recto}.<br/>XXII.<br/>Wie sich die Witwe von dem Erben trennt {folio<br/>16 recto}. Von der Dienerschaft und vom Heergew&#228;te<br/> {folio 16 verso}.<br/>XXIII.<br/>Vom Vormund der Kinder {folio 16 verso/17<br/> recto}.<br/>XXIV.<br/>Von Morgengabe, Musteil und Gerade {folio 17<br/> recto/verso}.<br/>XXV.<br/>Der Weltgeistliche teilt mit dem Bruder. Und<br/> wenn sich Leute ins Kloster begeben {folio 17<br/>verso}.<br/>XXVI.<br/> Begibt sich ein Kind in ein Kloster. Wer sein Gut<br/>in H&#228;nden h&#228;lt {folio 17 verso}.<br/>XXVII.<br/>Jeder Mann und jede Frau von ritterlichem Stand<br/> vererben auf zweierlei Weise {folio 17 verso}.<br/>[Rechte Spalte:]<br/>XXVIII.<br/>(Wenn) Heergew&#228;te oder Gewere im Todesfall<br/>ohne Erben hinterlassen werden {folio 18 recto}.<br/>XXIX.<br/>Innerhalb welcher Zeit man den Anspruch auf<br/>Grundeigentum verlieren kann {folio 18<br/>recto}.<br/> XXX.<br/>Erbe empf&#228;ngt man nach des Landes Recht {folio<br/>18 recto}.<br/> XXXI.<br/>Mann und Frau haben kein getrenntes Gut {folio<br/>18 recto}.<br/> XXXII.<br/>Keine Frau kann Leibgedinge als Eigentum behalten<br/>{folio 18 recto/verso}.<br/>XXXIII.<br/>Wenn eine Frau ein Kind nach dem Tod des<br/> Mannes tr&#228;gt {folio 18 verso}.<br/>XXXIV.<br/>Vom Ver&#228;u&#223;ern von Grundeigentum. Und<br/>vom Wiederverleihen und Auflassen {folio 18<br/> verso/19 recto}.<br/>XXXV.<br/>Von vergrabenem Schatz. Und vom Abbau des<br/> Silbers {folio 19 recto}.<br/>XXXVI.<br/>Von Kindern, die zu fr&#252;h oder zu sp&#228;t geboren<br/>sind {folio 19 recto}.<br/>XXXVII.<br/>Wer mit der Frau eines anderen Mannes hurt<br/>oder eine Frau oder ein M&#228;dchen notz&#252;chtigt.<br/> Und von rechtlosen Leuten {folio 19 recto}.<br/>XXXVIII.<br/>Von der Reichsacht {folio 19 verso}.<br/>XXXIX.<br/>Wer das hei&#223;e Eisen tragen mu&#223; {folio 19<br/> verso}.<br/>XL.<br/>Wer als treulos &#252;berf&#252;hrt wird {folio 19 verso}.<br/> XLI.<br/>Klagt ein M&#228;dchen oder eine Witwe &#252;ber ihren<br/>Vormund {folio 19 verso}.<br/>XLII.<br/>Wann ein Mann einen Vormund haben kann,<br/> wenn er es will. Und wann er ihn vorbringen<br/>mu&#223; {folio 20 recto}.<br/> XLIII.<br/>Wann man den Frauen einen Vormund geben<br/>soll {folio 20 recto}.<br/> XLIV.<br/>Wann der Richter Vormund der Frauen sein<br/>mu&#223; {folio 20 recto}.<br/> XLV.<br/>Ein Mann ist Vormund seiner Frau. Wenn er<br/>stirbt, so ist es ihr Schwertmage. Sie kann auch<br/>nichts ver&#228;u&#223;ern ohne die Einwilligung ihres<br/> Mannes {folio 20 verso}.<br/>XLVI.<br/>M&#228;dchen und Frauen m&#252;ssen einen Vormund<br/> haben. Ihre Eidesleistung sollen sie selbst vor nehmen<br/>{folio 20 verso}.<br/> XLVII.<br/>Wie lange die Vormundschaft des Richters<br/>dauert {folio 20 verso}.<br/>XLVIII.<br/>Rechtlose Leute haben keinen Vormund,<br/>ebenso gel&#228;hmte Leute, es sei denn, es geht auf<br/>einen gerichtlichen Zweikampf hinaus. Ebenso<br/>verteidigt man einen Toten {folio 20 verso/21<br/> recto}.<br/>XLIX.<br/>Mit einem Lohnk&#228;mpfer kann sich ein Mann<br/>durchaus verteidigen {folio 21 recto)}.<br/>L.<br/>Fordert ein verwundeter Mann zum gerichtlichen<br/>Zweikampf auf. Wer auch den anderen<br/>verwundet vor Gericht bringt {folio 21 recto}.<br/>LI.<br/>Es ist mancher gerichtsunf&#228;hig und nicht zugleich<br/>rechtlos. Von den vier Ahnen {folio 21<br/>verso}.<br/> LII.<br/>Wann ein Mann sein Grundeigentum ver&#228;u&#223;ern<br/>kann {folio 21 verso}."
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038"
+                                                },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json/3d5e639565",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> man."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038#xywh=1164,689,54,76"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json/3d5e639615",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> deme."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038#xywh=1328,1472,61,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json/3d5e639665",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> swaben statt swabe."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038#xywh=1354,1469,132,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json/3d5e639715",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> den statt dem."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038#xywh=1154,1543,102,70"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json/3d5e639765",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> mag."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038#xywh=2401,367,81,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json/3d5e639816",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> swigen statt swige."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038#xywh=2333,371,118,73"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json/3d5e639866",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> ane statt an."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038#xywh=2117,1650,74,59"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f4vannotationen.json/3d5e672522",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Buchangabe</b><br/>Beschreibung:<br/> Erstes Buch Landrecht."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00038#xywh=1372,194,420,193"
+                                             }]
+                    }

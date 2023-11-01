@@ -1,0 +1,137 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/1",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Transkription, linke Spalte:]<br/><i>lu</i>ten, di wir selbe nicht gehes vorriten mu-<br/>gen von unsen manchvalden unmusen.<br/>Der selbe schriber sal ein leie sin: ab he andirs<br/> tu, denne recht ist, das is im an den lip ge.<br/> <h1> Dis is von den geistlichen Sachen. </h1> <br/> <b>W</b>ir gebiten, das man in stetin unde in<br/>dorfern allenthalben in unsem ri-<br/>che an geistlichen Sachen halde der bischo-<br/>ve, der erczpristere unde der lute pristere recht<br/>unde gebot unde das in des nimant wider si<br/>mit keiner gewalt.<br/> <h1> Dis is von den voitin der gotishusere. </h1> <br/> <b>W</b>ir sezcin unde gebiten<br/>alse recht ist unde vil vesteclichen, das<br/> aller der gotishusere voite den gotishuseren<br/>vorsin unde si beschirmen uf ir voitien,<br/>alse is zu gote wol ste, unde ouch unser hul-<br/>de da mite behalden, unde sich an den gotis-<br/>husern huten, da ir voitie ist, also das kei-<br/>ne clage von en kume. Swer das nicht tut,<br/>kumt is uns zcu clage, wir richten ubir<br/>den voit so vesteclichen, das wir nichtes<br/> dar an schonen. Wir vorbiten bi unsen<br/>hulden, das imant durch keines voi-<br/>tes schulde noch im zcu leide der gotishu-<br/>ser gut, das sine voitie ist, wedir burne<br/>noch roube noch phende. Swer is dar uber<br/> tut, dem voite zcu leide, wirt he sin ubir-<br/>zcuget, alse recht ist, den sal man zu achte<br/>tun unde sal en us der achte nicht lan, he<br/>engelde den schadin drivalt, alse recht<br/>ist. Unde suln di zcwei teil deme gotishuse<br/>unde das dritte teil dem voite werdin. Wir<br/>[Rechte Spalte:]<br/>vorbiten, das imant phende an des richters<br/>urlop. Swer is abir tut, uber den sal man richten<br/>als ubir einen roubere.<br/> <h1> Dis is, wer do roub kouft. </h1> <br/> <b>W</b>ir sezcin unde<br/>gebiten, swer wissentlichen roup kou-<br/>fet odir dubish gut oder rouber <i>oder dip</i> wissentlichen<br/>behelt unde in sime huse zcert, unde nicht ech-<br/>tere sint, wirt he des ubirzcuget, alse recht<br/>ist, zcu hant sal he zcwivalt gelden <i>ienem sin gut,</i> deme is<br/>genomen ist, is si dubig odir roubig. Wirt<br/>abir he des ubirredet, alse recht ist, das he das<br/>zcu dem anderen male getan hat, ist das<br/>gut roubig, man richtet ubir en alse uber<br/>einen rouber; ist is abir dubig, man sal<br/>ubir en richten alse ubir einen dip.<br/> <h1> Von der herren geburt. </h1> <br/> <b>N</b>u vornemet<br/>umme der herren geburt von de-<br/>me lande zcu Sachsen. Der von Anehalt<br/>unde di von Brandinburg unde di von Orla-<br/> munde unde di mark<i>g</i>reven von Missene<br/>unde di von Bren, dise vorsten sin alle Swa-<br/>bin. Under den vrien herren <i>sin Swaben</i> di von<br/>Hakenburne unde di von Gnercz unde di<br/>von Mochele. Under des riches schephen sin Swaben di<br/>von Tubule, di von Edeleresdorf, Heinrich<br/> Judas <i>von Snetlinge,</i> der voit Albrecht von Spandouwe<br/>unde Alverig unde Cunrat von Snetlinge<br/>unde Strapen, kint von Jersleve, Anne von<br/> Irkesdorf, Herman von Meringe, Heidolves<br/>kindere von Winninge unde di von Sedorf,<br/>di sin alle Swabin. Di lantgreven von<br/>Doringen sin Vranken, unde di von Regenstein"
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036"
+                                                },
+                                    {
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/2",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Übersetzung, linke Spalte:]<br/>Leuten, die wir selbst nicht schnell ereichen k&#246;nnen<br/>wegen unserer mannigfachen Verpflichtungen.<br/>Derselbe Schreiber soll ein Laie sein, damit -<br/>wenn er anderes tue als das, was Recht ist - es<br/>ihm an das Leben gehe.<br/> <h1> Von geistlichen Angelegenheiten. </h1> <br/> <b>W</b>ir gebieten, da&#223; man in St&#228;dten und D&#246;rfern allenthalben<br/> in unserem Reich in geistlichen Angelegenheiten<br/>der Bisch&#246;fe, Erzpriester und Leutepriester<br/>Recht und Gebot halte und da&#223; sich niemand<br/> ihnen widersetze, mit keiner Gewalt.<br/> <h1> Von den V&#246;gten der Gottesh&#228;user. </h1> <br/> <b>W</b>ir setzen und gebieten als recht und best&#228;ndig,<br/>da&#223; allen Gottesh&#228;usern V&#246;gte vorstehen und sie<br/>so beschirmen in ihren Vogteien, wie es Gott<br/>wohlgef&#228;llt, und sie damit auch unser Wohlwollen<br/> behalten, und so auf die Gottesh&#228;user achthaben,<br/>&#252;ber die ihre Vogtei besteht, da&#223; keine Klage von<br/>ihnen kommt. Wer das nicht tut, kommt es zur<br/>Klage vor uns, wir werden &#252;ber den Vogt so hart<br/>richten, da&#223; wir ihn in nichts daran schonen. Wir<br/>verbieten bei unserer Huld, da&#223; jemand um der<br/>Schuld des Vogtes willen oder um ihm zu schaden<br/>das Gut der Gottesh&#228;user, die zu seiner Vogtei<br/>geh&#246;ren, weder brandschatze, raube noch pf&#228;nde.<br/>Wer es dennoch tut, dem Vogt zu Schaden, wird<br/>er dessen &#252;berf&#252;hrt, wie es Recht ist, den soll man<br/>in die Acht tun und soll ihn nicht aus der Acht<br/>entlassen, er vergelte denn den Schaden dreifach,<br/>wie es Recht ist. Und es sollen zwei Teile an das<br/>Gotteshaus und der dritte Teil an den Vogt fallen.<br/> Wir<br/>[Rechte Spalte:]<br/>verbieten, da&#223; jemand ohne des Richters Erlaubnis<br/>pf&#228;nde. Wer es dennoch tut, &#252;ber den soll man<br/>richten wie &#252;ber einen R&#228;uber.<br/> <h1> Von dem, der Raubgut kauft. </h1> <br/> <b>W</b>ir setzen und gebieten: Wer wissentlich Geraubtes<br/>kauft oder Diebesgut oder wer R&#228;uber oder<br/>einen Dieb wissentlich aufnimmt und in seinem<br/>Hause verk&#246;stigt, und wenn es keine Ge&#228;chteten<br/> sind, wird er dessen &#252;berf&#252;hrt, wie es Recht ist,<br/>sogleich soll er jenem sein Gut, dem es genommen<br/>ist, zweifach vergelten, es sei Diebesgut oder Geraubtes.<br/>Wird er aber dessen &#252;berf&#252;hrt, wie es<br/> Recht ist, da&#223; er dies zum zweiten Mal getan hat,<br/>handelt es sich um Geraubtes, man richte &#252;ber ihn<br/>wie &#252;ber einen R&#228;uber; handelt es sich um Diebesgut,<br/>man soll &#252;ber ihn richten wie &#252;ber einen<br/> Dieb.<br/> <h1> Von der Herren Geburt. </h1> <br/> <b>N</b>un vernehmt von der Herkunft der Herren in<br/>dem Lande Sachsen. Der von Anhalt und die von<br/>Brandenburg und die von Orlam&#252;nde und die<br/> Markgrafen von Mei&#223;en und die von Brehne,<br/>diese F&#252;rsten sind alle Schwaben. Unter den<br/>freien Herren sind Schwaben die von Hakeborn<br/>und die von Gneiz und die von M&#252;cheln.<br/>Unter des Reiches Sch&#246;ffen sind Schwaben die von Dr&#246;bel,<br/>die von Eisdorf, Heinrich Judas von Schneidlingen,<br/>der Vogt Albrecht von Spandau und Alberich<br/>und Konrad von Schneidlingen, und Schrapen,<br/>Junker von Gersleben, Anno von Jerdingsdorf,<br/>Hermann von Mehringen, Heidolfs Kinder<br/>von Winningen und die von Seedorf. Die Landgrafen<br/>von Th&#252;ringen sind Franken, und die von<br/>Regenstein"
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036"
+                                                },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/3d5e18126",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Dunkelblau mit Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036#xywh=1029,636,218,153"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/3d5e18176",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036#xywh=1015,1024,218,149"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/3d5e18227",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Dunkelblau mit Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036#xywh=1826,510,203,138"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/3d5e18277",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Klein n. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036#xywh=1835,1245,222,169"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/3d5e639163",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> luten statt boten."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036#xywh=1074,332,115,71"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/3d5e639214",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> oder dip."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036#xywh=2421,630,80,65"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/3d5e639264",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> ienem sin gut."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036#xywh=2471,810,69,71"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/3d5e639314",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> markgreuen statt markereuen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036#xywh=2175,1523,244,69"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/3d5e639364",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> sin swaben."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036#xywh=2595,1751,65,67"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3vannotationen.json/3d5e639414",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> von snetlinge."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00036#xywh=2005,1898,80,73"
+                                             }]
+                    }

@@ -1,0 +1,115 @@
+{
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json",
+                        "@type": "sc:AnnotationList",
+                        "resources": [{
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json/1",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Transkription, linke Spalte:]<br/>echter unde sin hus zcuvuren. Ist di stat unge-<br/>muret, si sal der richter burnen. Das sal nimant<br/>wern. Sezcit sich di stat da wider, stat unde lute sint<br/>rechtelos. Mag das der richter nicht getun, so<br/>sal man is dem keiser kundigen, unde sal hes<br/>tun mit siner <i>keiserlichen</i> gewalt.<br/> <h1> Von des keisers hoferichtere. </h1> <br/> <b>W</b>ir sezcin, das unse hof<br/>habe einen hoverichter, der ein vri man<br/> si. Der sal bi dem ammechte bliben zcum min-<br/>sten ein jar, ab he sich wol unde rechte beheldet.<br/>Der sal alle tage zcu gerichte siczen ane an de-<br/> me suntage unde an anderin grosen hochzci-<br/>ten, unde sal allen luten richten, di im clagen,<br/>unde von allen luten sunder vorsten unde<br/>ane andire hoe lute, swo is get an iren lip<br/>odir an ir recht <i>oder an ire ere,</i> an ir erbe odir an ir len oder<br/>andir hoe sache. Di wolle wir uns selbe be-<br/>haldin. He sal nimande in di achte tun noch<br/>dar us lan. Das wolle wir selbe tun. He sal ni-<br/>mande vortagen, he tu is mit unseme sun-<br/>dirlicheme gebote. Der richter sal swern zcu<br/>den heiligen, das he von nimande ichein<br/>gut neme umme kein gerichte, noch durch<br/>libe noch durch leide noch durch bete<br/>noch durch vorchte anders richte, wen noch<br/>rechte unde alse im irteilt wirt unde he von si-<br/> nen sinnen aller beste kan ane aller hande<br/>val<i>s</i>ch. Der richter sal nemen alle di gewette,<br/>di im gewettit werdin unde vor im beclait wer-<br/> din, von den, di us der achte kumen, <i>unde sal<br/>der nicht lasin, darumme das man deste<br/>ungerner in di achte kume.</i> Dise<br/>gewette gebe wir deme richtere, das he deste<br/>willeclicher richte unde ouch von nimande<br/>[Rechte Spalte:]<br/>ichein ander gut umme gerichte neme. Der<br/>selbe richter sal haben einen schriber, der an-<br/>schribe alle, di in di achte kumen unde von<br/>wes clage si in di achte kumen, unde di sache, dar<br/>umme si drin sin kumen, unde der namen, di<br/>us der achte kumen, unde di sache, worum-<br/>me si us der achte kumen, unde welches ta-<br/>gis si us der achte kumen. Unde sal di burgen<br/>schriben, di dem clegere gesezcit werdin, unde<br/>wenne si sin unde wi si heisin. Unde sal anscri-<br/>ben di gewisheit, di man dem clegere tut<br/>noch des landis gewonheit. Unde sal schri-<br/>ben alle di namen, di zcu schedelichen luten<br/>dem lande besait werdin, unde wi unde von<br/>weme si us den schulden kumen. Unde sal scri-<br/>ben, so si zcu rechte kumen unde us der achte<br/>kumen, so schribe he ire namen abe. <i> Unde sal</i> schri-<br/>ben alle di urteile, di von grosen sachen<br/>vor uns gesament werdin uf di rede, das<br/>man an sulchen Sachen di selben orteile<br/>stete hab<i>e</i>. Unde sal schriben das lant, wo<br/>di selbin orteile gesament werdin. Der selbe<br/>schriber sal nemen alle di brive, da um-<br/>me geclait si. Unde sal keine ander unmu-<br/>se haben. Der selbe schriber sal swern zu den<br/>heiligen, das he durch libe noch durch leide<br/> noch durch mite noch durch keiner hande<br/>ding schribe noch tu an sime ammechte,<br/>wen das recht ist, alse he sich allir beste kan<br/>virsten. Das habe wir dar umme gesezcit,<br/>wen is <i>uns</i> nuzce dunkit unde gut alle di, di in<br/>unseme riche sint, unde nemelichen allen"
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035"
+                                                },
+                                    {
+                                    "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json/2",
+                                        "@type": "oa:Annotation",
+                                        "motivation": "commenting",
+                                        "resource": {       
+                                        "@type": "cnt:ContentAsText",
+                                        "format": "text/html",
+                                        "chars": "[Übersetzung, linke Spalte:]<br/>Ge&#228;chteten richten und sein Haus zerst&#246;ren. Ist<br/>die Stadt nicht ummauert, so soll sie der Richter<br/>niederbrennen. Dies soll niemand verwehren. Widersetzt<br/>sich die Stadt, so sind sie und ihre Einwohner<br/>rechtlos. Kann dies der Richter nicht tun,<br/>so soll man es dem Kaiser bekannt machen und<br/>soll er es tun kraft seiner kaiserlichen Gewalt.<br/> <h1> Von des Kaisers Hofrichter. </h1> <br/> <b>W</b>ir setzen, da&#223; unser Hof einen Hofrichter habe,<br/>der freien Standes sei. Der soll mindestens ein Jahr<br/>im Amt bleiben, wenn er sich gut und gerecht<br/>verh&#228;lt. Er soll jeden Tag zu Gericht sitzen au&#223;er<br/> an Sonntagen und an anderen hohen Feiertagen.<br/>Und er soll allen Leuten Recht sprechen, die vor<br/>ihm klagen, und &#252;ber alle Leute au&#223;er F&#252;rsten<br/> und andere hochgestellte Personen, wenn es an<br/>ihr Leben oder an ihr Recht oder an ihre Ehre<br/>geht, an ihr Erbe oder an ihr Lehen oder an eine<br/> andere gro&#223;e Sache. Die wollen wir uns selbst<br/>vorbehalten. Er soll niemanden in die Acht tun<br/>noch daraus entlassen. Das wollen wir selbst tun.<br/>Er soll niemandem einen anderen Gerichtstermin<br/>ansetzen, er tue es denn auf unser ausdr&#252;ckliches<br/>Gebot hin. Der Richter soll auf die Reliquien<br/>schw&#246;ren, da&#223; er von niemandem irgendein Gut<br/> nehme um eines Urteils willen, noch durch Liebe<br/>oder Leid, Bitte oder Drohung anders richte als<br/>nach Recht, und wie ihm geurteilt wird und wie er<br/>es mit seinem Verstand am allerbesten vermag,<br/>ohne jeden Falsch. Der Richter soll alle Gewette,<br/>die ihm gezahlt und vor ihm beklagt werden, von<br/>denjenigen nehmen, die aus der Acht kommen,<br/>und davon nichts erlassen, damit man desto ungerner<br/>in die Acht komme. Diese Gewette geben<br/>wir dem Richter, damit er desto bereitwilliger<br/> richte und auch von niemandem<br/>[Rechte Spalte:]<br/>irgendein anderes Gut f&#252;r das Urteil nehme. Derselbe<br/>Richter soll einen Schreiber haben, der alle<br/>aufschreibe, die in die Acht kommen, und auf<br/>wessen Klage hin sie in die Acht kommen, und die<br/> Streitsache, um derentwillen sie dahinein gekommen<br/>sind, und die Namen derjenigen, die aus der<br/>Acht kommen, und die Sache, wegen der sie aus<br/> der Acht kommen, und an welchem Tag sie aus<br/>der Acht kommen. Und er soll die B&#252;rgen aufschreiben,<br/>die dem Kl&#228;ger gestellt werden, woher<br/> sie stammen und wie sie hei&#223;en. Und er soll die<br/>B&#252;rgschaft aufschreiben, die man dem Kl&#228;ger<br/>nach der Gewohnheit des Landes stellt. Und er<br/>soll alle die Namen derer aufschreiben, die als<br/> landsch&#228;dliche Leute beklagt werden, und wie<br/>und durch wen sie aus der Anschuldigung freikommen.<br/>Und er soll aufschreiben, wenn sie zu<br/> ihrem Recht und (wenn sie) aus der Acht kommen,<br/>so tilge er ihre Namen. Er schreibe alle die<br/>Urteile auf, die von gro&#223;en Rechtsstreitigkeiten<br/> vor uns vereinigt werden mit dem Zweck, da&#223;<br/>man in solchen Streitsachen dieselben Urteile zur<br/>Verf&#252;gung habe. Und er soll das Land aufschreiben,<br/>wo dieselben Urteile vereinigt werden. Derselbe<br/> Schreiber soll alle die Urkunden an sich<br/>nehmen, um die geklagt worden ist. Und er soll<br/>keine andere Besch&#228;ftigung haben. Derselbe<br/> Schreiber soll auf die Reliquien schw&#246;ren, da&#223; er<br/>weder aus Liebe noch Leid noch um einer Belohnung<br/>willen oder irgendeiner anderen Sache<br/>schreibe noch handle in seinem Amt, au&#223;er was<br/>Recht ist, wie er es am besten zu verstehen vermag.<br/>Dies haben wir deshalb verf&#252;gt, weil es uns<br/>n&#252;tzlich erscheint und gut all denen, die sich in<br/>unserem Reich aufhalten, und namentlich allen"
+                                            },
+                                            "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035"
+                                                },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json/3d5e17625",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Seitenangabe</b><br/>Beschreibung:<br/> Folio 3 recto."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035#xywh=2947,249,75,58"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json/3d5e18076",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textinitiale</b><br/>Beschreibung:<br/> Litera Groß W. Mennigrot."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035#xywh=490,945,330,202"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json/3d5e638862",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> keiserlichen."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035#xywh=866,882,94,87"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json/3d5e638913",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> oder an ire ere."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035#xywh=921,1705,87,85"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json/3d5e638963",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> unde sal der nicht lasin, darumme das man deste ungerner in di achte kume."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035#xywh=1403,2867,151,105"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json/3d5e639013",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> unde sal statt wir."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035#xywh=2457,1782,131,89"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json/3d5e639063",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> habe statt habin."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035#xywh=1776,2114,202,104"
+                                             },
+                                    {
+                                            "@id": "https://iiif.hab.de/object/mss_3-1-aug-2f/annotationen/f3rannotationen.json/3d5e639113",
+                                                "@type": "oa:Annotation",
+                                                "motivation": "commenting",
+                                                "resource": {       
+                                                "@type": "cnt:ContentAsText",
+                                                "format": "text/html",
+                                                "chars": "<b>Textlücke</b><br/>Beschreibung:<br/> uns."
+                                                    },
+                                                    "on": "https://iiif.hab.de/object/mss_3-1-aug-2f/canvas/mss_3-1-aug-2f_00035#xywh=1843,2966,92,99"
+                                             }]
+                    }
